@@ -1,5 +1,15 @@
 {
-  "insights": [],
-  "last_updated": null,
+  "insights": [
+    {
+      "date": "2026-03-20",
+      "performance": {
+        "date": "2026-03-20",
+        "note_articles": [],
+        "x_posts": []
+      },
+      "collected_at": "2026-03-20T13:57:41.186Z"
+    }
+  ],
+  "last_updated": "2026-03-20T13:57:41.186Z",
   "version": 1
 }
