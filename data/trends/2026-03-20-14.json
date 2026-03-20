@@ -1,0 +1,140 @@
+{
+  "collected_at": "2026-03-20T14:01:11.234Z",
+  "trends": [
+    {
+      "id": "trend-1774015271233-0",
+      "topic": "AI執筆のパクリ問題",
+      "category": "AI・LLM",
+      "summary": "アメブロのパクリ記事がトレンドに。AI使用でもオリジナル努力を無視した盗用が問題視され、ブロガー倫理が議論されている。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-03-20T14:01:11.233Z"
+    },
+    {
+      "id": "trend-1774015271233-1",
+      "topic": "AI特需株の動向",
+      "category": "AI・LLM",
+      "summary": "古河電気工業の株価がAI特需で上昇中だが、チャートが危険水域。トレンド逆行のリスク管理が重要視されている。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-03-20T14:01:11.233Z"
+    },
+    {
+      "id": "trend-1774015271233-2",
+      "topic": "Claude 1Mコンテキストウィンドウ",
+      "category": "AI・LLM",
+      "summary": "Claudeの100万トークンコンテキストが正式提供開始。追加料金なしで活用可能で、ビジネスAI戦略に影響大。",
+      "relevance_score": 0.95,
+      "source": "x",
+      "collected_at": "2026-03-20T14:01:11.233Z"
+    },
+    {
+      "id": "trend-1774015271233-3",
+      "topic": "OpenAIのAstral買収",
+      "category": "AI・LLM",
+      "summary": "OpenAIがuv/Ruff開発元Astralを買収。Pythonエコシステムの高速化が期待され、AI開発ツールの進化を促す。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-03-20T14:01:11.233Z"
+    },
+    {
+      "id": "trend-1774015271233-4",
+      "topic": "AI副業市場の過熱",
+      "category": "AI・LLM",
+      "summary": "自律型エージェントやパーソナライズ文体再現がバズり。AIマネジメント需要が高まり、2026年トレンドとして注目。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-03-20T14:01:11.233Z"
+    },
+    {
+      "id": "trend-1774015271233-5",
+      "topic": "ダサいスモールビジネスの魅力",
+      "category": "スモールビジネス",
+      "summary": "地味で泥臭いビジネスが最高。頭いい人が参入せず、フルコミットでNo.1を取れば大儲け可能と若手起業家に推奨。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-03-20T14:01:11.233Z"
+    },
+    {
+      "id": "trend-1774015271233-6",
+      "topic": "スモビジのメタ認知重要性",
+      "category": "スモールビジネス",
+      "summary": "事業成功要因を正しく分析。トレンド依存か普遍ニーズかを見極め、再現性を高める。自戒の声。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-03-20T14:01:11.233Z"
+    },
+    {
+      "id": "trend-1774015271233-7",
+      "topic": "M&A市場の年度末過熱",
+      "category": "M&A・事業承継",
+      "summary": "後継者不在企業が増え、存続のためのM&Aが活発。会社の売買決断がトレンドに。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-03-20T14:01:11.233Z"
+    },
+    {
+      "id": "trend-1774015271233-8",
+      "topic": "製造業M&Aのトレンド",
+      "category": "M&A・事業承継",
+      "summary": "株価・EBITDA考察でシナジー実行力が鍵。現場統合の解像度がM&A成功を左右。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-03-20T14:01:11.233Z"
+    },
+    {
+      "id": "trend-1774015271233-9",
+      "topic": "VercelのAI学習規約変更",
+      "category": "エンジニアリング",
+      "summary": "HobbyプランでAI学習がデフォルト有効に。知財保護のためオプトアウト推奨。自律型インフラ構築が進む。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-03-20T14:01:11.233Z"
+    },
+    {
+      "id": "trend-1774015271233-10",
+      "topic": "個人SaaSのAIドメイン特化",
+      "category": "エンジニアリング",
+      "summary": "汎用AI独占時代にRAG+専門DBで差別化。ドメイン知識が参入障壁となり、狭く深く刺す戦略がトレンド。",
+      "relevance_score": 0.95,
+      "source": "x",
+      "collected_at": "2026-03-20T14:01:11.233Z"
+    },
+    {
+      "id": "trend-1774015271233-11",
+      "topic": "AI時代の新人エンジニア育成",
+      "category": "エンジニアリング",
+      "summary": "生成コード依存を避け、Mermaidで自力読み解き力を養う。Qiitaトレンド記事で注目。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-03-20T14:01:11.233Z"
+    },
+    {
+      "id": "trend-1774015271233-12",
+      "topic": "eBay無在庫販売の商品発見",
+      "category": "マーケティング",
+      "summary": "トレンド分析と需要予測で売れる商品を見極め。民泊間取り図制作など隠れたビジネスチャンス。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-03-20T14:01:11.233Z"
+    },
+    {
+      "id": "trend-1774015271233-13",
+      "topic": "日経MJの最新トレンド",
+      "category": "マーケティング",
+      "summary": "マーケティング専門紙の編集長がトレンド解説。K-MIXラジオで消費動向を深掘り。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-03-20T14:01:11.233Z"
+    },
+    {
+      "id": "trend-1774015271233-14",
+      "topic": "大人のキッザニアの人気",
+      "category": "マーケティング",
+      "summary": "数分で完売の体験型イベント。大学生の生声から、推し経済の稼ぐ力ランキングでSnow Manが注目。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-03-20T14:01:11.233Z"
+    }
+  ]
+}
