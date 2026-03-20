@@ -151,8 +151,8 @@ async function publishNote(
 ): Promise<any> {
   const headers = buildNoteHeaders(auth);
 
-  // PUT /api/v1/text_notes/{numericId} で公開
-  const response = await fetch(`${NOTE_API_BASE}/api/v1/text_notes/${noteId}`, {
+  // PUT /v1/text_notes/{numericId} で公開
+  const response = await fetch(`${NOTE_API_BASE}/v1/text_notes/${noteId}`, {
     method: "PUT",
     headers,
     body: JSON.stringify({
