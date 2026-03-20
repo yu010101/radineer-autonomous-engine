@@ -1,16 +1,16 @@
 {
   "date": "2026-03-20",
-  "published_at": "2026-03-20T12:28:04.145Z",
+  "published_at": "2026-03-20T12:35:56.589Z",
   "results": [
     {
-      "title": "「AIが急に使えなくなった」と感じたら今すぐ試すべき5つの改善策",
+      "title": "一人起業家が「燃え尽き」を防ぐAI活用術：メンタル管理を自動化して事業を持続させる方法",
       "status": "error",
-      "error": "Error: Publish failed: 404 - {\"status\":404,\"error\":\"Not Found\"}"
+      "error": "Error: Publish failed: 404 - "
     },
     {
-      "title": "小規模事業者持続化補助金の採択率を30%→70%に上げる事業計画書作成術",
+      "title": "投資判断で迷っている経営者必見。AI金融データ分析が変える中小企業の資金戦略",
       "status": "error",
-      "error": "Error: Publish failed: 404 - {\"status\":404,\"error\":\"Not Found\"}"
+      "error": "Error: Publish failed: 404 - "
     }
   ]
 }
