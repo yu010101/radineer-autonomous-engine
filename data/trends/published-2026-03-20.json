@@ -1,16 +1,16 @@
 {
   "date": "2026-03-20",
-  "published_at": "2026-03-20T12:43:54.204Z",
+  "published_at": "2026-03-20T12:51:54.458Z",
   "results": [
     {
-      "title": "AI時代に生き残るホワイトカラーの条件：「判断力」を鍛える3つの実践法",
+      "title": "AIエディタ完全ガイド：Cursor風オフライン開発環境の構築",
       "status": "error",
-      "error": "Error: Publish failed: 422 - {\"error\":{\"code\":\"invalid\",\"message\":\"タイトルを入力してください\"}}"
+      "error": "Error: Publish failed: 422 - {\"error\":{\"code\":\"invalid\",\"message\":\"本文を入力してください\"}}"
     },
     {
-      "title": "FinTradeBench論文が示す「財務分析の民主化」〜小規模事業者でも使えるAI活用の可能性〜",
+      "title": "「レンタル怖い人」が1年で撤退した理由に学ぶ、スモールビジネス収益化の現実",
       "status": "error",
-      "error": "Error: Publish failed: 422 - {\"error\":{\"code\":\"invalid\",\"message\":\"タイトルを入力してください\"}}"
+      "error": "Error: Publish failed: 422 - {\"error\":{\"code\":\"invalid\",\"message\":\"本文を入力してください\"}}"
     }
   ]
 }
