@@ -144,28 +144,22 @@ async function createNoteDraft(
 
 async function publishNote(
   noteId: string,
+  title: string,
+  body: string,
+  tags: string[],
   auth: { sessionCookie: string; xsrfToken: string }
 ): Promise<any> {
   const headers = buildNoteHeaders(auth);
 
-  // 記事情報を取得
-  const noteResponse = await fetch(
-    `${NOTE_API_BASE}/v3/notes/${noteId}?draft=true&draft_reedit=false&ts=${Date.now()}`,
-    { headers }
-  );
-  const noteData = (await noteResponse.json()) as any;
-  const currentNote = noteData?.data || {};
-
-  // 公開
-  const response = await fetch(`${NOTE_API_BASE}/v3/notes/${noteId}/publish`, {
-    method: "POST",
+  // PUT /api/v1/text_notes/{numericId} で公開
+  const response = await fetch(`${NOTE_API_BASE}/api/v1/text_notes/${noteId}`, {
+    method: "PUT",
     headers,
     body: JSON.stringify({
-      title: currentNote.name || currentNote.title,
-      body: currentNote.body,
+      title,
+      body,
       status: "published",
-      tags: currentNote.tags || [],
-      publish_at: null,
+      tags: tags || [],
     }),
   });
 
@@ -218,7 +212,7 @@ async function publishToNote(): Promise<void> {
       const autoPublish = confidence >= thresholds.auto_publish_note.confidence_threshold;
 
       if (autoPublish && noteId) {
-        await publishNote(noteId, auth);
+        await publishNote(noteId, article.title, article.body, article.tags || [], auth);
         log(`Auto-published: "${article.title}" (confidence: ${confidence})`);
         results.push({
           title: article.title,
