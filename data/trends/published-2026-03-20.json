@@ -1,16 +1,16 @@
 {
   "date": "2026-03-20",
-  "published_at": "2026-03-20T12:35:56.589Z",
+  "published_at": "2026-03-20T12:43:54.204Z",
   "results": [
     {
-      "title": "一人起業家が「燃え尽き」を防ぐAI活用術：メンタル管理を自動化して事業を持続させる方法",
+      "title": "AI時代に生き残るホワイトカラーの条件：「判断力」を鍛える3つの実践法",
       "status": "error",
-      "error": "Error: Publish failed: 404 - "
+      "error": "Error: Publish failed: 422 - {\"error\":{\"code\":\"invalid\",\"message\":\"タイトルを入力してください\"}}"
     },
     {
-      "title": "投資判断で迷っている経営者必見。AI金融データ分析が変える中小企業の資金戦略",
+      "title": "FinTradeBench論文が示す「財務分析の民主化」〜小規模事業者でも使えるAI活用の可能性〜",
       "status": "error",
-      "error": "Error: Publish failed: 404 - "
+      "error": "Error: Publish failed: 422 - {\"error\":{\"code\":\"invalid\",\"message\":\"タイトルを入力してください\"}}"
     }
   ]
 }
