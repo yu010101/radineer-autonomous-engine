@@ -1,12 +1,12 @@
 {
-  "collected_at": "2026-03-20T12:18:18.751Z",
+  "collected_at": "2026-03-20T12:25:49.463Z",
   "trends": [
     {
       "id": "http://arxiv.org/abs/2603.19225v1",
       "topic": "FinTradeBench: A Financial Reasoning Benchmark for LLMs",
       "category": "AI論文",
-      "summary": "Real-world financial decision-making is a challenging problem that requires reasoning over heterogeneous signals, including company fundamentals derived from regulatory filings and trading signals computed from price dynamics. Recently, with the advancement of Large Language Models (LLMs), financial [金融意思決定のためのLLMベンチマークで、スモールビジネスの投資判断や財務分析の自動化に直接応用可能。コンテンツ制作においても金融レポート生成、自動化では取引判断の自動化に活用できる。]",
-      "relevance_score": 0.9,
+      "summary": "Real-world financial decision-making is a challenging problem that requires reasoning over heterogeneous signals, including company fundamentals derived from regulatory filings and trading signals computed from price dynamics. Recently, with the advancement of Large Language Models (LLMs), financial [金融意思決定のベンチマークは、スモールビジネスの投資判断や財務分析の自動化に直接活用でき、LLMを使った金融推論は中小企業の経営支援ツールとして高い実用性がある]",
+      "relevance_score": 0.85,
       "source": "arxiv",
       "raw_data": {
         "authors": [
@@ -26,14 +26,14 @@
           "cs.CE"
         ]
       },
-      "collected_at": "2026-03-20T12:18:18.751Z"
+      "collected_at": "2026-03-20T12:25:49.463Z"
     },
     {
       "id": "http://arxiv.org/abs/2603.19220v1",
       "topic": "Nemotron-Cascade 2: Post-Training LLMs with Cascade RL and Multi-Domain On-Policy Distillation",
       "category": "AI論文",
-      "summary": "We introduce Nemotron-Cascade 2, an open 30B MoE model with 3B activated parameters that delivers best-in-class reasoning and strong agentic capabilities. Despite its compact size, its mathematical and coding reasoning performance approaches that of frontier open models. It is the second open-weight [30B MoEモデルでありながら3Bパラメータで動作する効率的なモデル。スモールビジネスでも導入可能な規模で、強力な推論能力とエージェント機能により様々なビジネスタスクの自動化とコンテンツ制作が可能。]",
-      "relevance_score": 0.85,
+      "summary": "We introduce Nemotron-Cascade 2, an open 30B MoE model with 3B activated parameters that delivers best-in-class reasoning and strong agentic capabilities. Despite its compact size, its mathematical and coding reasoning performance approaches that of frontier open models. It is the second open-weight [30B MoEモデルでありながら3Bパラメータで動作する効率性は、リソースが限られたスモールビジネスでの導入に適しており、推論能力とエージェント機能は業務自動化とコンテンツ生成の両方に活用できる]",
+      "relevance_score": 0.8,
       "source": "arxiv",
       "raw_data": {
         "authors": [
@@ -63,14 +63,34 @@
           "cs.CL"
         ]
       },
-      "collected_at": "2026-03-20T12:18:18.751Z"
+      "collected_at": "2026-03-20T12:25:49.463Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/2603.19182v1",
+      "topic": "Box Maze: A Process-Control Architecture for Reliable LLM Reasoning",
+      "category": "AI論文",
+      "summary": "Large language models (LLMs) demonstrate strong generative capabilities but remain vulnerable to hallucination and unreliable reasoning under adversarial prompting. Existing safety approaches -- such as reinforcement learning from human feedback (RLHF) and output filtering -- primarily operate at th [LLMの信頼性向上とハルシネーション対策は、スモールビジネスでのAI導入における重要な課題であり、プロセス制御アーキテクチャは自動化システムの品質保証に不可欠]",
+      "relevance_score": 0.75,
+      "source": "arxiv",
+      "raw_data": {
+        "authors": [
+          "Zou Qiang"
+        ],
+        "link": "https://arxiv.org/abs/2603.19182v1",
+        "categories": [
+          "cs.AI",
+          "cs.CL",
+          "cs.AI"
+        ]
+      },
+      "collected_at": "2026-03-20T12:25:49.463Z"
     },
     {
       "id": "http://arxiv.org/abs/2603.19191v1",
       "topic": "OS-Themis: A Scalable Critic Framework for Generalist GUI Rewards",
       "category": "AI論文",
-      "summary": "Reinforcement Learning (RL) has the potential to improve the robustness of GUI agents in stochastic environments, yet training is highly sensitive to the quality of the reward function. Existing reward approaches struggle to achieve both scalability and performance. To address this, we propose OS-Th [GUI操作の自動化フレームワークで、スモールビジネスの日常業務（データ入力、レポート作成、顧客管理など）の完全自動化を実現。人手に依存していた反復作業を大幅に効率化できる。]",
-      "relevance_score": 0.8,
+      "summary": "Reinforcement Learning (RL) has the potential to improve the robustness of GUI agents in stochastic environments, yet training is highly sensitive to the quality of the reward function. Existing reward approaches struggle to achieve both scalability and performance. To address this, we propose OS-Th [GUI自動化のための強化学習フレームワークは、スモールビジネスでの反復的なデスクワーク自動化に直接応用でき、人的リソースが限られた環境での業務効率化に貢献する]",
+      "relevance_score": 0.7,
       "source": "arxiv",
       "raw_data": {
         "authors": [
@@ -95,51 +115,28 @@
           "cs.AI"
         ]
       },
-      "collected_at": "2026-03-20T12:18:18.751Z"
+      "collected_at": "2026-03-20T12:25:49.463Z"
     },
     {
-      "id": "http://arxiv.org/abs/2603.19182v1",
-      "topic": "Box Maze: A Process-Control Architecture for Reliable LLM Reasoning",
+      "id": "http://arxiv.org/abs/2603.19222v1",
+      "topic": "Spectrally-Guided Diffusion Noise Schedules",
       "category": "AI論文",
-      "summary": "Large language models (LLMs) demonstrate strong generative capabilities but remain vulnerable to hallucination and unreliable reasoning under adversarial prompting. Existing safety approaches -- such as reinforcement learning from human feedback (RLHF) and output filtering -- primarily operate at th [LLMの信頼性向上アーキテクチャで、ビジネス用途での誤情報生成リスクを軽減。スモールビジネスがAIを安全に活用してコンテンツ制作や意思決定の自動化を行う際の基盤技術として重要。]",
-      "relevance_score": 0.75,
+      "summary": "Denoising diffusion models are widely used for high-quality image and video generation. Their performance depends on noise schedules, which define the distribution of noise levels applied during training and the sequence of noise levels traversed during sampling. Noise schedules are typically handcr [拡散モデルの改善は高品質な画像・動画生成に寄与し、マーケティング素材やソーシャルメディアコンテンツの制作自動化において、スモールビジネスのコンテンツ制作コストを大幅に削減できる]",
+      "relevance_score": 0.65,
       "source": "arxiv",
       "raw_data": {
         "authors": [
-          "Zou Qiang"
+          "Carlos Esteves",
+          "Ameesh Makadia"
         ],
-        "link": "https://arxiv.org/abs/2603.19182v1",
+        "link": "https://arxiv.org/abs/2603.19222v1",
         "categories": [
-          "cs.AI",
-          "cs.CL",
-          "cs.AI"
+          "cs.CV",
+          "cs.LG",
+          "cs.CV"
         ]
       },
-      "collected_at": "2026-03-20T12:18:18.751Z"
-    },
-    {
-      "id": "http://arxiv.org/abs/2603.19223v1",
-      "topic": "F2LLM-v2: Inclusive, Performant, and Efficient Embeddings for a Multilingual World",
-      "category": "AI論文",
-      "summary": "We present F2LLM-v2, a new family of general-purpose, multilingual embedding models in 8 distinct sizes ranging from 80M to 14B. Trained on a newly curated composite of 60 million publicly available high-quality data samples, F2LLM-v2 supports more than 200 languages, with a particular emphasis on p [多言語対応の効率的な埋め込みモデルで、グローバル展開を目指すスモールビジネスの多言語コンテンツ制作、翻訳自動化、多言語顧客対応システムの構築に活用可能。80M〜14Bの幅広いサイズ展開で導入しやすい。]",
-      "relevance_score": 0.7,
-      "source": "arxiv",
-      "raw_data": {
-        "authors": [
-          "Ziyin Zhang",
-          "Zihan Liao",
-          "Hang Yu",
-          "Peng Di",
-          "Rui Wang"
-        ],
-        "link": "https://arxiv.org/abs/2603.19223v1",
-        "categories": [
-          "cs.CL",
-          "cs.AI",
-          "cs.CL"
-        ]
-      },
-      "collected_at": "2026-03-20T12:18:18.751Z"
+      "collected_at": "2026-03-20T12:25:49.463Z"
     }
   ]
 }

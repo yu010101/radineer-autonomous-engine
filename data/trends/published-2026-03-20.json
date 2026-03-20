@@ -1,16 +1,16 @@
 {
   "date": "2026-03-20",
-  "published_at": "2026-03-20T12:20:28.940Z",
+  "published_at": "2026-03-20T12:28:04.145Z",
   "results": [
     {
-      "title": "FinTradeBenchが変える中小企業の投資判断｜専門知識不要でプロ級の財務分析を実現する方法",
+      "title": "「AIが急に使えなくなった」と感じたら今すぐ試すべき5つの改善策",
       "status": "error",
-      "error": "Error: Draft creation failed: 404 - {\"status\":404,\"error\":\"Not Found\"}"
+      "error": "Error: Publish failed: 404 - {\"status\":404,\"error\":\"Not Found\"}"
     },
     {
-      "title": "30Bモデルが3Bで動く衝撃 - Nemotron-Cascadeが変えるスモールビジネスのAI活用",
+      "title": "小規模事業者持続化補助金の採択率を30%→70%に上げる事業計画書作成術",
       "status": "error",
-      "error": "Error: Draft creation failed: 404 - {\"status\":404,\"error\":\"Not Found\"}"
+      "error": "Error: Publish failed: 404 - {\"status\":404,\"error\":\"Not Found\"}"
     }
   ]
 }

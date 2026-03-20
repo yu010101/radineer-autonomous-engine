@@ -1,21 +1,21 @@
 {
   "date": "2026-03-20",
-  "posted_at": "2026-03-20T12:20:42.428Z",
+  "posted_at": "2026-03-20T12:28:14.340Z",
   "results": [
     {
-      "text": "「1億インプレッションで売上2万円」が話題ですが、これは失敗例ではありません。\n\n認知獲得のフェーズとしては大成功。問題は次のステップ設計です。\n\n✓ リーチ ≠ 売上\n✓ 認知 → 興味 → 検討 → 購入の導線\n✓ 各段階での離脱要因分析\n\nバズった後こそ、しっかりとしたファネル設計が重要ですね。\n\n#SNSマーケティング #スモールビジネス",
+      "text": "「最近AIが馬鹿になった」と感じる人が増えている理由：\n\n①学習データの品質低下\n②プロンプトの書き方が古い\n③期待値の上昇\n\n実は③が一番大きい。AIとの付き合い方をアップデートする時期かも🤔\n\n技術の進歩に合わせて、私たちの使い方も進化させる必要がありますね。\n\n#AI #プロンプト #技術活用",
       "status": "error",
-      "error": "Error: Missing env var: TWITTER_ACCESS_SECRET"
+      "error": "Error: X API error: 401 - {\n  \"title\": \"Unauthorized\",\n  \"type\": \"about:blank\",\n  \"status\": 401,\n  \"detail\": \"Unauthorized\"\n}"
     },
     {
-      "text": "AIの進化で「専門性の民主化」が加速中。財務分析、法務チェック、マーケティング戦略...これまで専門家頼みだった判断を、適切なAIツールがあれば個人でも可能に。\n\n特にスモールビジネスには追い風。大企業との情報格差が縮まり、アイデアと実行力があれば勝負できる時代へ。\n\n#AI #スモールビジネス #専門性の民主化",
+      "text": "小規模事業者持続化補助金、半年に1度のチャンス🎯\n\n採択率を上げる3つのポイント：\n①数値化された現状分析\n②競合との差別化点を明確化\n③実現可能性の高い計画\n\nテンプレートに頼らず、自社の強みを軸に組み立てることが重要。審査員は「この事業者なら確実に成果を出せる」という確信を求めています。\n\n#持続化補助金 #中小企業 #事業計画",
       "status": "error",
-      "error": "Error: Missing env var: TWITTER_ACCESS_SECRET"
+      "error": "Error: X API error: 401 - {\n  \"title\": \"Unauthorized\",\n  \"type\": \"about:blank\",\n  \"status\": 401,\n  \"detail\": \"Unauthorized\"\n}"
     },
     {
-      "text": "Nemotron-Cascade 2の「30Bモデルを3B環境で動かす」技術、これは本当に画期的ですね。\n\nスモールビジネスがGPT-4級のAIを手頃なコストで導入できる未来が現実味を帯びてきました。AI活用の「コストの壁」が急速に崩れている今、早めの検討が差別化につながりそうです 🚀\n\n#AI活用 #スモールビジネス #技術革新",
+      "text": "40代でAI初挑戦の方から「もっと早く使えばよかった」の声続出👏\n\n最初の一歩は簡単な質問から。\n・「今日の会議資料の要点を3つ教えて」\n・「この企画書をもう少し読みやすくして」\n\nいきなり複雑なことをしようとせず、普段の業務の延長で始めるのがコツです。\n\n#AI初心者 #業務効率化 #40代からのDX",
       "status": "error",
-      "error": "Error: Missing env var: TWITTER_ACCESS_SECRET"
+      "error": "Error: X API error: 401 - {\n  \"title\": \"Unauthorized\",\n  \"type\": \"about:blank\",\n  \"status\": 401,\n  \"detail\": \"Unauthorized\"\n}"
     }
   ]
 }
