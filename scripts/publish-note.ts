@@ -6,6 +6,7 @@ import {
   readJSON, writeJSON, dataPath, configPath,
   log, logError, env, nowISO, todayStr,
 } from "./utils.js";
+import { convertMarkdownToNoteHtml } from "./markdown-converter.js";
 
 const NOTE_API_BASE = "https://note.com/api";
 
@@ -118,7 +119,8 @@ async function createNoteDraft(
   if (!noteId) throw new Error("Draft creation returned no ID");
   log(`Empty draft created: ID=${noteId}, key=${noteKey}`);
 
-  // Step 2: 本文・タグを保存
+  // Step 2: Markdown → note.com HTML変換して保存
+  const htmlBody = convertMarkdownToNoteHtml(body);
   const hashtagNotes = tags.map((tag) => ({ hashtag: { name: tag } }));
   const saveResponse = await fetch(
     `${NOTE_API_BASE}/v1/text_notes/draft_save?id=${noteId}&is_temp_saved=true`,
@@ -127,8 +129,8 @@ async function createNoteDraft(
       headers,
       body: JSON.stringify({
         name: title,
-        body,
-        body_length: body.length,
+        body: htmlBody,
+        body_length: htmlBody.length,
         hashtag_notes_attributes: hashtagNotes,
       }),
     }
