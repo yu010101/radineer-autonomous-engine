@@ -207,31 +207,21 @@ async function publishToNote(): Promise<void> {
       const noteId = draftResult?.data?.note?.id || draftResult?.data?.id;
       log(`Draft created: ${article.title} (ID: ${noteId})`);
 
-      // 信頼度に基づいて自動公開判定
       const confidence = article.confidence_score || 0;
-      const autoPublish = confidence >= thresholds.auto_publish_note.confidence_threshold;
+      const noteKey = draftResult?.data?.key || `n${noteId}`;
+      const editUrl = `https://editor.note.com/notes/${noteKey}/edit/`;
 
-      if (autoPublish && noteId) {
-        await publishNote(noteId, article.title, article.body, article.tags || [], auth);
-        log(`Auto-published: "${article.title}" (confidence: ${confidence})`);
-        results.push({
-          title: article.title,
-          note_id: noteId,
-          status: "published",
-          confidence,
-        });
-      } else {
-        log(
-          `Saved as draft: "${article.title}" (confidence: ${confidence} < threshold ${thresholds.auto_publish_note.confidence_threshold})`
-        );
-        results.push({
-          title: article.title,
-          note_id: noteId,
-          status: "draft",
-          confidence,
-          reason: "Below confidence threshold",
-        });
-      }
+      // MVP: 全て下書き保存。公開はnote UI上で手動確認後に行う
+      log(`Saved as draft: "${article.title}" (confidence: ${confidence})`);
+      log(`  Edit URL: ${editUrl}`);
+      results.push({
+        title: article.title,
+        note_id: noteId,
+        note_key: noteKey,
+        edit_url: editUrl,
+        status: "draft",
+        confidence,
+      });
     } catch (err) {
       logError(`Failed to publish: ${article.title}`, err);
       results.push({ title: article.title, status: "error", error: String(err) });
