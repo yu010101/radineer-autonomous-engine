@@ -24,8 +24,8 @@ async function collectTrends(): Promise<void> {
 
   log(`Collecting trends for: ${query.slice(0, 100)}...`);
 
-  // xAI Agent Tools API (x_search + web_search)
-  const response = await fetch("https://api.x.ai/v1/chat/completions", {
+  // xAI Agent Tools API (/v1/responses endpoint)
+  const response = await fetch("https://api.x.ai/v1/responses", {
     method: "POST",
     headers: {
       "Content-Type": "application/json",
@@ -33,6 +33,7 @@ async function collectTrends(): Promise<void> {
     },
     body: JSON.stringify({
       model: "grok-3-fast",
+      stream: false,
       input: [
         {
           role: "system",
