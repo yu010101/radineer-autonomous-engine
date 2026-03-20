@@ -1,11 +1,11 @@
 {
-  "collected_at": "2026-03-20T12:49:46.453Z",
+  "collected_at": "2026-03-20T12:56:19.261Z",
   "trends": [
     {
       "id": "http://arxiv.org/abs/2603.19225v1",
       "topic": "FinTradeBench: A Financial Reasoning Benchmark for LLMs",
       "category": "AI論文",
-      "summary": "Real-world financial decision-making is a challenging problem that requires reasoning over heterogeneous signals, including company fundamentals derived from regulatory filings and trading signals computed from price dynamics. Recently, with the advancement of Large Language Models (LLMs), financial [金融意思決定のためのLLMベンチマークは、スモールビジネスの投資判断自動化、金融レポート自動生成、取引戦略の自動化に直接応用可能]",
+      "summary": "Real-world financial decision-making is a challenging problem that requires reasoning over heterogeneous signals, including company fundamentals derived from regulatory filings and trading signals computed from price dynamics. Recently, with the advancement of Large Language Models (LLMs), financial [金融取引のベンチマークシステムは、スモールビジネスの投資判断自動化、金融データ分析の自動化、投資レポート等のコンテンツ自動生成に直接活用できる]",
       "relevance_score": 0.85,
       "source": "arxiv",
       "raw_data": {
@@ -26,13 +26,13 @@
           "cs.CE"
         ]
       },
-      "collected_at": "2026-03-20T12:49:46.453Z"
+      "collected_at": "2026-03-20T12:56:19.261Z"
     },
     {
       "id": "http://arxiv.org/abs/2603.19220v1",
       "topic": "Nemotron-Cascade 2: Post-Training LLMs with Cascade RL and Multi-Domain On-Policy Distillation",
       "category": "AI論文",
-      "summary": "We introduce Nemotron-Cascade 2, an open 30B MoE model with 3B activated parameters that delivers best-in-class reasoning and strong agentic capabilities. Despite its compact size, its mathematical and coding reasoning performance approaches that of frontier open models. It is the second open-weight [30B MoEモデルの効率的な推論能力は、限られたリソースのスモールビジネスでの文書作成、顧客対応、業務プロセス自動化に適用可能]",
+      "summary": "We introduce Nemotron-Cascade 2, an open 30B MoE model with 3B activated parameters that delivers best-in-class reasoning and strong agentic capabilities. Despite its compact size, its mathematical and coding reasoning performance approaches that of frontier open models. It is the second open-weight [30B MoEモデルでありながら3B活性化パラメータという効率性は、限られたリソースのスモールビジネスでも利用可能で、推論能力を活かした業務自動化やコンテンツ生成が可能]",
       "relevance_score": 0.8,
       "source": "arxiv",
       "raw_data": {
@@ -63,13 +63,13 @@
           "cs.CL"
         ]
       },
-      "collected_at": "2026-03-20T12:49:46.453Z"
+      "collected_at": "2026-03-20T12:56:19.261Z"
     },
     {
       "id": "http://arxiv.org/abs/2603.19182v1",
       "topic": "Box Maze: A Process-Control Architecture for Reliable LLM Reasoning",
       "category": "AI論文",
-      "summary": "Large language models (LLMs) demonstrate strong generative capabilities but remain vulnerable to hallucination and unreliable reasoning under adversarial prompting. Existing safety approaches -- such as reinforcement learning from human feedback (RLHF) and output filtering -- primarily operate at th [信頼性の高いLLM推論アーキテクチャは、スモールビジネスの自動化システムにおける誤情報生成リスク軽減とコンテンツ品質向上に重要]",
+      "summary": "Large language models (LLMs) demonstrate strong generative capabilities but remain vulnerable to hallucination and unreliable reasoning under adversarial prompting. Existing safety approaches -- such as reinforcement learning from human feedback (RLHF) and output filtering -- primarily operate at th [信頼性の高いLLM推論アーキテクチャは、スモールビジネスの意思決定支援、顧客対応の自動化、マーケティングコンテンツ生成などの業務プロセス自動化に重要]",
       "relevance_score": 0.75,
       "source": "arxiv",
       "raw_data": {
@@ -83,37 +83,45 @@
           "cs.AI"
         ]
       },
-      "collected_at": "2026-03-20T12:49:46.453Z"
+      "collected_at": "2026-03-20T12:56:19.261Z"
     },
     {
-      "id": "http://arxiv.org/abs/2603.19172v1",
-      "topic": "DyMoE: Dynamic Expert Orchestration with Mixed-Precision Quantization for Efficient MoE Inference on Edge",
+      "id": "http://arxiv.org/abs/2603.19191v1",
+      "topic": "OS-Themis: A Scalable Critic Framework for Generalist GUI Rewards",
       "category": "AI論文",
-      "summary": "Despite the computational efficiency of MoE models, the excessive memory footprint and I/O overhead inherent in multi-expert architectures pose formidable challenges for real-time inference on resource-constrained edge platforms. While existing static methods struggle with a rigid latency-accuracy t [エッジデバイスでの効率的なMoE推論は、スモールビジネスが高性能AIを低コストで導入し、リアルタイム自動化を実現するために重要]",
+      "summary": "Reinforcement Learning (RL) has the potential to improve the robustness of GUI agents in stochastic environments, yet training is highly sensitive to the quality of the reward function. Existing reward approaches struggle to achieve both scalability and performance. To address this, we propose OS-Th [GUI操作の自動化フレームワークは、スモールビジネスの反復的な画面操作業務（データ入力、レポート作成、システム間連携）の自動化に直接適用できる]",
       "relevance_score": 0.7,
       "source": "arxiv",
       "raw_data": {
         "authors": [
-          "Yuegui Huang",
-          "Zhiyuan Fang",
-          "Weiqi Luo",
-          "Ruoyu Wu",
-          "Wuhui Chen",
-          "Zibin Zheng"
+          "Zehao Li",
+          "Zhenyu Wu",
+          "Yibo Zhao",
+          "Bowen Yang",
+          "Jingjing Xie",
+          "Zhaoyang Liu",
+          "Zhoumianze Liu",
+          "Kaiming Jin",
+          "Jianze Liang",
+          "Zonglin Li",
+          "Feng Wu",
+          "Bowen Zhou",
+          "Zun Wang",
+          "Zichen Ding"
         ],
-        "link": "https://arxiv.org/abs/2603.19172v1",
+        "link": "https://arxiv.org/abs/2603.19191v1",
         "categories": [
-          "cs.LG",
-          "cs.LG"
+          "cs.AI",
+          "cs.AI"
         ]
       },
-      "collected_at": "2026-03-20T12:49:46.453Z"
+      "collected_at": "2026-03-20T12:56:19.261Z"
     },
     {
       "id": "http://arxiv.org/abs/2603.19222v1",
       "topic": "Spectrally-Guided Diffusion Noise Schedules",
       "category": "AI論文",
-      "summary": "Denoising diffusion models are widely used for high-quality image and video generation. Their performance depends on noise schedules, which define the distribution of noise levels applied during training and the sequence of noise levels traversed during sampling. Noise schedules are typically handcr [拡散モデルの性能向上は、スモールビジネスの画像・動画コンテンツ制作の品質向上と制作時間短縮による自動化促進に貢献]",
+      "summary": "Denoising diffusion models are widely used for high-quality image and video generation. Their performance depends on noise schedules, which define the distribution of noise levels applied during training and the sequence of noise levels traversed during sampling. Noise schedules are typically handcr [高品質な画像・動画生成技術は、スモールビジネスのマーケティング素材、SNSコンテンツ、商品画像の自動生成により、コンテンツ制作コストを大幅削減できる]",
       "relevance_score": 0.65,
       "source": "arxiv",
       "raw_data": {
@@ -128,7 +136,7 @@
           "cs.CV"
         ]
       },
-      "collected_at": "2026-03-20T12:49:46.453Z"
+      "collected_at": "2026-03-20T12:56:19.261Z"
     }
   ]
 }

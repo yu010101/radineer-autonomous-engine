@@ -1,16 +1,22 @@
 {
   "date": "2026-03-20",
-  "published_at": "2026-03-20T12:51:54.458Z",
+  "published_at": "2026-03-20T12:58:24.192Z",
   "results": [
     {
-      "title": "AIエディタ完全ガイド：Cursor風オフライン開発環境の構築",
-      "status": "error",
-      "error": "Error: Publish failed: 422 - {\"error\":{\"code\":\"invalid\",\"message\":\"本文を入力してください\"}}"
+      "title": "Notebook LMとSkill Graphsで構築する「学習するマーケティングシステム」の作り方",
+      "note_id": "151955689",
+      "note_key": "n37d128d28247",
+      "edit_url": "https://editor.note.com/notes/n37d128d28247/edit/",
+      "status": "draft",
+      "confidence": 0.88
     },
     {
-      "title": "「レンタル怖い人」が1年で撤退した理由に学ぶ、スモールビジネス収益化の現実",
-      "status": "error",
-      "error": "Error: Publish failed: 422 - {\"error\":{\"code\":\"invalid\",\"message\":\"本文を入力してください\"}}"
+      "title": "小規模事業者持続化補助金の採択率を30%上げる！AI活用申請書作成術【2024年最新版】",
+      "note_id": "151955693",
+      "note_key": "n7f82d9592d22",
+      "edit_url": "https://editor.note.com/notes/n7f82d9592d22/edit/",
+      "status": "draft",
+      "confidence": 0.88
     }
   ]
 }
