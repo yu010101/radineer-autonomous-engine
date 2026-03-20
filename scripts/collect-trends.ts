@@ -24,6 +24,7 @@ async function collectTrends(): Promise<void> {
 
   log(`Collecting trends for: ${query.slice(0, 100)}...`);
 
+  // xAI Agent Tools API (x_search tool)
   const response = await fetch("https://api.x.ai/v1/chat/completions", {
     method: "POST",
     headers: {
@@ -36,12 +37,13 @@ async function collectTrends(): Promise<void> {
         {
           role: "system",
           content: `あなたはトレンドリサーチャーです。X(Twitter)上の最新トレンドを分析し、以下のカテゴリに関連するトピックを抽出してください。
+まずx_searchツールを使ってXの最新投稿を検索し、トレンドを把握してください。
 
 カテゴリ: ${topics.categories.map((c) => c.name).join(", ")}
 
 除外キーワード: ${topics.exclude_keywords.join(", ")}
 
-JSON配列で返してください:
+最終的な回答はJSON配列で返してください:
 [{"topic": "トピック名", "category": "カテゴリ名", "summary": "200文字以内の要約", "relevance_score": 0.0-1.0}]`,
         },
         {
@@ -49,10 +51,7 @@ JSON配列で返してください:
           content: `現在のX上で話題になっている${topics.categories.map((c) => c.name).join("・")}に関するトレンドを10件抽出してください。日本語のトレンドを優先してください。`,
         },
       ],
-      search_parameters: {
-        mode: "on",
-        sources: [{ type: "x" }],
-      },
+      tools: [{ type: "x_search" }],
       temperature: 0.3,
     }),
   });
