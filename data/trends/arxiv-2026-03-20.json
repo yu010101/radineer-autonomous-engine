@@ -1,12 +1,12 @@
 {
-  "collected_at": "2026-03-20T12:56:19.261Z",
+  "collected_at": "2026-03-20T13:14:26.575Z",
   "trends": [
     {
       "id": "http://arxiv.org/abs/2603.19225v1",
       "topic": "FinTradeBench: A Financial Reasoning Benchmark for LLMs",
       "category": "AI論文",
-      "summary": "Real-world financial decision-making is a challenging problem that requires reasoning over heterogeneous signals, including company fundamentals derived from regulatory filings and trading signals computed from price dynamics. Recently, with the advancement of Large Language Models (LLMs), financial [金融取引のベンチマークシステムは、スモールビジネスの投資判断自動化、金融データ分析の自動化、投資レポート等のコンテンツ自動生成に直接活用できる]",
-      "relevance_score": 0.85,
+      "summary": "Real-world financial decision-making is a challenging problem that requires reasoning over heterogeneous signals, including company fundamentals derived from regulatory filings and trading signals computed from price dynamics. Recently, with the advancement of Large Language Models (LLMs), financial [金融取引における意思決定支援システムは、スモールビジネスの投資判断や財務管理の自動化に直接応用可能。規制文書解析や取引シグナル処理は中小企業の限られたリソースでも活用できる実用的なAIソリューション]",
+      "relevance_score": 0.9,
       "source": "arxiv",
       "raw_data": {
         "authors": [
@@ -26,14 +26,14 @@
           "cs.CE"
         ]
       },
-      "collected_at": "2026-03-20T12:56:19.261Z"
+      "collected_at": "2026-03-20T13:14:26.575Z"
     },
     {
       "id": "http://arxiv.org/abs/2603.19220v1",
       "topic": "Nemotron-Cascade 2: Post-Training LLMs with Cascade RL and Multi-Domain On-Policy Distillation",
       "category": "AI論文",
-      "summary": "We introduce Nemotron-Cascade 2, an open 30B MoE model with 3B activated parameters that delivers best-in-class reasoning and strong agentic capabilities. Despite its compact size, its mathematical and coding reasoning performance approaches that of frontier open models. It is the second open-weight [30B MoEモデルでありながら3B活性化パラメータという効率性は、限られたリソースのスモールビジネスでも利用可能で、推論能力を活かした業務自動化やコンテンツ生成が可能]",
-      "relevance_score": 0.8,
+      "summary": "We introduce Nemotron-Cascade 2, an open 30B MoE model with 3B activated parameters that delivers best-in-class reasoning and strong agentic capabilities. Despite its compact size, its mathematical and coding reasoning performance approaches that of frontier open models. It is the second open-weight [コンパクトな30B MoEモデルでありながら強力な推論能力を持つため、リソース制約のあるスモールビジネスでも導入可能。エージェント機能により顧客対応やコンテンツ生成の自動化が実現できる]",
+      "relevance_score": 0.85,
       "source": "arxiv",
       "raw_data": {
         "authors": [
@@ -63,14 +63,14 @@
           "cs.CL"
         ]
       },
-      "collected_at": "2026-03-20T12:56:19.261Z"
+      "collected_at": "2026-03-20T13:14:26.575Z"
     },
     {
       "id": "http://arxiv.org/abs/2603.19182v1",
       "topic": "Box Maze: A Process-Control Architecture for Reliable LLM Reasoning",
       "category": "AI論文",
-      "summary": "Large language models (LLMs) demonstrate strong generative capabilities but remain vulnerable to hallucination and unreliable reasoning under adversarial prompting. Existing safety approaches -- such as reinforcement learning from human feedback (RLHF) and output filtering -- primarily operate at th [信頼性の高いLLM推論アーキテクチャは、スモールビジネスの意思決定支援、顧客対応の自動化、マーケティングコンテンツ生成などの業務プロセス自動化に重要]",
-      "relevance_score": 0.75,
+      "summary": "Large language models (LLMs) demonstrate strong generative capabilities but remain vulnerable to hallucination and unreliable reasoning under adversarial prompting. Existing safety approaches -- such as reinforcement learning from human feedback (RLHF) and output filtering -- primarily operate at th [LLMの信頼性向上と幻覚抑制技術は、スモールビジネスでのAI活用における品質保証に重要。顧客対応やコンテンツ制作での誤情報リスクを軽減し、安全な自動化システム構築に貢献]",
+      "relevance_score": 0.8,
       "source": "arxiv",
       "raw_data": {
         "authors": [
@@ -83,14 +83,14 @@
           "cs.AI"
         ]
       },
-      "collected_at": "2026-03-20T12:56:19.261Z"
+      "collected_at": "2026-03-20T13:14:26.575Z"
     },
     {
       "id": "http://arxiv.org/abs/2603.19191v1",
       "topic": "OS-Themis: A Scalable Critic Framework for Generalist GUI Rewards",
       "category": "AI論文",
-      "summary": "Reinforcement Learning (RL) has the potential to improve the robustness of GUI agents in stochastic environments, yet training is highly sensitive to the quality of the reward function. Existing reward approaches struggle to achieve both scalability and performance. To address this, we propose OS-Th [GUI操作の自動化フレームワークは、スモールビジネスの反復的な画面操作業務（データ入力、レポート作成、システム間連携）の自動化に直接適用できる]",
-      "relevance_score": 0.7,
+      "summary": "Reinforcement Learning (RL) has the potential to improve the robustness of GUI agents in stochastic environments, yet training is highly sensitive to the quality of the reward function. Existing reward approaches struggle to achieve both scalability and performance. To address this, we propose OS-Th [GUI操作の自動化フレームワークは、中小企業の業務プロセス自動化に直接応用可能。Webサイト管理、データ入力、顧客管理システムの操作など、人手に依存していた作業の効率化が期待できる]",
+      "relevance_score": 0.75,
       "source": "arxiv",
       "raw_data": {
         "authors": [
@@ -115,14 +115,14 @@
           "cs.AI"
         ]
       },
-      "collected_at": "2026-03-20T12:56:19.261Z"
+      "collected_at": "2026-03-20T13:14:26.575Z"
     },
     {
       "id": "http://arxiv.org/abs/2603.19222v1",
       "topic": "Spectrally-Guided Diffusion Noise Schedules",
       "category": "AI論文",
-      "summary": "Denoising diffusion models are widely used for high-quality image and video generation. Their performance depends on noise schedules, which define the distribution of noise levels applied during training and the sequence of noise levels traversed during sampling. Noise schedules are typically handcr [高品質な画像・動画生成技術は、スモールビジネスのマーケティング素材、SNSコンテンツ、商品画像の自動生成により、コンテンツ制作コストを大幅削減できる]",
-      "relevance_score": 0.65,
+      "summary": "Denoising diffusion models are widely used for high-quality image and video generation. Their performance depends on noise schedules, which define the distribution of noise levels applied during training and the sequence of noise levels traversed during sampling. Noise schedules are typically handcr [高品質な画像・動画生成技術の改良は、マーケティング素材やSNSコンテンツ制作における中小企業の競争力向上に寄与。専門デザイナーを雇えない企業でも質の高いビジュアルコンテンツを自動生成可能]",
+      "relevance_score": 0.7,
       "source": "arxiv",
       "raw_data": {
         "authors": [
@@ -136,7 +136,7 @@
           "cs.CV"
         ]
       },
-      "collected_at": "2026-03-20T12:56:19.261Z"
+      "collected_at": "2026-03-20T13:14:26.575Z"
     }
   ]
 }
