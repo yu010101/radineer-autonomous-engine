@@ -24,7 +24,7 @@ async function collectTrends(): Promise<void> {
 
   log(`Collecting trends for: ${query.slice(0, 100)}...`);
 
-  // xAI Agent Tools API (x_search tool)
+  // xAI Agent Tools API (x_search + web_search)
   const response = await fetch("https://api.x.ai/v1/chat/completions", {
     method: "POST",
     headers: {
@@ -33,11 +33,11 @@ async function collectTrends(): Promise<void> {
     },
     body: JSON.stringify({
       model: "grok-3-fast",
-      messages: [
+      input: [
         {
           role: "system",
           content: `あなたはトレンドリサーチャーです。X(Twitter)上の最新トレンドを分析し、以下のカテゴリに関連するトピックを抽出してください。
-まずx_searchツールを使ってXの最新投稿を検索し、トレンドを把握してください。
+x_searchツールを使ってXの最新投稿を検索し、トレンドを把握してください。
 
 カテゴリ: ${topics.categories.map((c) => c.name).join(", ")}
 
@@ -51,7 +51,7 @@ async function collectTrends(): Promise<void> {
           content: `現在のX上で話題になっている${topics.categories.map((c) => c.name).join("・")}に関するトレンドを10件抽出してください。日本語のトレンドを優先してください。`,
         },
       ],
-      tools: [{ type: "live_search", sources: [{ type: "x" }] }],
+      tools: [{ type: "x_search" }],
       temperature: 0.3,
     }),
   });
@@ -62,7 +62,10 @@ async function collectTrends(): Promise<void> {
   }
 
   const result = (await response.json()) as any;
-  const content = result.choices?.[0]?.message?.content || "[]";
+  // Agent Tools API: output_text or choices[].message.content
+  const content = result.output_text
+    || result.choices?.[0]?.message?.content
+    || "[]";
 
   let trends: TrendEntry[];
   try {
