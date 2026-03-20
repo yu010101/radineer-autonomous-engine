@@ -4,7 +4,8 @@ import { fileURLToPath } from "url";
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
-export const ROOT_DIR = resolve(__dirname, "..");
+// dist/scripts/ から2段上がってプロジェクトルートへ
+export const ROOT_DIR = resolve(__dirname, "..", "..");
 
 export function dataPath(...segments: string[]): string {
   return resolve(ROOT_DIR, "data", ...segments);
