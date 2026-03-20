@@ -51,7 +51,7 @@ async function collectTrends(): Promise<void> {
           content: `現在のX上で話題になっている${topics.categories.map((c) => c.name).join("・")}に関するトレンドを10件抽出してください。日本語のトレンドを優先してください。`,
         },
       ],
-      tools: [{ type: "x_search" }],
+      tools: [{ type: "live_search" }],
       temperature: 0.3,
     }),
   });
