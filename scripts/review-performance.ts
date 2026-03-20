@@ -23,7 +23,16 @@ async function getNoteAuth(): Promise<{ sessionCookie: string; xsrfToken: string
 
   if (!loginResponse.ok) throw new Error(`Note login failed: ${loginResponse.status}`);
   const data = (await loginResponse.json()) as any;
-  const sessionCookie = `_note_session_v5=${data?.data?.token}`;
+  let sessionCookie = "";
+  const token = data?.data?.token;
+  if (token) {
+    sessionCookie = `_note_session_v5=${token}`;
+  }
+  const setCookie = loginResponse.headers.get("set-cookie") || "";
+  if (!sessionCookie && setCookie.includes("_note_session_v5=")) {
+    sessionCookie = setCookie.split(";").find((s: string) => s.includes("_note_session_v5"))?.trim() || "";
+  }
+  if (!sessionCookie) throw new Error("Note login: no session token found");
 
   const userResponse = await fetch(`${NOTE_API_BASE}/v2/current_user`, {
     headers: { Cookie: sessionCookie, Accept: "application/json" },

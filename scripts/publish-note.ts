@@ -34,10 +34,24 @@ async function loginToNote(): Promise<{
   }
 
   const data = (await loginResponse.json()) as any;
-  const sessionToken = data?.data?.token;
-  if (!sessionToken) throw new Error("No session token in login response");
 
-  const sessionCookie = `_note_session_v5=${sessionToken}`;
+  // レスポンスボディからトークン取得を試みる
+  let sessionCookie = "";
+  const sessionToken = data?.data?.token;
+  if (sessionToken) {
+    sessionCookie = `_note_session_v5=${sessionToken}`;
+  }
+
+  // Set-Cookieヘッダーからもフォールバック
+  const setCookieHeader = loginResponse.headers.get("set-cookie") || "";
+  if (!sessionCookie && setCookieHeader.includes("_note_session_v5=")) {
+    sessionCookie = setCookieHeader.split(";").find((s: string) => s.includes("_note_session_v5"))?.trim() || "";
+  }
+
+  if (!sessionCookie) {
+    log(`Login response keys: ${JSON.stringify(Object.keys(data?.data || data || {}))}`);
+    throw new Error("No session token in login response");
+  }
 
   // XSRFトークンを取得
   const currentUserResponse = await fetch(`${NOTE_API_BASE}/v2/current_user`, {
