@@ -156,10 +156,10 @@ async function publishNote(
     method: "PUT",
     headers,
     body: JSON.stringify({
-      title,
+      name: title,
       body,
       status: "published",
-      tags: tags || [],
+      hashtag_notes_attributes: (tags || []).map((tag) => ({ hashtag: { name: tag } })),
     }),
   });
 
