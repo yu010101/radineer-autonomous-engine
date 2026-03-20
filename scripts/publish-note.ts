@@ -75,54 +75,98 @@ async function loginToNote(): Promise<{
   return { sessionCookie, xsrfToken };
 }
 
+function buildNoteHeaders(auth: { sessionCookie: string; xsrfToken: string }) {
+  return {
+    ...DEFAULT_HEADERS,
+    "content-type": "application/json",
+    Cookie: auth.sessionCookie,
+    "X-XSRF-TOKEN": auth.xsrfToken,
+    Origin: "https://note.com",
+    Referer: "https://note.com/",
+  };
+}
+
 async function createNoteDraft(
   title: string,
   body: string,
   tags: string[],
   auth: { sessionCookie: string; xsrfToken: string }
 ): Promise<any> {
-  const response = await fetch(`${NOTE_API_BASE}/v3/notes/draft`, {
+  const headers = buildNoteHeaders(auth);
+
+  // Step 1: 空の下書きを作成して ID を取得
+  const createResponse = await fetch(`${NOTE_API_BASE}/v1/text_notes`, {
     method: "POST",
-    headers: {
-      ...DEFAULT_HEADERS,
-      Cookie: auth.sessionCookie,
-      "X-XSRF-TOKEN": auth.xsrfToken,
-      Origin: "https://note.com",
-      Referer: "https://note.com/",
-    },
+    headers,
     body: JSON.stringify({
-      note: {
-        name: title,
-        body,
-        status: "draft",
-        type: "TextNote",
-        hashtag_notes_attributes: tags.map((tag) => ({ hashtag: { name: tag } })),
-      },
+      body: "<p></p>",
+      body_length: 0,
+      name: title || "無題",
+      index: false,
+      is_lead_form: false,
     }),
   });
 
-  if (!response.ok) {
-    const errorText = await response.text();
-    throw new Error(`Draft creation failed: ${response.status} - ${errorText}`);
+  if (!createResponse.ok) {
+    const errorText = await createResponse.text();
+    throw new Error(`Draft creation failed: ${createResponse.status} - ${errorText}`);
   }
 
-  return (await response.json()) as any;
+  const createResult = (await createResponse.json()) as any;
+  const noteId = createResult?.data?.id?.toString();
+  const noteKey = createResult?.data?.key || `n${noteId}`;
+  if (!noteId) throw new Error("Draft creation returned no ID");
+  log(`Empty draft created: ID=${noteId}, key=${noteKey}`);
+
+  // Step 2: 本文・タグを保存
+  const hashtagNotes = tags.map((tag) => ({ hashtag: { name: tag } }));
+  const saveResponse = await fetch(
+    `${NOTE_API_BASE}/v1/text_notes/draft_save?id=${noteId}&is_temp_saved=true`,
+    {
+      method: "POST",
+      headers,
+      body: JSON.stringify({
+        name: title,
+        body,
+        body_length: body.length,
+        hashtag_notes_attributes: hashtagNotes,
+      }),
+    }
+  );
+
+  if (!saveResponse.ok) {
+    const errorText = await saveResponse.text();
+    throw new Error(`Draft save failed: ${saveResponse.status} - ${errorText}`);
+  }
+
+  return { data: { id: noteId, key: noteKey } };
 }
 
 async function publishNote(
   noteId: string,
   auth: { sessionCookie: string; xsrfToken: string }
 ): Promise<any> {
+  const headers = buildNoteHeaders(auth);
+
+  // 記事情報を取得
+  const noteResponse = await fetch(
+    `${NOTE_API_BASE}/v3/notes/${noteId}?draft=true&draft_reedit=false&ts=${Date.now()}`,
+    { headers }
+  );
+  const noteData = (await noteResponse.json()) as any;
+  const currentNote = noteData?.data || {};
+
+  // 公開
   const response = await fetch(`${NOTE_API_BASE}/v3/notes/${noteId}/publish`, {
-    method: "PUT",
-    headers: {
-      ...DEFAULT_HEADERS,
-      Cookie: auth.sessionCookie,
-      "X-XSRF-TOKEN": auth.xsrfToken,
-      Origin: "https://note.com",
-      Referer: "https://note.com/",
-    },
-    body: JSON.stringify({}),
+    method: "POST",
+    headers,
+    body: JSON.stringify({
+      title: currentNote.name || currentNote.title,
+      body: currentNote.body,
+      status: "published",
+      tags: currentNote.tags || [],
+      publish_at: null,
+    }),
   });
 
   if (!response.ok) {
