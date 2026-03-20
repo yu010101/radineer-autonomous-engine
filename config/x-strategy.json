@@ -1,0 +1,36 @@
+{
+  "account": {
+    "handle": "@radineer_ai",
+    "bio_keywords": ["AI", "スモビジ", "自動化", "エンジニア"]
+  },
+  "post_types": {
+    "article_promo": {
+      "template": "{{hook}}\n\n{{key_insight}}\n\n詳しくはnoteで👇\n{{url}}",
+      "max_length": 280,
+      "include_url": true
+    },
+    "standalone_insight": {
+      "template": "{{insight}}\n\n#AI #スモビジ",
+      "max_length": 280,
+      "include_url": false
+    },
+    "thread_opener": {
+      "template": "【{{topic}}】スレッド🧵\n\n{{teaser}}",
+      "max_length": 280,
+      "include_url": false
+    },
+    "trend_comment": {
+      "template": "{{trend_topic}}について。\n\n{{opinion}}\n\n{{implication}}",
+      "max_length": 280,
+      "include_url": false
+    }
+  },
+  "posting_schedule": {
+    "optimal_hours_jst": [7, 8, 12, 18, 21],
+    "avoid_hours_jst": [0, 1, 2, 3, 4, 5]
+  },
+  "hashtags": {
+    "primary": ["#AI", "#生成AI", "#スモビジ"],
+    "secondary": ["#副業", "#起業", "#自動化", "#ChatGPT", "#Claude"]
+  }
+}

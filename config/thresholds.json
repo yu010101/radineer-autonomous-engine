@@ -1,0 +1,24 @@
+{
+  "auto_publish_note": {
+    "confidence_threshold": 0.8,
+    "max_per_day": 2,
+    "min_word_count": 1500,
+    "require_human_review_below": 0.6
+  },
+  "auto_post_x": {
+    "max_per_day": 5,
+    "min_interval_minutes": 120,
+    "max_char_count": 280
+  },
+  "auto_evolve": {
+    "max_prompt_change_ratio": 0.3,
+    "require_human_review_for_strategy_change": true,
+    "min_data_points_for_evolution": 7
+  },
+  "notification": {
+    "daily_report": true,
+    "alert_on_anomaly": true,
+    "anomaly_pv_drop_threshold": 0.5,
+    "anomaly_engagement_drop_threshold": 0.5
+  }
+}

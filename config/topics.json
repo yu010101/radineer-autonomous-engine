@@ -1,0 +1,31 @@
+{
+  "categories": [
+    {
+      "name": "AI・LLM",
+      "keywords": ["ChatGPT", "Claude", "Gemini", "LLM", "生成AI", "AI Agent", "RAG", "ファインチューニング", "プロンプトエンジニアリング", "マルチモーダル", "AI規制"],
+      "priority": "high"
+    },
+    {
+      "name": "スモールビジネス",
+      "keywords": ["副業", "起業", "フリーランス", "個人事業", "マイクロSaaS", "スモビジ", "一人社長", "ノーコード", "自動化"],
+      "priority": "high"
+    },
+    {
+      "name": "M&A・事業承継",
+      "keywords": ["M&A", "事業承継", "バイアウト", "スモールM&A", "PMI", "DD", "デューデリジェンス", "EV/EBITDA"],
+      "priority": "medium"
+    },
+    {
+      "name": "エンジニアリング",
+      "keywords": ["TypeScript", "Next.js", "MCP", "GitHub Actions", "CI/CD", "DevOps", "クラウド", "サーバーレス"],
+      "priority": "medium"
+    },
+    {
+      "name": "マーケティング",
+      "keywords": ["SEO", "コンテンツマーケ", "SNS運用", "note", "X運用", "メルマガ", "ファン化", "CRM"],
+      "priority": "medium"
+    }
+  ],
+  "arxiv_categories": ["cs.AI", "cs.CL", "cs.LG", "cs.MA"],
+  "exclude_keywords": ["政治", "ゴシップ", "芸能"]
+}

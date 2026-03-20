@@ -1,0 +1,39 @@
+name: Trend Watch (Hourly)
+
+on:
+  schedule:
+    # 毎時実行（JST 7:00-23:00 = UTC 22:00-14:00）
+    - cron: '0 22-23,0-14 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  collect-trends:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: 'npm'
+
+      - run: npm ci
+
+      - run: npm run build
+
+      - name: Collect X Trends
+        run: npm run collect-trends
+        env:
+          XAI_API_KEY: ${{ secrets.XAI_API_KEY }}
+
+      - name: Commit trend data
+        run: |
+          git config user.name "radineer-bot"
+          git config user.email "bot@radineer.co.jp"
+          git add data/trends/
+          git diff --staged --quiet || git commit -m "chore: collect trends $(date -u +%Y-%m-%dT%H:%M)"
+          git push

@@ -1,0 +1,44 @@
+name: Weekly Evolution (Self-Improvement)
+
+on:
+  schedule:
+    # 毎週月曜 8:00 JST = 日曜 23:00 UTC
+    - cron: '0 23 * * 0'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  weekly-evolve:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: 'npm'
+
+      - run: npm ci
+
+      - run: npm run build
+
+      - name: Run Evolution
+        run: npm run evolve
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+
+      - name: Send Weekly Report
+        run: npm run notify -- --type=weekly
+        env:
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+
+      - name: Commit evolved data
+        run: |
+          git config user.name "radineer-bot"
+          git config user.email "bot@radineer.co.jp"
+          git add data/
+          git diff --staged --quiet || git commit -m "chore: weekly evolution $(date -u +%Y-%m-%d)"
+          git push

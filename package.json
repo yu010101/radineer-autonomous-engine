@@ -1,0 +1,29 @@
+{
+  "name": "radineer-autonomous-engine",
+  "version": "1.0.0",
+  "description": "Radineer Autonomous Engine - 自律型コンテンツ生成・投稿・学習ループ",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "collect-trends": "node dist/scripts/collect-trends.js",
+    "collect-arxiv": "node dist/scripts/collect-arxiv.js",
+    "analyze": "node dist/scripts/analyze-and-plan.js",
+    "generate": "node dist/scripts/generate-content.js",
+    "publish-note": "node dist/scripts/publish-note.js",
+    "publish-x": "node dist/scripts/publish-x.js",
+    "review": "node dist/scripts/review-performance.js",
+    "evolve": "node dist/scripts/evolve.js",
+    "notify": "node dist/scripts/notify.js",
+    "daily-engine": "npm run collect-trends && npm run analyze && npm run generate && npm run publish-note && npm run publish-x && npm run notify",
+    "daily-review": "npm run review && npm run notify -- --type=review",
+    "weekly-evolve": "npm run evolve && npm run notify -- --type=weekly"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.39.0",
+    "node-fetch": "^3.3.2"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "typescript": "^5.7.0"
+  }
+}
