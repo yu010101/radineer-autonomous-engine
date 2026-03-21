@@ -1,0 +1,95 @@
+{
+  "collected_at": "2026-03-21T07:32:03.159Z",
+  "trends": [
+    {
+      "id": "trend-1774078323158-0",
+      "topic": "AIモデル公開の動き",
+      "category": "AI・LLM",
+      "summary": "VRChatユーザーらがAIモデルを公開し、インターネット上で永遠に存在させるアイデアが話題。AI技術の進化により、個人レベルのクリエイティブな活用が広がっている。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-03-21T07:32:03.159Z"
+    },
+    {
+      "id": "trend-1774078323159-1",
+      "topic": "AI生成小説の日常化",
+      "category": "AI・LLM",
+      "summary": "100文字小説をAIで自動生成・投稿するアカウントが活発。感動ストーリーを短時間で生み出すAIの活用が、コンテンツ作成の効率化を促進している。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-03-21T07:32:03.159Z"
+    },
+    {
+      "id": "trend-1774078323159-2",
+      "topic": "Grok AIの制限と活用",
+      "category": "AI・LLM",
+      "summary": "スーパーGrokの生成制限が話題に。AI画像生成の過度な使用で制限がかかる中、クリエイターの効率的な活用法が議論されている。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-03-21T07:32:03.159Z"
+    },
+    {
+      "id": "trend-1774078323159-3",
+      "topic": "小規模事業者持続化補助金採択",
+      "category": "スモールビジネス",
+      "summary": "小規模事業者持続化補助金（一般型）の採択が相次ぎ、事業者の資金調達が活発化。交付決定後の経費管理の重要性が強調されている。",
+      "relevance_score": 0.95,
+      "source": "x",
+      "collected_at": "2026-03-21T07:32:03.159Z"
+    },
+    {
+      "id": "trend-1774078323159-4",
+      "topic": "AI×M&Aアドバイザーの台頭",
+      "category": "M&A・事業承継",
+      "summary": "公認会計士がAIを活用したスモールビジネスのM&A支援を開始。Claude等AIツールでExit戦略を効率化する動きが注目を集めている。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-03-21T07:32:03.159Z"
+    },
+    {
+      "id": "trend-1774078323159-5",
+      "topic": "サイト売買市場の活性化",
+      "category": "M&A・事業承継",
+      "summary": "ラッコM&Aで占いサイトの値下げ情報が更新。WEBサービスやYouTubeアカウントの売買が活発で、小規模事業のExit機会が増加中。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-03-21T07:32:03.159Z"
+    },
+    {
+      "id": "trend-1774078323159-6",
+      "topic": "エンジニアリング組織の意思決定",
+      "category": "エンジニアリング",
+      "summary": "経営会議での短期・長期議論の混乱を指摘。実行可能性と機会の大きさを分けたアプローチが、エンジニアリング組織の質向上に寄与。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-03-21T07:32:03.159Z"
+    },
+    {
+      "id": "trend-1774078323159-7",
+      "topic": "PHPerKaigi 2026の開催",
+      "category": "エンジニアリング",
+      "summary": "PHPerKaigi 2026が3/20-22に予定。経営学とエンジニアリングの共通点をテーマにしたセッションが、ビジネス理解の深化を促す。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-03-21T07:32:03.159Z"
+    },
+    {
+      "id": "trend-1774078323159-8",
+      "topic": "家事代行サービスの倒産急増",
+      "category": "スモールビジネス",
+      "summary": "2025年度、家事代行の倒産が過去最多更新。販売不振が主因で、小規模事業者の差別化とマーケティング強化の必要性が浮き彫り。",
+      "relevance_score": 0.95,
+      "source": "x",
+      "collected_at": "2026-03-21T07:32:03.159Z"
+    },
+    {
+      "id": "trend-1774078323159-9",
+      "topic": "YouTubeマーケティングのAI戦略",
+      "category": "マーケティング",
+      "summary": "登録者1300人で1000万円達成のYouTube戦略。最初の30秒とAI予算活用が鍵で、共鳴マーケティングの全貌がトレンドに。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-03-21T07:32:03.159Z"
+    }
+  ]
+}
