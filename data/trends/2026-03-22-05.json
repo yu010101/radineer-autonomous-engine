@@ -1,0 +1,95 @@
+{
+  "collected_at": "2026-03-22T05:52:14.006Z",
+  "trends": [
+    {
+      "id": "trend-1774158734006-0",
+      "topic": "AIコーディングの思考クセ",
+      "category": "AI・LLM",
+      "summary": "AIに過度に依存し、自分の知識を活かさずAIに全て解決させようとするクセが問題視されている。効率的な活用のため、AIと人間の役割分担が重要。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-03-22T05:52:14.006Z"
+    },
+    {
+      "id": "trend-1774158734006-1",
+      "topic": "Adobe FireflyのAIモデル統合",
+      "category": "AI・LLM",
+      "summary": "Adobeが自社モデル以外にGoogle、OpenAIなど30以上のAIを統合。Custom Modelsでスタイル学習可能。クリエイティブツールの進化が話題。",
+      "relevance_score": 0.95,
+      "source": "x",
+      "collected_at": "2026-03-22T05:52:14.006Z"
+    },
+    {
+      "id": "trend-1774158734006-2",
+      "topic": "生成AIの著作権問題",
+      "category": "AI・LLM",
+      "summary": "生成AIが無断で著作物を学習し二次利用する倫理・法的問題が議論。クリエイターの権利侵害として訴訟増加中。日本企業の事例も反感を呼ぶ。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-03-22T05:52:14.006Z"
+    },
+    {
+      "id": "trend-1774158734006-3",
+      "topic": "AIレコーダーの業務効率化",
+      "category": "AI・LLM",
+      "summary": "Anker Soundcore Workが会議の録音・文字起こし・要約をAIで自動化。メモ取りの苦手意識を解消し、集中力を高めるツールとして注目。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-03-22T05:52:14.006Z"
+    },
+    {
+      "id": "trend-1774158734006-4",
+      "topic": "中小企業の賃金水準",
+      "category": "スモールビジネス",
+      "summary": "日本の工業中小企業の時給はOECD中位だが、国際比較で低め。労働生産性向上と付加価値経営が課題として議論されている。",
+      "relevance_score": 0.75,
+      "source": "x",
+      "collected_at": "2026-03-22T05:52:14.006Z"
+    },
+    {
+      "id": "trend-1774158734006-5",
+      "topic": "スモールビジネスの月利益100万円",
+      "category": "スモールビジネス",
+      "summary": "月利益100万円を目指すスモールビジネスが、好きで得意な仕事で幸福な人生を実現。殺し合いの競争から脱却し、自分軸で生きる重要性。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-03-22T05:52:14.006Z"
+    },
+    {
+      "id": "trend-1774158734006-6",
+      "topic": "大企業 vs 中小企業マネジメント",
+      "category": "スモールビジネス",
+      "summary": "中小企業は社長の気分次第で柔軟だが不安定。大企業は仕組み化されているが硬直的。マネジメントの違いが働き方の満足度に影響。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-03-22T05:52:14.006Z"
+    },
+    {
+      "id": "trend-1774158734006-7",
+      "topic": "事業承継の専門家動向",
+      "category": "M&A・事業承継",
+      "summary": "中小企業診断士が事業承継を専門に活動。相続対策やマイクロ法人設立が課題。専門家の日常や資格取得が共有されている。",
+      "relevance_score": 0.7,
+      "source": "x",
+      "collected_at": "2026-03-22T05:52:14.006Z"
+    },
+    {
+      "id": "trend-1774158734006-8",
+      "topic": "エンジニアリングの技術進化",
+      "category": "エンジニアリング",
+      "summary": "自動運転やAI技術の進化が車を凶器化のリスクを伴う。中小企業診断士試験対策で技術と安全のバランスが議論。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-03-22T05:52:14.006Z"
+    },
+    {
+      "id": "trend-1774158734006-9",
+      "topic": "AIによるマーケティング自動化",
+      "category": "マーケティング",
+      "summary": "OpenClawとClaudeでデータ収集から施策実行までAI自動化。人間は意思決定に集中。GitHubで成果管理し、組織再設計が進む。",
+      "relevance_score": 0.95,
+      "source": "x",
+      "collected_at": "2026-03-22T05:52:14.006Z"
+    }
+  ]
+}
