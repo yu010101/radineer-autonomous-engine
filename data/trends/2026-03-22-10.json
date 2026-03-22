@@ -1,0 +1,95 @@
+{
+  "collected_at": "2026-03-22T10:25:32.745Z",
+  "trends": [
+    {
+      "id": "trend-1774175132745-0",
+      "topic": "Claude Code Channelsのリリース",
+      "category": "AI・LLM",
+      "summary": "AnthropicがClaude Code Channelsを発表。TelegramやDiscord経由でAIエージェントを操作可能に。IDE不要でセッション制御ができ、開発の柔軟性が向上。個人開発者のワークフローを変革する可能性大。",
+      "relevance_score": 0.95,
+      "source": "x",
+      "collected_at": "2026-03-22T10:25:32.745Z"
+    },
+    {
+      "id": "trend-1774175132745-1",
+      "topic": "生成AIの臭さ除去技術",
+      "category": "AI・LLM",
+      "summary": "AI生成文の「AIくささ」を取り除く技術が話題。Claude Codeに組み込み、要約やコンテキスト注入で自然な文章に。手書き推奨も、AI活用の効率化が進む。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-03-22T10:25:32.745Z"
+    },
+    {
+      "id": "trend-1774175132745-2",
+      "topic": "中小企業ウェブサイト改善事例",
+      "category": "スモールビジネス",
+      "summary": "問い合わせ0件のサイトが導線改善で月5件達成。ターゲット明確化、サービス整理、CTA強化が鍵。制作より運用改善が成果を生む事例として注目。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-03-22T10:25:32.745Z"
+    },
+    {
+      "id": "trend-1774175132745-3",
+      "topic": "成功者の特徴と自責思考",
+      "category": "スモールビジネス",
+      "summary": "成功者は目標を定量的に分解し、失敗を肯定的に捉え、自責で行動。中小企業経営でギャップ管理とギブの余裕が重要と議論。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-03-22T10:25:32.745Z"
+    },
+    {
+      "id": "trend-1774175132745-4",
+      "topic": "ルネサンスの買収事例",
+      "category": "M&A・事業承継",
+      "summary": "ルネサンスがKSC金町スイミングスクールを買収。フィットネス業界のM&A動向を示す。事業拡大と統合が中小企業承継の参考に。",
+      "relevance_score": 0.7,
+      "source": "x",
+      "collected_at": "2026-03-22T10:25:32.745Z"
+    },
+    {
+      "id": "trend-1774175132745-5",
+      "topic": "事業承継セミナー開催",
+      "category": "M&A・事業承継",
+      "summary": "中小企業向け事業承継セミナーが増加。認定取得支援で後継者育成を促進。経営者の引退リスク軽減策として注目。",
+      "relevance_score": 0.75,
+      "source": "x",
+      "collected_at": "2026-03-22T10:25:32.745Z"
+    },
+    {
+      "id": "trend-1774175132745-6",
+      "topic": "n8nのAIエージェント機能リリース",
+      "category": "エンジニアリング",
+      "summary": "n8nがAIエージェントを正式リリース。ノーコードで700アプリ連携のワークフロー構築可能。エンジニア不要の自動化時代到来。",
+      "relevance_score": 0.95,
+      "source": "x",
+      "collected_at": "2026-03-22T10:25:32.745Z"
+    },
+    {
+      "id": "trend-1774175132745-7",
+      "topic": "KaggleでのAIエージェント活用",
+      "category": "エンジニアリング",
+      "summary": "AIエージェントがKaggleで金メダル獲得。特徴量エンジニアリングとモデル最適化を自動化。ビジネス問題解決の鍵に。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-03-22T10:25:32.745Z"
+    },
+    {
+      "id": "trend-1774175132745-8",
+      "topic": "ピアノ刀侍のユニークマーケティング",
+      "category": "マーケティング",
+      "summary": "侍・刀・ピアノの異質組み合わせが海外ウケ抜群。ビジュアルと言語不要のフックで世界レベル。異文化コンテンツの強み示す。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-03-22T10:25:32.745Z"
+    },
+    {
+      "id": "trend-1774175132745-9",
+      "topic": "ドーナツマーケティングの失敗例",
+      "category": "マーケティング",
+      "summary": "休憩室ドーナツ配布よりデスク配置が名前覚えられやすいが、逆効果の事例。行動データ読み取りの重要性と沈黙離反防止策議論。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-03-22T10:25:32.745Z"
+    }
+  ]
+}
