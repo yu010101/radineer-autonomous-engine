@@ -1,0 +1,95 @@
+{
+  "collected_at": "2026-03-22T04:50:39.228Z",
+  "trends": [
+    {
+      "id": "trend-1774155039227-0",
+      "topic": "Attention Residualsの技術革新",
+      "category": "AI・LLM",
+      "summary": "残差接続をAttentionに置き換える新技術で、計算効率1.25倍向上し精度も向上。次世代LLMの標準技術として期待。少ないコストで賢い情報選択が可能。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-03-22T04:50:39.227Z"
+    },
+    {
+      "id": "trend-1774155039228-1",
+      "topic": "超高速LLMインファレンスアルゴリズム",
+      "category": "AI・LLM",
+      "summary": "スタンフォードAIラボが開発した高速アルゴリズムで、vLLMやSGLangを超える速度。Flash Attentionの作者共著。LLMの効率化トレンドを加速。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-03-22T04:50:39.228Z"
+    },
+    {
+      "id": "trend-1774155039228-2",
+      "topic": "LLM訓練の自動化エージェント",
+      "category": "AI・LLM",
+      "summary": "LLMに訓練を丸投げすると、10時間・GPU1台で公式チームを超えるスコア達成。データ収集から調整まで自動化。正解明確タスクで成果顕著。",
+      "relevance_score": 0.95,
+      "source": "x",
+      "collected_at": "2026-03-22T04:50:39.228Z"
+    },
+    {
+      "id": "trend-1774155039228-3",
+      "topic": "生成と検証エージェントのシステム",
+      "category": "AI・LLM",
+      "summary": "生成エージェントが仮説立て、検証エージェントがRAG参照でクロスチェック。ハルシネーション回避の進化が今年のAIトレンド。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-03-22T04:50:39.228Z"
+    },
+    {
+      "id": "trend-1774155039228-4",
+      "topic": "隙間市場のスモールビジネス事例",
+      "category": "スモールビジネス",
+      "summary": "オンライン会議背景制作代行やYouTubeサムネ添削など、ニーズあり競合ゼロのサービスが成功。検索上位で市場独占。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-03-22T04:50:39.228Z"
+    },
+    {
+      "id": "trend-1774155039228-5",
+      "topic": "マイクロ事業の立ち上げ成功要因",
+      "category": "スモールビジネス",
+      "summary": "経験ベースの事業が成功しやすく、ニーズありそうで始めるのは失敗しやすい。仕組み・構造・タイミング・ニーズが鍵。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-03-22T04:50:39.228Z"
+    },
+    {
+      "id": "trend-1774155039228-6",
+      "topic": "地銀のM&A規制緩和",
+      "category": "M&A・事業承継",
+      "summary": "金融庁が地銀の子会社にM&A仲介解禁と大口融資規制緩和。後継者不足解決へ。サーチファンド普及も推進。",
+      "relevance_score": 0.95,
+      "source": "x",
+      "collected_at": "2026-03-22T04:50:39.228Z"
+    },
+    {
+      "id": "trend-1774155039228-7",
+      "topic": "M&Aの基本プロセス6ステップ",
+      "category": "M&A・事業承継",
+      "summary": "譲渡準備から最終契約までの流れを解説。事業承継の有力手段として成功の鍵を整理。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-03-22T04:50:39.228Z"
+    },
+    {
+      "id": "trend-1774155039228-8",
+      "topic": "AIエージェント構築のエンジニアリング",
+      "category": "エンジニアリング",
+      "summary": "環境整備からAIエージェント構築、サービス連携までがエンジニアリング。プログラマー需要減でもエンジニアリング需要増。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-03-22T04:50:39.228Z"
+    },
+    {
+      "id": "trend-1774155039228-9",
+      "topic": "2026年デジタルマーケティング予測",
+      "category": "マーケティング",
+      "summary": "Google視点で即時満足体験、AI検索最適化、参加型クリエイティブ、ノスタルジーリミックス、サステナビリティの具体的価値を予測。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-03-22T04:50:39.228Z"
+    }
+  ]
+}
