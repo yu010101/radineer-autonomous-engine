@@ -1,5 +1,10 @@
 {
-  "scores": {},
-  "last_updated": null,
-  "version": 1
+  "scores": {
+    "データ収集": {
+      "score": 0,
+      "trend": "stable"
+    }
+  },
+  "last_updated": "2026-03-22T23:18:59.413Z",
+  "version": 2
 }

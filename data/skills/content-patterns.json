@@ -1,5 +1,13 @@
 {
-  "patterns": [],
-  "last_updated": null,
-  "version": 1
+  "patterns": [
+    {
+      "pattern": "データ不足により有効なパターンを特定できません",
+      "evidence": "全期間でnoteとxの配列が空",
+      "score": 0,
+      "extracted_at": "2026-03-22T23:18:59.412Z",
+      "week_of": "2026-03-22"
+    }
+  ],
+  "last_updated": "2026-03-22T23:18:59.413Z",
+  "version": 2
 }
