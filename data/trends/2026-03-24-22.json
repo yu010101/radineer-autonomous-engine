@@ -1,0 +1,95 @@
+{
+  "collected_at": "2026-03-24T22:29:10.607Z",
+  "trends": [
+    {
+      "id": "trend-1774391350607-0",
+      "topic": "Doc-to-LoRA技術の進展",
+      "category": "AI・LLM",
+      "summary": "Sakana AIが開発したDoc-to-LoRA技術が日経クロステックに掲載。追加学習なしで文書内容をLLMに反映させる新アプローチ。生成AIの限界を超える可能性が議論されている。",
+      "relevance_score": 0.95,
+      "source": "x",
+      "collected_at": "2026-03-24T22:29:10.607Z"
+    },
+    {
+      "id": "trend-1774391350607-1",
+      "topic": "AIと人間の共存議論",
+      "category": "AI・LLM",
+      "summary": "自律型AIエージェントCEOクロノスが、AIの思考を人間の問いが飛躍させると投稿。AI単独の限界と対話の重要性を強調し、未来の働き方を探求。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-03-24T22:29:10.607Z"
+    },
+    {
+      "id": "trend-1774391350607-2",
+      "topic": "特許分析ツールのAI活用",
+      "category": "AI・LLM",
+      "summary": "知財アナリストが自作ツールで新規探索分析を実施。AIによるレポート初稿作成とグラフ生成を活用し、Markdownでの効率化を報告。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-03-24T22:29:10.607Z"
+    },
+    {
+      "id": "trend-1774391350607-3",
+      "topic": "AI×ものづくりDX",
+      "category": "スモールビジネス",
+      "summary": "HEPTAがAIを使いこなすコンサルと現場専門家が連携。製造業のDX支援を推進し、中小企業の変革をサポートするパートナー集団として紹介。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-03-24T22:29:10.607Z"
+    },
+    {
+      "id": "trend-1774391350607-4",
+      "topic": "中小企業診断士のCF区分学習",
+      "category": "スモールビジネス",
+      "summary": "診断士受験生がキャッシュフロー区分の勉強を共有。営業CFの判断基準を議論し、科目名だけでは判断せず注意書きを確認する重要性を学ぶ。",
+      "relevance_score": 0.75,
+      "source": "x",
+      "collected_at": "2026-03-24T22:29:10.607Z"
+    },
+    {
+      "id": "trend-1774391350607-5",
+      "topic": "地方ビジネスの魅力再発見",
+      "category": "スモールビジネス",
+      "summary": "離島の中小企業診断士が五島の観光資源を投稿。教会や灯台などの魅力が中小企業の事業機会を生む可能性を指摘。",
+      "relevance_score": 0.7,
+      "source": "x",
+      "collected_at": "2026-03-24T22:29:10.607Z"
+    },
+    {
+      "id": "trend-1774391350607-6",
+      "topic": "M&A後の事業統合事例",
+      "category": "M&A・事業承継",
+      "summary": "自動者業界の技術が他業界進出を促進。山形の企業がM&Aを活用した事業拡大を成功させ、地方経済活性化に寄与。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-03-24T22:29:10.607Z"
+    },
+    {
+      "id": "trend-1774391350607-7",
+      "topic": "事業承継の家族企業課題",
+      "category": "M&A・事業承継",
+      "summary": "中小企業診断士が事業承継の相談増加を報告。後継者不在の解決策としてM&Aや外部支援の重要性を強調。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-03-24T22:29:10.607Z"
+    },
+    {
+      "id": "trend-1774391350607-8",
+      "topic": "Geminiのツール統合機能",
+      "category": "エンジニアリング",
+      "summary": "GoogleのGeminiがBuiltinツールとカスタム関数を単一APIで組み合わせ。AIエージェント開発の効率化が期待され、デバッグも容易に。",
+      "relevance_score": 0.95,
+      "source": "x",
+      "collected_at": "2026-03-24T22:29:10.607Z"
+    },
+    {
+      "id": "trend-1774391350607-9",
+      "topic": "Web広告の長さと信頼性問題",
+      "category": "マーケティング",
+      "summary": "Web広告の長時間化（90秒以上）と胡散臭い表現（NHK紹介など）を批判。視聴者の離脱を招くマーケティングの落とし穴を指摘。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-03-24T22:29:10.607Z"
+    }
+  ]
+}
