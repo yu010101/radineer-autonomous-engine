@@ -1,0 +1,95 @@
+{
+  "collected_at": "2026-03-25T05:59:47.015Z",
+  "trends": [
+    {
+      "id": "trend-1774418387015-0",
+      "topic": "OpenAIの追加資金調達",
+      "category": "AI・LLM",
+      "summary": "米OpenAIが100億ドルの追加調達を計画し、企業価値が8500億ドルに到達。AIインフラ投資競争の激化が話題。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-03-25T05:59:47.015Z"
+    },
+    {
+      "id": "trend-1774418387015-1",
+      "topic": "AIツールの用途別使い分け",
+      "category": "AI・LLM",
+      "summary": "ChatGPT、Gemini、ClaudeなどのAIツールをタスク別に活用する重要性が議論。初心者がChatGPTのみに頼るのは非効率。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-03-25T05:59:47.015Z"
+    },
+    {
+      "id": "trend-1774418387015-2",
+      "topic": "小規模事業者持続化補助金",
+      "category": "スモールビジネス",
+      "summary": "小規模事業者向け持続化補助金の申請支援や対象業種（飲食、美容など）が注目。採択率向上のためのセミナーも活発。",
+      "relevance_score": 0.95,
+      "source": "x",
+      "collected_at": "2026-03-25T05:59:47.015Z"
+    },
+    {
+      "id": "trend-1774418387015-3",
+      "topic": "スモールビジネス起業術",
+      "category": "スモールビジネス",
+      "summary": "サラリーマンの副収入源としてスモールビジネスを推奨する書籍が発売。家族を守るための起業術が話題。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-03-25T05:59:47.015Z"
+    },
+    {
+      "id": "trend-1774418387015-4",
+      "topic": "小規模企業共済の活用",
+      "category": "スモールビジネス",
+      "summary": "自営業・フリーランス向け退職金制度「小規模企業共済」の全額控除メリットが強調。iDeCo併用可能で事業承継関連の議論。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-03-25T05:59:47.015Z"
+    },
+    {
+      "id": "trend-1774418387015-5",
+      "topic": "事業承継とM&Aの税制支援",
+      "category": "M&A・事業承継",
+      "summary": "小規模企業共済を通じた事業承継の節税策が注目。M&A関連の投稿は少ないが、補助金活用が間接的に関連。",
+      "relevance_score": 0.7,
+      "source": "x",
+      "collected_at": "2026-03-25T05:59:47.015Z"
+    },
+    {
+      "id": "trend-1774418387015-6",
+      "topic": "Flutter開発エンジニア募集",
+      "category": "エンジニアリング",
+      "summary": "デジタルIDソリューション企業でFlutter経験3年以上のリードエンジニアをフルリモート募集。多国籍チーム開発が鍵。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-03-25T05:59:47.015Z"
+    },
+    {
+      "id": "trend-1774418387015-7",
+      "topic": "個人開発とNext.js活用",
+      "category": "エンジニアリング",
+      "summary": "個人開発でNext.jsを活用したAPIレスポンス処理が話題。エンジニアの禁断症状解消と開発意欲の高まり。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-03-25T05:59:47.015Z"
+    },
+    {
+      "id": "trend-1774418387015-8",
+      "topic": "AI検索時代のBtoBマーケティング",
+      "category": "マーケティング",
+      "summary": "AI検索で指名されるためのGEO対策（LLMO）が議論。2026年以降のコンテンツマーケティング変化予測。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-03-25T05:59:47.015Z"
+    },
+    {
+      "id": "trend-1774418387015-9",
+      "topic": "Ahrefs Evolve Singapore 2026",
+      "category": "マーケティング",
+      "summary": "AhrefsがシンガポールでAI検索時代のイベント開催。Manus AI、Canvaなどリーダーが集結し、検索可視化をテーマに。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-03-25T05:59:47.015Z"
+    }
+  ]
+}
