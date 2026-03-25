@@ -1,0 +1,95 @@
+{
+  "collected_at": "2026-03-25T04:52:21.804Z",
+  "trends": [
+    {
+      "id": "trend-1774414341804-0",
+      "topic": "OpenAIの巨額調達",
+      "category": "AI・LLM",
+      "summary": "米OpenAIがベンチャー投資家から過去最大の約1200億ドルを追加調達へ。AI分野の投資活況を象徴し、技術革新の加速が期待される。",
+      "relevance_score": 1,
+      "source": "x",
+      "collected_at": "2026-03-25T04:52:21.804Z"
+    },
+    {
+      "id": "trend-1774414341804-1",
+      "topic": "AIスパム検知拡張機能",
+      "category": "AI・LLM",
+      "summary": "Twitter内のAI生成スパムを自動判別・報告・ブロックする拡張機能の提案。AIの悪用対策として注目を集めている。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-03-25T04:52:21.804Z"
+    },
+    {
+      "id": "trend-1774414341804-2",
+      "topic": "非エンジニアのAI生存戦略",
+      "category": "AI・LLM",
+      "summary": "AI時代に非エンジニアが生き残るための役割転換と戦略を議論するオンラインセミナー開催。エンジニア以外への影響大。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-03-25T04:52:21.804Z"
+    },
+    {
+      "id": "trend-1774414341804-3",
+      "topic": "生成AIのスタック戦略",
+      "category": "AI・LLM",
+      "summary": "2026年生成AIは総力戦。ChatGPTだけに頼らず最強AIスタックを構築し、無課金勢の格差を解消する戦略を解説。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-03-25T04:52:21.804Z"
+    },
+    {
+      "id": "trend-1774414341804-4",
+      "topic": "中小企業成功の鍵",
+      "category": "スモールビジネス",
+      "summary": "中小企業の成功は「違い」を明確に打ち出すブランディングとデザイン。Forbes記事で実例を紹介し、マーケティングの重要性を強調。",
+      "relevance_score": 1,
+      "source": "x",
+      "collected_at": "2026-03-25T04:52:21.804Z"
+    },
+    {
+      "id": "trend-1774414341804-5",
+      "topic": "中小企業の新卒採用",
+      "category": "スモールビジネス",
+      "summary": "中小企業での新卒採用のリアルな体験談。採用、教育、チーム影響をPodcastでぶっちゃけ。経営者向けの参考情報。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-03-25T04:52:21.804Z"
+    },
+    {
+      "id": "trend-1774414341804-6",
+      "topic": "すかいらーくのM&A",
+      "category": "M&A・事業承継",
+      "summary": "すかいらーくが炭火焼干物定食「しんぱち食堂」を110億円でPEから買収。外食業界のポートフォリオ戦略と高回転業態の価値を分析。",
+      "relevance_score": 1,
+      "source": "x",
+      "collected_at": "2026-03-25T04:52:21.804Z"
+    },
+    {
+      "id": "trend-1774414341804-7",
+      "topic": "吉泉産業の事業承継",
+      "category": "M&A・事業承継",
+      "summary": "創業70年の食品機械メーカー吉泉産業の事業承継と成長戦略。海外展開で100年企業を目指す老舗の挑戦をインタビュー。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-03-25T04:52:21.804Z"
+    },
+    {
+      "id": "trend-1774414341804-8",
+      "topic": "TypeScript案件増加",
+      "category": "エンジニアリング",
+      "summary": "TypeScriptを活用したエンジニア案件が急増中。ReactやAWSとの組み合わせで需要が高まり、フリーランス支援も活発。",
+      "relevance_score": 0.7,
+      "source": "x",
+      "collected_at": "2026-03-25T04:52:21.804Z"
+    },
+    {
+      "id": "trend-1774414341804-9",
+      "topic": "ネット広告運用の実践",
+      "category": "マーケティング",
+      "summary": "利益が出るネット広告の運用ポイント。検索広告中心にターゲティング優先の逆転発想と、ECサイト向けの勘違いを避けるノウハウを解説。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-03-25T04:52:21.804Z"
+    }
+  ]
+}
