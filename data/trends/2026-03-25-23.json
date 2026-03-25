@@ -1,0 +1,95 @@
+{
+  "collected_at": "2026-03-25T23:33:13.691Z",
+  "trends": [
+    {
+      "id": "trend-1774481593690-0",
+      "topic": "CanvaのAI機能活用",
+      "category": "AI・LLM",
+      "summary": "CanvaにAI生成機能が搭載され、オリジナルのアイコンや素材を簡単に作成可能。スモールビジネスでのデザイン効率化が進む。手軽さが話題に。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-03-25T23:33:13.690Z"
+    },
+    {
+      "id": "trend-1774481593690-1",
+      "topic": "AIコンテンツ作成の独自性重視",
+      "category": "AI・LLM",
+      "summary": "AIで簡単に儲かるコンテンツ作成は一時的で淘汰される。AIを使わない独自表現や面白さを追求すべきという意見が広がる。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-03-25T23:33:13.691Z"
+    },
+    {
+      "id": "trend-1774481593691-2",
+      "topic": "生成AIイラストの議論",
+      "category": "AI・LLM",
+      "summary": "生成AIでイラスト作成が増加。手描きとの境界や楽しみ方の議論が活発。ありのままに楽しむ声も。",
+      "relevance_score": 0.7,
+      "source": "x",
+      "collected_at": "2026-03-25T23:33:13.691Z"
+    },
+    {
+      "id": "trend-1774481593691-3",
+      "topic": "中小企業融資支援拡大",
+      "category": "スモールビジネス",
+      "summary": "大阪府が中東情勢影響の中小企業向け制度融資を創設。相談窓口も強化し、経営支援を推進。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-03-25T23:33:13.691Z"
+    },
+    {
+      "id": "trend-1774481593691-4",
+      "topic": "中小企業診断士資格ブーム",
+      "category": "スモールビジネス",
+      "summary": "診断士試験を目指す投稿増加。建設経理士との比較や勉強意欲が高まり、資格取得で事業支援を目指す。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-03-25T23:33:13.691Z"
+    },
+    {
+      "id": "trend-1774481593691-5",
+      "topic": "AIを活用した事業集客",
+      "category": "スモールビジネス",
+      "summary": "特化商材の中小企業がAIでターゲット選定を再構築。30日で売上300%アップの事例が共有され、データ分析の重要性が高まる。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-03-25T23:33:13.691Z"
+    },
+    {
+      "id": "trend-1774481593691-6",
+      "topic": "未経験からエンジニアキャリア",
+      "category": "エンジニアリング",
+      "summary": "文系未経験者が新卒で入社しリーダー活躍。エンジニアの楽しさと厳しさをインタビューで共有。就職事例が増加。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-03-25T23:33:13.691Z"
+    },
+    {
+      "id": "trend-1774481593691-7",
+      "topic": "ITエンジニアの英語学習",
+      "category": "エンジニアリング",
+      "summary": "エンジニアママがTOEICからCEFR B1を目指す。英語学習アプリ開発や日常投稿で、スキルアップのトレンド。",
+      "relevance_score": 0.7,
+      "source": "x",
+      "collected_at": "2026-03-25T23:33:13.691Z"
+    },
+    {
+      "id": "trend-1774481593691-8",
+      "topic": "無人店舗の拡大",
+      "category": "マーケティング",
+      "summary": "Amazon Go撤退でもミスドやファミマの極小無人店が増殖。成長の背景に効率化と利便性。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-03-25T23:33:13.691Z"
+    },
+    {
+      "id": "trend-1774481593691-9",
+      "topic": "SEOとデジタルマーケティング",
+      "category": "マーケティング",
+      "summary": "SEO対策代行やデジタル集客の支援事例増加。ECメディアのCVR向上やビッグKW上位化が話題。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-03-25T23:33:13.691Z"
+    }
+  ]
+}
