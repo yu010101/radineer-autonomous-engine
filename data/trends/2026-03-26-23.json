@@ -1,0 +1,95 @@
+{
+  "collected_at": "2026-03-26T23:31:05.817Z",
+  "trends": [
+    {
+      "id": "trend-1774567865816-0",
+      "topic": "生成AIの教育活用",
+      "category": "AI・LLM",
+      "summary": "YEデジタルが2027年1月から教員向け安心生成AI環境を提供開始。教育現場でのAI導入が進み、授業効率化が期待される。",
+      "relevance_score": 0.95,
+      "source": "x",
+      "collected_at": "2026-03-26T23:31:05.817Z"
+    },
+    {
+      "id": "trend-1774567865817-1",
+      "topic": "AI育児支援ツール",
+      "category": "AI・LLM",
+      "summary": "AIが赤ちゃんの泣き声を分析し「さみしい」など感情を教えてくれるツールが話題。三島市で導入され、親の負担軽減に寄与。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-03-26T23:31:05.817Z"
+    },
+    {
+      "id": "trend-1774567865817-2",
+      "topic": "画像生成AIの影響",
+      "category": "AI・LLM",
+      "summary": "生成AI使用者が3年半で画力が向上したか議論。練習次第でAI不要のスキル習得可能との意見が広がる。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-03-26T23:31:05.817Z"
+    },
+    {
+      "id": "trend-1774567865817-3",
+      "topic": "DX推進の社内抵抗",
+      "category": "スモールビジネス",
+      "summary": "中小企業でDX導入時の社内抵抗が課題。協力文化の構築と戦略的アプローチが重要視される。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-03-26T23:31:05.817Z"
+    },
+    {
+      "id": "trend-1774567865817-4",
+      "topic": "起業家の行動原則",
+      "category": "スモールビジネス",
+      "summary": "佐藤航陽氏の書籍で起業家の可能性を解き放つ言葉が注目。行動する人に世界は優しいとのメッセージが共感を呼ぶ。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-03-26T23:31:05.817Z"
+    },
+    {
+      "id": "trend-1774567865817-5",
+      "topic": "放課後教育の起業",
+      "category": "スモールビジネス",
+      "summary": "娘の育児を機に英語・自然塾を運営する起業ストーリー。子どもたちの社会活躍力を育む場として人気。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-03-26T23:31:05.817Z"
+    },
+    {
+      "id": "trend-1774567865817-6",
+      "topic": "事業譲渡の判断",
+      "category": "M&A・事業承継",
+      "summary": "安定事業の譲渡相談で売却せず維持を提案。M&Aコンサルが適切判断の重要性を強調。",
+      "relevance_score": 0.95,
+      "source": "x",
+      "collected_at": "2026-03-26T23:31:05.817Z"
+    },
+    {
+      "id": "trend-1774567865817-7",
+      "topic": "M&Aコンサル独立",
+      "category": "M&A・事業承継",
+      "summary": "独立後輩が自己明確化で仕事獲得。M&A専門家が自身の役割を積極発信する重要性を共有。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-03-26T23:31:05.817Z"
+    },
+    {
+      "id": "trend-1774567865817-8",
+      "topic": "AI駆動開発戦略",
+      "category": "エンジニアリング",
+      "summary": "AX戦略でAI活用を定着。プロセス再設計と人材育成で組織変革を推進する事例が話題。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-03-26T23:31:05.817Z"
+    },
+    {
+      "id": "trend-1774567865817-9",
+      "topic": "Meta広告の住宅マーケティング",
+      "category": "マーケティング",
+      "summary": "住宅会社向けMeta広告運用が注目。月数千万規模の実績で企画からLP改善まで伴走支援。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-03-26T23:31:05.817Z"
+    }
+  ]
+}
