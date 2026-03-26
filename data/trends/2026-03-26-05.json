@@ -1,0 +1,95 @@
+{
+  "collected_at": "2026-03-26T05:04:36.867Z",
+  "trends": [
+    {
+      "id": "trend-1774501476867-0",
+      "topic": "GitHub Copilotのデータ利用ポリシー変更",
+      "category": "AI・LLM",
+      "summary": "GitHub CopilotのFree/Pro/Pro+ユーザー向けに、4月24日からインタラクションデータのAIモデル学習利用ポリシーが変更。Business/Enterpriseは影響なし。オプトアウト可能で、日本語ブログで詳細説明。プライバシー設定の重要性を強調。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-03-26T05:04:36.867Z"
+    },
+    {
+      "id": "trend-1774501476867-1",
+      "topic": "ARC-AGI-3ベンチマーク発表",
+      "category": "AI・LLM",
+      "summary": "ARC PrizeがARC-AGI-3を発表。エージェント型知能の未飽和ベンチマークで、人間100%、AI<1%。既知知識ではなく学習能力をテストし、AGI到達を示すギャップを強調。",
+      "relevance_score": 0.95,
+      "source": "x",
+      "collected_at": "2026-03-26T05:04:36.867Z"
+    },
+    {
+      "id": "trend-1774501476867-2",
+      "topic": "AI活用でスモールビジネス売上300万円達成",
+      "category": "スモールビジネス",
+      "summary": "AIを活用した事業で3ヶ月でゼロから300万円売上を達成した事例。業務改善と売上向上の方法をYouTube取材で解説。スモールビジネスでのAI導入の可能性を示す。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-03-26T05:04:36.867Z"
+    },
+    {
+      "id": "trend-1774501476867-3",
+      "topic": "スモールビジネスの生産性向上策",
+      "category": "スモールビジネス",
+      "summary": "仕事量を2倍に増やしつつ稼働時間を制限することで生産性を向上。ハードワークの落とし穴を避け、創意工夫を促すアプローチを提案。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-03-26T05:04:36.867Z"
+    },
+    {
+      "id": "trend-1774501476867-4",
+      "topic": "豊田自動織機のTOB成立",
+      "category": "M&A・事業承継",
+      "summary": "豊田自動織機のTOBが成立し、国内最大級の5.9兆円M&A。事業再編の動きが活発化し、グループ内の統合を加速。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-03-26T05:04:36.867Z"
+    },
+    {
+      "id": "trend-1774501476867-5",
+      "topic": "シン・NECのM&A戦略",
+      "category": "M&A・事業承継",
+      "summary": "NECが過去最大M&Aでテック世界大手を目指す。シン・NECの変革を試金石に、事業承継と成長戦略を推進。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-03-26T05:04:36.867Z"
+    },
+    {
+      "id": "trend-1774501476867-6",
+      "topic": "エンジニアのDXあるある",
+      "category": "エンジニアリング",
+      "summary": "顧客のDX推進に対し、営業とエンジニアの認識ギャップを描くあるある。現場のリアルなコミュニケーション課題をユーモアで表現。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-03-26T05:04:36.867Z"
+    },
+    {
+      "id": "trend-1774501476867-7",
+      "topic": "エンジニア基礎知識5選",
+      "category": "エンジニアリング",
+      "summary": "HTTP、SOLID原則、DB正規化、認証/認可、ログ設計の基礎が重要。学んで正解だった知識として、現場で活用を推奨。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-03-26T05:04:36.867Z"
+    },
+    {
+      "id": "trend-1774501476867-8",
+      "topic": "モトローラの目黒蓮CM起用",
+      "category": "マーケティング",
+      "summary": "モトローラが目黒蓮を起用した日本独自CMで認知度2倍に。最先端技術の民主化を狙い、若年層向けマーケティングを展開。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-03-26T05:04:36.867Z"
+    },
+    {
+      "id": "trend-1774501476867-9",
+      "topic": "2026年SEOコンサルカオスマップ",
+      "category": "マーケティング",
+      "summary": "東京のSEO会社をカオスマップ化。選定の参考に、多様なサービスを分類。Webマーケティングのトレンドを反映。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-03-26T05:04:36.867Z"
+    }
+  ]
+}
