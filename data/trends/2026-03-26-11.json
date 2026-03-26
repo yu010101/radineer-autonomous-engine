@@ -1,0 +1,95 @@
+{
+  "collected_at": "2026-03-26T11:04:06.432Z",
+  "trends": [
+    {
+      "id": "trend-1774523046432-0",
+      "topic": "AIによる業務自動化の影響",
+      "category": "AI・LLM",
+      "summary": "AIに仕事を任せると本当のやりたいことが見えにくくなるという懸念が広がる。一方で、自動化により時間が生まれる実験が注目されている。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-03-26T11:04:06.432Z"
+    },
+    {
+      "id": "trend-1774523046432-1",
+      "topic": "人間らしさの再定義",
+      "category": "AI・LLM",
+      "summary": "AIが効率的に業務をこなす時代に、人間らしさの価値が議論されている。感情や創造性が差別化の鍵となる。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-03-26T11:04:06.432Z"
+    },
+    {
+      "id": "trend-1774523046432-2",
+      "topic": "生成AI活用の仕事術",
+      "category": "AI・LLM",
+      "summary": "Copilotなどの生成AIを活用した時短技が書籍で紹介され、業務効率化のトレンドとして人気。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-03-26T11:04:06.432Z"
+    },
+    {
+      "id": "trend-1774523046432-3",
+      "topic": "中小企業診断士資格取得ブーム",
+      "category": "スモールビジネス",
+      "summary": "中小企業診断士の勉強法や試験対策が活発に共有され、経営知識向上を目指す人が増加中。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-03-26T11:04:06.432Z"
+    },
+    {
+      "id": "trend-1774523046432-4",
+      "topic": "AIを活用したSNS運用自動化",
+      "category": "スモールビジネス",
+      "summary": "中小企業向けにAIエージェントでSNS投稿を自動化する支援が広がり、業務効率化が進む。",
+      "relevance_score": 0.95,
+      "source": "x",
+      "collected_at": "2026-03-26T11:04:06.432Z"
+    },
+    {
+      "id": "trend-1774523046432-5",
+      "topic": "小規模事業者の通信費最適化",
+      "category": "スモールビジネス",
+      "summary": "mineoの法人プランが経費削減ツールとして注目され、フリーランスや中小企業の利益向上に寄与。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-03-26T11:04:06.432Z"
+    },
+    {
+      "id": "trend-1774523046432-6",
+      "topic": "JDIの買収動向",
+      "category": "M&A・事業承継",
+      "summary": "マイクロンによるJDI買収が話題となり、ディスプレイ業界のM&Aが活発化の兆し。",
+      "relevance_score": 0.7,
+      "source": "x",
+      "collected_at": "2026-03-26T11:04:06.432Z"
+    },
+    {
+      "id": "trend-1774523046432-7",
+      "topic": "データサイエンス学習の推進",
+      "category": "エンジニアリング",
+      "summary": "KaggleコンペやChatGPT活用でデータサイエンティストを目指す初学者が増加。特徴量エンジニアリングが鍵。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-03-26T11:04:06.432Z"
+    },
+    {
+      "id": "trend-1774523046432-8",
+      "topic": "ITエンジニア転職支援",
+      "category": "エンジニアリング",
+      "summary": "プログラミングスクールが未経験者向けに就職支援を強化し、ネットワークエンジニアなどの需要が高まる。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-03-26T11:04:06.432Z"
+    },
+    {
+      "id": "trend-1774523046432-9",
+      "topic": "マーケティングの人間力重視",
+      "category": "マーケティング",
+      "summary": "AI進化の中で共感や信頼構築の人間力がマーケティングの差別化要因として強調される。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-03-26T11:04:06.432Z"
+    }
+  ]
+}
