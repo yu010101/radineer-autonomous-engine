@@ -1,0 +1,95 @@
+{
+  "collected_at": "2026-03-28T13:50:19.700Z",
+  "trends": [
+    {
+      "id": "trend-1774705819699-0",
+      "topic": "生成AI音楽プロデュース",
+      "category": "AI・LLM",
+      "summary": "生成AIを活用した音楽プロデュースが話題。話題の人をMV化するチャンネルが登場し、AIのクリエイティブ活用が広がっている。依頼も増え、AI音楽の可能性が議論されている。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-03-28T13:50:19.699Z"
+    },
+    {
+      "id": "trend-1774705819699-1",
+      "topic": "AIボイスレコーダーの利便性",
+      "category": "AI・LLM",
+      "summary": "スマホのAIボイスレコーダー機能が便利と評価。自動録音の自動化を望む声が多く、日常業務でのAI統合が進む。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-03-28T13:50:19.699Z"
+    },
+    {
+      "id": "trend-1774705819699-2",
+      "topic": "AI相談ツールの活用",
+      "category": "AI・LLM",
+      "summary": "AIに漫画タイトルを相談し解決。記憶喚起や情報検索でAIの日常利用が増加中。",
+      "relevance_score": 0.7,
+      "source": "x",
+      "collected_at": "2026-03-28T13:50:19.699Z"
+    },
+    {
+      "id": "trend-1774705819699-3",
+      "topic": "小規模事業者のAI仮想組織",
+      "category": "スモールビジネス",
+      "summary": "Claude Codeで仮想組織構築が可能に。小規模事業者の業務効率化が進み、AIが中立判断でサポート。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-03-28T13:50:19.699Z"
+    },
+    {
+      "id": "trend-1774705819699-4",
+      "topic": "中小企業のAI生産性向上",
+      "category": "スモールビジネス",
+      "summary": "AIネイティブ企業で従業員生産性が17倍。中小企業向けAI活用術が注目され、組織変革のヒントに。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-03-28T13:50:19.699Z"
+    },
+    {
+      "id": "trend-1774705819699-5",
+      "topic": "事業承継と休職制度",
+      "category": "M&A・事業承継",
+      "summary": "中小企業の休職期間が3-6ヶ月が一般的。事業承継時のメンタルヘルス管理が課題として浮上。",
+      "relevance_score": 0.7,
+      "source": "x",
+      "collected_at": "2026-03-28T13:50:19.699Z"
+    },
+    {
+      "id": "trend-1774705819699-6",
+      "topic": "ゲーム業界の買収動向",
+      "category": "M&A・事業承継",
+      "summary": "7 Days to Dieの買収が話題。ゲーム開発企業のM&Aが増え、業界再編の兆し。",
+      "relevance_score": 0.6,
+      "source": "x",
+      "collected_at": "2026-03-28T13:50:19.699Z"
+    },
+    {
+      "id": "trend-1774705819699-7",
+      "topic": "プログラミングスクールの需要",
+      "category": "エンジニアリング",
+      "summary": "侍エンジニアやポテパンキャンプなどのオンラインスクールが人気。転職・副業向け無料体験が活発。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-03-28T13:50:19.699Z"
+    },
+    {
+      "id": "trend-1774705819699-8",
+      "topic": "基本情報技術者試験のスキル棚卸し",
+      "category": "エンジニアリング",
+      "summary": "45歳エンジニアが試験をスキル確認に活用。キャリアレビューとして有効と評価。",
+      "relevance_score": 0.75,
+      "source": "x",
+      "collected_at": "2026-03-28T13:50:19.699Z"
+    },
+    {
+      "id": "trend-1774705819699-9",
+      "topic": "SNSマーケティングの課題",
+      "category": "マーケティング",
+      "summary": "LinkedInでの自社PRが伸び悩む一方、他社引用で拡散。広告効果の難しさが議論され、戦略見直しの声。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-03-28T13:50:19.699Z"
+    }
+  ]
+}
