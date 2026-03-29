@@ -80,8 +80,17 @@
         "x_posts": []
       },
       "collected_at": "2026-03-28T13:45:50.360Z"
+    },
+    {
+      "date": "2026-03-29",
+      "performance": {
+        "date": "2026-03-29",
+        "note_articles": [],
+        "x_posts": []
+      },
+      "collected_at": "2026-03-29T13:48:55.273Z"
     }
   ],
-  "last_updated": "2026-03-28T13:45:50.360Z",
+  "last_updated": "2026-03-29T13:48:55.273Z",
   "version": 1
 }
