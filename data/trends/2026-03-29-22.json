@@ -1,0 +1,95 @@
+{
+  "collected_at": "2026-03-29T22:28:38.683Z",
+  "trends": [
+    {
+      "id": "trend-1774823318683-0",
+      "topic": "AI時代に生き残る2タイプ",
+      "category": "AI・LLM",
+      "summary": "Palantir CEOがAI時代に生き残るのはAIを活用する人とAIを理解する人だと指摘。AIの進化が社会を変革し、適応力が鍵となる。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-03-29T22:28:38.683Z"
+    },
+    {
+      "id": "trend-1774823318683-1",
+      "topic": "AIエージェント向け機械可読価格設定",
+      "category": "AI・LLM",
+      "summary": "ResendがAIエージェント向けにMarkdown形式の価格ページを公開。コンテンツ交渉でLLMが容易に解析可能にし、AIとの統合を促進。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-03-29T22:28:38.683Z"
+    },
+    {
+      "id": "trend-1774823318683-2",
+      "topic": "コスパの良い資格ランキング",
+      "category": "スモールビジネス",
+      "summary": "2026年最新の資格ランキングでFP2級や簿記2級などが上位。スモールビジネスオーナー向けに実務で役立つ資格を20位から紹介。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-03-29T22:28:38.683Z"
+    },
+    {
+      "id": "trend-1774823318683-3",
+      "topic": "大企業 vs 中小企業マネジメント",
+      "category": "スモールビジネス",
+      "summary": "中小企業は社長の気分次第で決まる一方、大企業はルールベース。中小の課題として人手不足や評価の不透明さが指摘される。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-03-29T22:28:38.683Z"
+    },
+    {
+      "id": "trend-1774823318683-4",
+      "topic": "日本M&Aセンターの女性社員マインド",
+      "category": "M&A・事業承継",
+      "summary": "日本M&Aセンターの女性社員の積極的な姿勢が注目。M&A業界での成功マインドセットを学ぶ事例として話題。",
+      "relevance_score": 0.7,
+      "source": "x",
+      "collected_at": "2026-03-29T22:28:38.683Z"
+    },
+    {
+      "id": "trend-1774823318683-5",
+      "topic": "ネットワンシステムズのSCSK吸収合併",
+      "category": "M&A・事業承継",
+      "summary": "SCSKが2027年4月にネットワンシステムズを吸収合併。IT業界の大型M&Aで事業統合が進む。",
+      "relevance_score": 0.95,
+      "source": "x",
+      "collected_at": "2026-03-29T22:28:38.683Z"
+    },
+    {
+      "id": "trend-1774823318683-6",
+      "topic": "豊田自動織機のTOB成立",
+      "category": "M&A・事業承継",
+      "summary": "国内最大級の5.9兆円TOBが成立。豊田自動織機の買収がM&A市場を活性化させる。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-03-29T22:28:38.683Z"
+    },
+    {
+      "id": "trend-1774823318683-7",
+      "topic": "Claude Codeの活用",
+      "category": "エンジニアリング",
+      "summary": "Claude Codeでソフトウェア開発が効率化。非エンジニアもPDCAを回せ、ビジネス課題をエンジニアリングに変換可能。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-03-29T22:28:38.683Z"
+    },
+    {
+      "id": "trend-1774823318683-8",
+      "topic": "本番環境SQL直接操作の危険性",
+      "category": "エンジニアリング",
+      "summary": "本番DBで直接SQLを叩くのは危険。WHERE句忘れでデータ全削除のリスクを警告し、安全な開発習慣を促す。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-03-29T22:28:38.683Z"
+    },
+    {
+      "id": "trend-1774823318683-9",
+      "topic": "デジタルマーケティング成功実例",
+      "category": "マーケティング",
+      "summary": "建設業SaaS「サクミル」の事例が『デジタルマーケティング成功実例100』に掲載。顧客ヒアリングの重要性を強調。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-03-29T22:28:38.683Z"
+    }
+  ]
+}
