@@ -1,0 +1,95 @@
+{
+  "collected_at": "2026-03-30T02:12:52.720Z",
+  "trends": [
+    {
+      "id": "trend-1774836772720-0",
+      "topic": "AIによる業務自動化",
+      "category": "AI・LLM",
+      "summary": "GeminiやChatGPTを活用したGAS自動化で業務時間を大幅短縮。研修で学んだAIツールが手動作業を5分に激減させる事例が増加。AIの精度向上と実務活用がトレンド。",
+      "relevance_score": 0.95,
+      "source": "x",
+      "collected_at": "2026-03-30T02:12:52.720Z"
+    },
+    {
+      "id": "trend-1774836772720-1",
+      "topic": "ChatGPT副業活用術",
+      "category": "AI・LLM",
+      "summary": "曖昧な質問を避け、背景・目的を明確にすることでChatGPTの精度が向上。副業初心者がAIを育てて実務解決。画面共有セッションで即解決の相談が増。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-03-30T02:12:52.720Z"
+    },
+    {
+      "id": "trend-1774836772720-2",
+      "topic": "小規模事業者持続化補助金",
+      "category": "スモールビジネス",
+      "summary": "申請計画書の作成支援が活発。採択ポイントの相談がよろず支援拠点で増加。売上拡大や販路開拓のための無料相談がスモールビジネスの成長を後押し。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-03-30T02:12:52.720Z"
+    },
+    {
+      "id": "trend-1774836772720-3",
+      "topic": "起業リスクの数値化",
+      "category": "スモールビジネス",
+      "summary": "起業できない理由としてリスク不明確さを指摘。副業から小さく検証し、再現性ある成果を積み上げる。失敗を価値に変えるマインドが推奨され、起業ハードル低下。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-03-30T02:12:52.720Z"
+    },
+    {
+      "id": "trend-1774836772720-4",
+      "topic": "ESG拡張事業性評価",
+      "category": "M&A・事業承継",
+      "summary": "スモールビジネス向け事業性評価パッケージにESG対応を追加。十六銀行が運用開始。定量・定性データを活用したM&A・承継の支援がSDGs潮流で注目。",
+      "relevance_score": 0.75,
+      "source": "x",
+      "collected_at": "2026-03-30T02:12:52.720Z"
+    },
+    {
+      "id": "trend-1774836772720-5",
+      "topic": "スモールビジネスの出口戦略",
+      "category": "M&A・事業承継",
+      "summary": "成長期と停滞期のサイクルを理解し、愚直な継続でブレイクスルー。M&A EXITのための戦略設計が重要。事業売却経験者がアドバイスを発信。",
+      "relevance_score": 0.7,
+      "source": "x",
+      "collected_at": "2026-03-30T02:12:52.720Z"
+    },
+    {
+      "id": "trend-1774836772720-6",
+      "topic": "データエンジニアリングのAI自動化",
+      "category": "エンジニアリング",
+      "summary": "SnowflakeのCortex CodeやProject SnowWorkがデータパイプラインを自動化。クエリ量増大で収益成長。モルガン・スタンレーが投資判断維持。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-03-30T02:12:52.720Z"
+    },
+    {
+      "id": "trend-1774836772720-7",
+      "topic": "クラウドセキュリティ侵害",
+      "category": "エンジニアリング",
+      "summary": "EU委員会のAWSクラウド侵害で数百GBデータ盗難の可能性。データ資産管理の重要性が高まり、DSPMサービスが検知・対処を自動化して支援。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-03-30T02:12:52.720Z"
+    },
+    {
+      "id": "trend-1774836772720-8",
+      "topic": "顔認証顧客体験サービス",
+      "category": "マーケティング",
+      "summary": "NECと森ビルが麻布台ヒルズで顔認証を活用したフリクションレスサービス開始。顧客体験向上と効率化がマーケティングの新トレンド。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-03-30T02:12:52.720Z"
+    },
+    {
+      "id": "trend-1774836772720-9",
+      "topic": "AI名刺OCR搭載CRM",
+      "category": "マーケティング",
+      "summary": "無料CRM「ClientX」がAI名刺OCR・顧客管理・営業支援を一体化。中小企業向けに導入しやすく、マーケティング効率化のツールとして注目。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-03-30T02:12:52.720Z"
+    }
+  ]
+}
