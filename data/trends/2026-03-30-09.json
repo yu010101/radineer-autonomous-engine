@@ -1,0 +1,95 @@
+{
+  "collected_at": "2026-03-30T09:09:49.752Z",
+  "trends": [
+    {
+      "id": "trend-1774861789752-0",
+      "topic": "AIライティングの活用",
+      "category": "AI・LLM",
+      "summary": "AIを活用したライティングでビューとスキが倍増。売れる文章の型を学び、勉強不足を解消して稼ぐ。センスではなく構造が重要。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-03-30T09:09:49.752Z"
+    },
+    {
+      "id": "trend-1774861789752-1",
+      "topic": "Claude CodeのOS化",
+      "category": "エンジニアリング",
+      "summary": "Claude CodeをOSのように活用し、便利さを評価する一方、日本企業のAI依存のリスクを指摘。外国モデルに頼る競争の将来を懸念。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-03-30T09:09:49.752Z"
+    },
+    {
+      "id": "trend-1774861789752-2",
+      "topic": "スモールビジネスのリモートワーク",
+      "category": "スモールビジネス",
+      "summary": "リモートワーク求人の67%が経験者要求。中小企業は柔軟な働き方で大企業と差別化し、人材獲得を目指す。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-03-30T09:09:49.752Z"
+    },
+    {
+      "id": "trend-1774861789752-3",
+      "topic": "持たない経営プロジェクト",
+      "category": "スモールビジネス",
+      "summary": "人口減少とAI台頭で、外部プロとつながる組織へ。freeeがスモールビジネス向け自由な経営を推進。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-03-30T09:09:49.752Z"
+    },
+    {
+      "id": "trend-1774861789752-4",
+      "topic": "SNS集客の事業計画",
+      "category": "マーケティング",
+      "summary": "SNS集客は読みづらいが競争が緩くリターン大。事業計画に組み込みにくくてもコミットで成果を出せる。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-03-30T09:09:49.752Z"
+    },
+    {
+      "id": "trend-1774861789752-5",
+      "topic": "生成AIブームの情弱ビジネス",
+      "category": "AI・LLM",
+      "summary": "生成AIブームが情弱ビジネスで終わる可能性。SNSの大言壮語やAIインフルエンサーが問題視される。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-03-30T09:09:49.752Z"
+    },
+    {
+      "id": "trend-1774861789752-6",
+      "topic": "小規模事業者補助金",
+      "category": "スモールビジネス",
+      "summary": "岩手県奥州市で設備投資・店舗改装補助金。中小企業最大200万円、小規模50万円支援。物価高対策に。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-03-30T09:09:49.752Z"
+    },
+    {
+      "id": "trend-1774861789752-7",
+      "topic": "編集者の個人X発信",
+      "category": "マーケティング",
+      "summary": "出版業界で編集者が個人Xでスカウト・マーケティング。異業種からの参入も発信で可能。他社交流が業界活性化。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-03-30T09:09:49.752Z"
+    },
+    {
+      "id": "trend-1774861789752-8",
+      "topic": "AI記事執筆サービス",
+      "category": "マーケティング",
+      "summary": "TechSuiteの「バクヤスAI 記事代行」がスタートアップ展示会で注目。AIで効率化し、マーケティング支援。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-03-30T09:09:49.752Z"
+    },
+    {
+      "id": "trend-1774861789752-9",
+      "topic": "夜間作業のエンジニア不満",
+      "category": "エンジニアリング",
+      "summary": "NWエンジニアの夜間作業が続き、プライベート時間を奪う。残業代より時間を重視し、働き方改革を望む。",
+      "relevance_score": 0.7,
+      "source": "x",
+      "collected_at": "2026-03-30T09:09:49.752Z"
+    }
+  ]
+}
