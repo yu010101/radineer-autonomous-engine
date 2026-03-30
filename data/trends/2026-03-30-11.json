@@ -1,0 +1,95 @@
+{
+  "collected_at": "2026-03-30T11:00:14.616Z",
+  "trends": [
+    {
+      "id": "trend-1774868414616-0",
+      "topic": "AIの電力需要と再エネの課題",
+      "category": "AI・LLM",
+      "summary": "AIの急増する電力需要に対し、再エネだけでは対応不足で原子力復活の議論が高まる。日本企業のエネルギー課題が焦点。Voicy番組で解説。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-03-30T11:00:14.616Z"
+    },
+    {
+      "id": "trend-1774868414616-1",
+      "topic": "AI進化と人間の感性価値",
+      "category": "AI・LLM",
+      "summary": "AIが情報を処理する中、人間の感性や記憶が資産に。ポケモンカード市場拡大で、AIに代替できない感情的価値が強調される。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-03-30T11:00:14.616Z"
+    },
+    {
+      "id": "trend-1774868414616-2",
+      "topic": "Paperclip AIエージェントツール",
+      "category": "AI・LLM",
+      "summary": "オープンソースのAIエージェントオーケストレーションツールPaperclipが3週間で30K GitHub stars。heartbeat configで記憶問題解決、非エンジニア向けテンプレート提供。",
+      "relevance_score": 0.95,
+      "source": "x",
+      "collected_at": "2026-03-30T11:00:14.616Z"
+    },
+    {
+      "id": "trend-1774868414616-3",
+      "topic": "オフライン×スモールビジネス",
+      "category": "スモールビジネス",
+      "summary": "AI進化でオフラインのスモールビジネスがワクワク。自分と向き合い、AIに追われない強みを活かす重要性。記事で共感の声。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-03-30T11:00:14.616Z"
+    },
+    {
+      "id": "trend-1774868414616-4",
+      "topic": "スモールビジネスAI活用リード",
+      "category": "スモールビジネス",
+      "summary": "米国SBA調査でスモールビジネスがAIマーケティング自動化で大企業をリード。導入企業の半数が研修未投資で、人材育成が鍵。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-03-30T11:00:14.616Z"
+    },
+    {
+      "id": "trend-1774868414616-5",
+      "topic": "持たない経営プロジェクト",
+      "category": "スモールビジネス",
+      "summary": "人口減少・AI台頭で、人や物を「持たず」外部プロとつながる自由な経営を推進。freeeが業務委託管理でスモールビジネス支援。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-03-30T11:00:14.616Z"
+    },
+    {
+      "id": "trend-1774868414616-6",
+      "topic": "税理士業界のAI影響と事業承継",
+      "category": "M&A・事業承継",
+      "summary": "DMM亀山会長の言葉から、税理士の定型業務はAI代替へ。節税・事業承継は人間必要で、レイヤー選択が年収2極化の鍵。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-03-30T11:00:14.616Z"
+    },
+    {
+      "id": "trend-1774868414616-7",
+      "topic": "IT会社M&Aのエンジニア定着率",
+      "category": "M&A・事業承継",
+      "summary": "IT M&Aで買い手が重視するのはエンジニア定着率。人が辞めない会社が評価高く、採用・定着投資がバリューアップの最強策。",
+      "relevance_score": 0.95,
+      "source": "x",
+      "collected_at": "2026-03-30T11:00:14.616Z"
+    },
+    {
+      "id": "trend-1774868414616-8",
+      "topic": "ハーネスエンジニアリングの重要性",
+      "category": "エンジニアリング",
+      "summary": "AI活用の成果は環境構築次第。ハーネスエンジニアリングがクリエイティブな仕事で、組織判断を前提にエンジニアの腕の見せ所。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-03-30T11:00:14.616Z"
+    },
+    {
+      "id": "trend-1774868414616-9",
+      "topic": "広告会社の独自ポジショニング",
+      "category": "マーケティング",
+      "summary": "静岡の広告会社シンカーが“2番”を名乗り顧客第一。SEO設計と高速PDCAで差別化、独自戦略の事例。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-03-30T11:00:14.616Z"
+    }
+  ]
+}
