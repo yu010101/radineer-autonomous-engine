@@ -1,0 +1,95 @@
+{
+  "collected_at": "2026-03-30T23:33:11.828Z",
+  "trends": [
+    {
+      "id": "trend-1774913591828-0",
+      "topic": "JX金属のAI解析活用",
+      "category": "AI・LLM",
+      "summary": "JX金属の有価証券報告書をAIで圧縮解析。半導体用スパッタリングターゲットが主力で、銅を中心とした非鉄金属の精錬・加工を一貫体制で展開。チップ材料供給の重要性が話題。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-03-30T23:33:11.828Z"
+    },
+    {
+      "id": "trend-1774913591828-1",
+      "topic": "意識研究とAIの境界",
+      "category": "AI・LLM",
+      "summary": "Stanislas Dehaene氏の意識講義が無料公開。Ignition理論やP3b波、ワーキングメモリを解説。AI開発者必見の神経科学知見で、機械意識の可能性を探る。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-03-30T23:33:11.828Z"
+    },
+    {
+      "id": "trend-1774913591828-2",
+      "topic": "Claude×GeminiのAI併用",
+      "category": "AI・LLM",
+      "summary": "AIを何でもできるツールとせず、役割定義して設計に組み込む。ClaudeとGeminiの併用が業務改善の第一歩として中小企業で注目。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-03-30T23:33:11.828Z"
+    },
+    {
+      "id": "trend-1774913591828-3",
+      "topic": "中小企業のDXとEC拡大",
+      "category": "スモールビジネス",
+      "summary": "情シスゼロの36名企業がkintoneで業務統合、EC売上3倍達成。動画マーケティングも活用し、PB利益1.8倍。同時進行の効率化が鍵。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-03-30T23:33:11.828Z"
+    },
+    {
+      "id": "trend-1774913591828-4",
+      "topic": "中小企業廃業と税理士の役割",
+      "category": "M&A・事業承継",
+      "summary": "57.4%の経営者が廃業意向。税理士はクライアント減少を補う新獲得へシフト。成長投資する事務所が10年後を決める。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-03-30T23:33:11.828Z"
+    },
+    {
+      "id": "trend-1774913591828-5",
+      "topic": "中小企業の付加価値向上支援",
+      "category": "スモールビジネス",
+      "summary": "物価高対策として稼ぐ力底上げ。中小企業のブランド力強化支援が本質。値上げ可能な付加価値向上政策を求める声。",
+      "relevance_score": 0.75,
+      "source": "x",
+      "collected_at": "2026-03-30T23:33:11.828Z"
+    },
+    {
+      "id": "trend-1774913591828-6",
+      "topic": "農業エンジニアリングの革新",
+      "category": "エンジニアリング",
+      "summary": "スパイスキューブの空きテナント農業システム。世界中どこでも植物栽培を実現するミッションで、働き方インタビューが話題。",
+      "relevance_score": 0.7,
+      "source": "x",
+      "collected_at": "2026-03-30T23:33:11.828Z"
+    },
+    {
+      "id": "trend-1774913591828-7",
+      "topic": "Claude Codeの開発制限",
+      "category": "エンジニアリング",
+      "summary": "Claude CodeのProプランでクォータ制限が早く到達。個人開発者がアプリ作成で1時間弱でリミット。Weekly Limitも厳しい。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-03-30T23:33:11.828Z"
+    },
+    {
+      "id": "trend-1774913591828-8",
+      "topic": "NFTマーケティングの関係人口可視化",
+      "category": "マーケティング",
+      "summary": "日本郵政のローカル共創イニシアティブ。NFTで地域つながりを創出、関係人口を可視化するデジタルマーケティング戦略。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-03-30T23:33:11.828Z"
+    },
+    {
+      "id": "trend-1774913591828-9",
+      "topic": "SNSマーケティング勉強会",
+      "category": "マーケティング",
+      "summary": "ONE Labの毎週火曜勉強会で企業SNS運用・インフルエンサー活用・広告運用ノウハウ共有。カメラOFFで参加可能、即実践的。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-03-30T23:33:11.828Z"
+    }
+  ]
+}
