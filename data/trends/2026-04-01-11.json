@@ -1,0 +1,95 @@
+{
+  "collected_at": "2026-04-01T11:52:12.396Z",
+  "trends": [
+    {
+      "id": "trend-1775044332396-0",
+      "topic": "AIイラストの活用拡大",
+      "category": "AI・LLM",
+      "summary": "X上でAI生成イラスト、特にウマ娘などのファンアートが活発。NAIなどのツールを使い、日常的な創作を楽しむ投稿が増加。AIの創造性を活かしたコミュニティ形成が進む。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-01T11:52:12.396Z"
+    },
+    {
+      "id": "trend-1775044332396-1",
+      "topic": "AI音楽生成の影響",
+      "category": "AI・LLM",
+      "summary": "AI音楽の登場により、DAWを細部まで扱えるエンジニアの価値が高まる議論。AIが曲の基盤を作っても、人間の微調整が不可欠と指摘。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-04-01T11:52:12.396Z"
+    },
+    {
+      "id": "trend-1775044332396-2",
+      "topic": "小規模事業者支援策",
+      "category": "スモールビジネス",
+      "summary": "中東情勢を踏まえた中小企業・小規模事業者への支援情報が共有。補助金や助成金の活用を促す投稿がトレンド。",
+      "relevance_score": 0.7,
+      "source": "x",
+      "collected_at": "2026-04-01T11:52:12.396Z"
+    },
+    {
+      "id": "trend-1775044332396-3",
+      "topic": "スモールビジネスのEXIT戦略",
+      "category": "M&A・事業承継",
+      "summary": "イーロン・マスクのX買収戦略を例に、AI活用を通じた事業売却の重要性を議論。グローバルエコシステム構築のヒントとして注目。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-01T11:52:12.396Z"
+    },
+    {
+      "id": "trend-1775044332396-4",
+      "topic": "AI副業の仕組み化",
+      "category": "スモールビジネス",
+      "summary": "AIを活用した副業再設計や自動化実験の記録が共有。労働依存からの脱却を目指すスモールビジネス設計が話題。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-04-01T11:52:12.396Z"
+    },
+    {
+      "id": "trend-1775044332396-5",
+      "topic": "YouTubeスモールビジネス",
+      "category": "スモールビジネス",
+      "summary": "非属人型YouTubeチャンネル運営で月商1000万円達成の事例。サムネイル重視の戦略が小規模事業者の参考に。",
+      "relevance_score": 0.7,
+      "source": "x",
+      "collected_at": "2026-04-01T11:52:12.396Z"
+    },
+    {
+      "id": "trend-1775044332396-6",
+      "topic": "クラウドエンジニアリング学習",
+      "category": "エンジニアリング",
+      "summary": "AWS、Google Cloud、Terraformなどのスキルアップ計画が投稿。IaCやCI/CDのハンズオン学習トレンド。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-01T11:52:12.396Z"
+    },
+    {
+      "id": "trend-1775044332396-7",
+      "topic": "Claude Codeのオープンソース化",
+      "category": "エンジニアリング",
+      "summary": "AnthropicのAIコーディングツールClaude CodeがOSS化。ターミナルベースの自然言語指示で開発効率向上。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-04-01T11:52:12.396Z"
+    },
+    {
+      "id": "trend-1775044332396-8",
+      "topic": "マーケティングの心理戦",
+      "category": "マーケティング",
+      "summary": "顧客のメタ認知操作を活用した戦略議論。商品ではなく「新しい自分」を提供するアプローチが鍵。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-01T11:52:12.396Z"
+    },
+    {
+      "id": "trend-1775044332396-9",
+      "topic": "面薬局の集客マーケティング",
+      "category": "マーケティング",
+      "summary": "非効率な面薬局の処方箋枚数増加策。現場集客とAI活用のマーケティング課題が共有。",
+      "relevance_score": 0.7,
+      "source": "x",
+      "collected_at": "2026-04-01T11:52:12.396Z"
+    }
+  ]
+}
