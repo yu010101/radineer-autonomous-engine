@@ -1,0 +1,95 @@
+{
+  "collected_at": "2026-04-01T10:53:36.014Z",
+  "trends": [
+    {
+      "id": "trend-1775040816014-0",
+      "topic": "AI競艇予想ツール",
+      "category": "AI・LLM",
+      "summary": "競艇予想AI「ジンベイ」が300万以上のレースデータを学習し、高精度の予想を提供。直前情報も活用し、レース15分前に配信。AIの予測精度が注目を集めている。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-01T10:53:36.014Z"
+    },
+    {
+      "id": "trend-1775040816014-1",
+      "topic": "AIイラスト生成ブーム",
+      "category": "AI・LLM",
+      "summary": "AIツールを使ったイラスト作成が活発。ボカロ系やオリジナルキャラクターの生成が人気で、ユーザーが日常的に共有。加筆なしのtext2imgがトレンド。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-04-01T10:53:36.014Z"
+    },
+    {
+      "id": "trend-1775040816014-2",
+      "topic": "ハーネスエンジニアリング",
+      "category": "エンジニアリング",
+      "summary": "DeepMindの論文でAI開発のハーネス手法が話題。Claude CodeのSkillsで自動ルール生成・検証を実現。AIの環境設計が効率化の鍵。",
+      "relevance_score": 0.95,
+      "source": "x",
+      "collected_at": "2026-04-01T10:53:36.014Z"
+    },
+    {
+      "id": "trend-1775040816014-3",
+      "topic": "アトツギ企業ツアー",
+      "category": "M&A・事業承継",
+      "summary": "名古屋のアトツギ企業ツアーに参加し、コミュニティ拡大の動き。老舗企業の後継ぎがネットワークを強化し、事業承継の課題解決を目指す。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-04-01T10:53:36.014Z"
+    },
+    {
+      "id": "trend-1775040816014-4",
+      "topic": "中小企業診断士のコンサル",
+      "category": "スモールビジネス",
+      "summary": "中小企業診断士がコンサル業で協会入会に興味。事業者目線の支援を重視し、運営の大変さを共有。零細企業の成長支援が焦点。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-04-01T10:53:36.014Z"
+    },
+    {
+      "id": "trend-1775040816014-5",
+      "topic": "BtoBマーケティング強化",
+      "category": "マーケティング",
+      "summary": "SBメディアHDがマジセミ社を買収し、BtoBマーケティングを強化。デジタルツール活用で中小企業の販促支援を拡大。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-01T10:53:36.014Z"
+    },
+    {
+      "id": "trend-1775040816014-6",
+      "topic": "マーケティング入門講座",
+      "category": "マーケティング",
+      "summary": "早稲田塾がマーケティング理論の基礎講座を開講。緑茶やテーマパークの事例からマインドを学び、普遍的なスキルを習得。",
+      "relevance_score": 0.75,
+      "source": "x",
+      "collected_at": "2026-04-01T10:53:36.014Z"
+    },
+    {
+      "id": "trend-1775040816014-7",
+      "topic": "Vポイントマーケティング子会社化",
+      "category": "マーケティング",
+      "summary": "三井住友カードがVポイントマーケティングを子会社化。ポイント活用の販促戦略を強化し、顧客エンゲージメント向上を図る。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-04-01T10:53:36.014Z"
+    },
+    {
+      "id": "trend-1775040816014-8",
+      "topic": "火山灰除去関連技術",
+      "category": "エンジニアリング",
+      "summary": "火山灰除去銘柄として豊和工業や兼松エンジニアリングが注目。災害対策のエンジニアリング技術が中小企業で議論。",
+      "relevance_score": 0.7,
+      "source": "x",
+      "collected_at": "2026-04-01T10:53:36.014Z"
+    },
+    {
+      "id": "trend-1775040816014-9",
+      "topic": "GAS自動作成Skills",
+      "category": "AI・LLM",
+      "summary": "Claude CodeのSkillsでGoogle Apps Scriptを自律生成。CLIとClasp活用で作成・テスト・修正を自動化し、業務効率化が進む。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-01T10:53:36.014Z"
+    }
+  ]
+}
