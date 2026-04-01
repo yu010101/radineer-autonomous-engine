@@ -1,0 +1,95 @@
+{
+  "collected_at": "2026-04-01T15:02:39.460Z",
+  "trends": [
+    {
+      "id": "trend-1775055759459-0",
+      "topic": "Ray-Ban Meta AIグラス日本上陸",
+      "category": "AI・LLM",
+      "summary": "Ray-Ban MetaのAIグラスが日本で発売決定。度付き対応で食事記録やハンズフリー操作が可能。翻訳機能も日本語対応し、SFのような日常が近づく。開発相談も活発。",
+      "relevance_score": 0.95,
+      "source": "x",
+      "collected_at": "2026-04-01T15:02:39.460Z"
+    },
+    {
+      "id": "trend-1775055759460-1",
+      "topic": "AI生成映像のゲーム業界影響",
+      "category": "AI・LLM",
+      "summary": "AIで高品質映像作成が可能になり、ゲーム開発のスパンが加速。ただし権利問題や著作権の懸念から大手企業は慎重。3DCG風2D映像の活用が議論。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-04-01T15:02:39.460Z"
+    },
+    {
+      "id": "trend-1775055759460-2",
+      "topic": "Claude Codeのサブエージェント機能",
+      "category": "AI・LLM",
+      "summary": "Claude Codeにサブエージェントが追加され、カードゲーム開発などで並列作業が可能。新規実装やUI更新を効率化。開発者の生産性向上に期待。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-01T15:02:39.460Z"
+    },
+    {
+      "id": "trend-1775055759460-3",
+      "topic": "AIロボット科学者の生産性向上",
+      "category": "AI・LLM",
+      "summary": "AIロボットが研究開発を100倍効率化。エイプリルフールネタながら、科学分野でのAI活用が話題。中小企業での導入可能性も議論。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-04-01T15:02:39.460Z"
+    },
+    {
+      "id": "trend-1775055759460-4",
+      "topic": "中小企業新人教育の課題",
+      "category": "スモールビジネス",
+      "summary": "中小企業では新人を実戦投入し失敗を許さない教育が問題視。大企業との違いが浮き彫り。ガバナンス改善で労働環境向上を求める声。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-01T15:02:39.460Z"
+    },
+    {
+      "id": "trend-1775055759460-5",
+      "topic": "原油高による中小企業倒産懸念",
+      "category": "スモールビジネス",
+      "summary": "サウジ産原油急騰で中小企業のコスト増大。突然の倒産リスクが高まり、社員の路頭に迷う事態を懸念。エネルギー国産化の必要性が高まる。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-04-01T15:02:39.460Z"
+    },
+    {
+      "id": "trend-1775055759460-6",
+      "topic": "中小企業診断士の新年度スタート",
+      "category": "スモールビジネス",
+      "summary": "中小企業診断士が新年度に活躍。伴走支援や診断で企業成長を後押し。Dr.Fou氏の名前変更も話題に。支援企業数増加中。",
+      "relevance_score": 0.75,
+      "source": "x",
+      "collected_at": "2026-04-01T15:02:39.460Z"
+    },
+    {
+      "id": "trend-1775055759460-7",
+      "topic": "ARグラス開発の空間コンピューティング",
+      "category": "エンジニアリング",
+      "summary": "Apple Vision ProやAIグラス開発が活発。OnePlanet社がAR実装を請け負い、空間コンピューティングのR&Dが進む。日本市場拡大へ。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-01T15:02:39.460Z"
+    },
+    {
+      "id": "trend-1775055759460-8",
+      "topic": "ゲーム開発のAI活用と課題",
+      "category": "エンジニアリング",
+      "summary": "SCUMゲーム開発者の苦労話が共有。AI導入で効率化も、希望と現実のギャップが議論。クロアチア開発者の経験が参考に。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-04-01T15:02:39.460Z"
+    },
+    {
+      "id": "trend-1775055759460-9",
+      "topic": "デジタルマーケティングの広告不満",
+      "category": "マーケティング",
+      "summary": "YouTubeやXの広告ブロック回避が問題。生成AI画像の多用や頻繁表示にイライラ。Web集客支援の重要性が再認識される。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-04-01T15:02:39.460Z"
+    }
+  ]
+}
