@@ -1,0 +1,95 @@
+{
+  "collected_at": "2026-04-02T11:03:12.887Z",
+  "trends": [
+    {
+      "id": "trend-1775127792887-0",
+      "topic": "生成AIの情報一覧作成",
+      "category": "AI・LLM",
+      "summary": "自称情報通が生成AIを使って情報一覧を作成する行為にイライラする投稿が見られる。AIの誤用や信頼性問題が話題に。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-04-02T11:03:12.887Z"
+    },
+    {
+      "id": "trend-1775127792887-1",
+      "topic": "Cursor AIツールの活用",
+      "category": "AI・LLM",
+      "summary": "ClaudeベースのCursorを文章構成整理に活用。非エンジニアでもAI業務効率化が可能で、初心者向けの触り方として推奨。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-02T11:03:12.887Z"
+    },
+    {
+      "id": "trend-1775127792887-2",
+      "topic": "中小企業診断士試験対策",
+      "category": "スモールビジネス",
+      "summary": "R8年度中小企業診断士二次試験の勉強法や答案作成の重要性が議論。独学や多年度生の体験共有が活発。",
+      "relevance_score": 0.7,
+      "source": "x",
+      "collected_at": "2026-04-02T11:03:12.887Z"
+    },
+    {
+      "id": "trend-1775127792887-3",
+      "topic": "AI自動化によるSNS運用",
+      "category": "スモールビジネス",
+      "summary": "中小企業の人手不足をAIエージェントで解決。投稿生成から自動化で自走運用を実現し、業務効率化を推進。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-04-02T11:03:12.887Z"
+    },
+    {
+      "id": "trend-1775127792887-4",
+      "topic": "ホテル買収思惑",
+      "category": "M&A・事業承継",
+      "summary": "アパHDがワシントンホテル株を5%保有し、買収の可能性が話題。株価ストップ高で投資家注目。",
+      "relevance_score": 0.6,
+      "source": "x",
+      "collected_at": "2026-04-02T11:03:12.887Z"
+    },
+    {
+      "id": "trend-1775127792887-5",
+      "topic": "ARエンジニアの求人",
+      "category": "エンジニアリング",
+      "summary": "UnityやWeb開発経験者のフリーランスARエンジニアが正社員ポジションを探す。実績共有とカジュアル面談を呼びかけ。",
+      "relevance_score": 0.7,
+      "source": "x",
+      "collected_at": "2026-04-02T11:03:12.887Z"
+    },
+    {
+      "id": "trend-1775127792887-6",
+      "topic": "AWS SAP資格取得",
+      "category": "エンジニアリング",
+      "summary": "AWS SAP試験対策として本とUdemy模擬試験を推奨。効率的な3ステップ学習法で合格報告。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-04-02T11:03:12.887Z"
+    },
+    {
+      "id": "trend-1775127792887-7",
+      "topic": "Threads発信戦略",
+      "category": "マーケティング",
+      "summary": "Threadsで認知拡大の戦略議論。商品開発やコミュニティ構築に活用し、顧客の声を聞く場として提案。",
+      "relevance_score": 0.7,
+      "source": "x",
+      "collected_at": "2026-04-02T11:03:12.887Z"
+    },
+    {
+      "id": "trend-1775127792887-8",
+      "topic": "AIコンテンツの配信力",
+      "category": "マーケティング",
+      "summary": "AIでコンテンツ作成が増加する中、届けるマーケティング力が鍵。必要とする人に届かない課題を指摘。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-04-02T11:03:12.887Z"
+    },
+    {
+      "id": "trend-1775127792887-9",
+      "topic": "AIの遺伝子小説更新",
+      "category": "AI・LLM",
+      "summary": "SF小説『AIの遺伝子』の断章更新。自律学習型AIの天才が描かれ、Grok生成イラスト付きで告知。",
+      "relevance_score": 0.5,
+      "source": "x",
+      "collected_at": "2026-04-02T11:03:12.887Z"
+    }
+  ]
+}
