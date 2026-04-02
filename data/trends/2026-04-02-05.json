@@ -1,0 +1,95 @@
+{
+  "collected_at": "2026-04-02T05:01:28.202Z",
+  "trends": [
+    {
+      "id": "trend-1775106088201-0",
+      "topic": "Claude CodeのAI開発パートナー活用",
+      "category": "AI・LLM",
+      "summary": "Claude Codeの教科書が話題。初心者が1週間でAIを開発パートナーとして使いこなす方法を解説。AIを活用したコーディング効率化が注目されている。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-02T05:01:28.201Z"
+    },
+    {
+      "id": "trend-1775106088201-1",
+      "topic": "Gemini CLIによるAIパーソナライズ",
+      "category": "AI・LLM",
+      "summary": "Gemini CLIとGoogle Antigravityを使ってAIを自分専用パートナーに育てるコンテキストエンジニアリングの実践方法が共有。AIのカスタマイズがトレンド。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-04-02T05:01:28.201Z"
+    },
+    {
+      "id": "trend-1775106088201-2",
+      "topic": "小規模事業者持続化補助金",
+      "category": "スモールビジネス",
+      "summary": "VTuberやイラストレーター向けに最大50万円の補助金が利用可能。申請の注意点や税務知識の重要性が議論され、クリエイターの事業化支援として注目。",
+      "relevance_score": 0.95,
+      "source": "x",
+      "collected_at": "2026-04-02T05:01:28.201Z"
+    },
+    {
+      "id": "trend-1775106088201-3",
+      "topic": "訪問介護事業者の倒産増加",
+      "category": "スモールビジネス",
+      "summary": "2025年の倒産件数が91件で過去最多更新。地方の小規模事業所が退出し、制度崩壊の懸念が高まる。公費負担増大の課題が指摘されている。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-04-02T05:01:28.201Z"
+    },
+    {
+      "id": "trend-1775106088201-4",
+      "topic": "事業承継relayの採用強化",
+      "category": "M&A・事業承継",
+      "summary": "オープンネーム事業承継サービス「relay」がYOUTRUSTで採用を強化。後継者募集とメンバーつながりを促進し、地域活性化の取り組みが話題。",
+      "relevance_score": 0.75,
+      "source": "x",
+      "collected_at": "2026-04-02T05:01:28.201Z"
+    },
+    {
+      "id": "trend-1775106088201-5",
+      "topic": "スモールビジネスのEXIT戦略",
+      "category": "M&A・事業承継",
+      "summary": "M&Aによる1億EXITを目指す研究所の活動。Google AnalyticsのAI連携が分析を容易にし、事業売却の出口戦略設計が議論されている。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-04-02T05:01:28.201Z"
+    },
+    {
+      "id": "trend-1775106088201-6",
+      "topic": "Claude Code流出事件とセキュリティ",
+      "category": "エンジニアリング",
+      "summary": "Claude Codeの流出を受け、副業自動化ツール開発時の秘密鍵管理が重要視。 .envファイルのGitコミット禁止など、基礎セキュリティ対策が共有。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-02T05:01:28.201Z"
+    },
+    {
+      "id": "trend-1775106088201-7",
+      "topic": "SESエンジニアの脱出とキャリア",
+      "category": "エンジニアリング",
+      "summary": "元SESエンジニアが脱出法を共有。研修で営業業務を強いられる心労や、Xの新機能活用によるスパム報告が、エンジニアの働き方改革として話題。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-04-02T05:01:28.201Z"
+    },
+    {
+      "id": "trend-1775106088201-8",
+      "topic": "Canva APIのデザイン自動化",
+      "category": "マーケティング",
+      "summary": "Canva APIでECサイト連携による商品バナー自動生成が可能。企業のマーケティング自動化ツールとして進化し、Webデザイン効率化が注目。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-02T05:01:28.201Z"
+    },
+    {
+      "id": "trend-1775106088201-9",
+      "topic": "プログラマティックDOOHの台頭",
+      "category": "マーケティング",
+      "summary": "OOH広告の25%を占めるDOOHが時間帯・天気でクリエイティブ自動変更。オンラインとオフラインの統合が、広告業界の新インフラとして議論。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-04-02T05:01:28.201Z"
+    }
+  ]
+}
