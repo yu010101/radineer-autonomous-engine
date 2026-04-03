@@ -1,0 +1,95 @@
+{
+  "collected_at": "2026-04-03T14:04:49.223Z",
+  "trends": [
+    {
+      "id": "trend-1775225089222-0",
+      "topic": "AI動画生成ツールSeedance2.0",
+      "category": "AI・LLM",
+      "summary": "Topview AIの新機能Seedance2.0が話題。ダンス動画を画像キャラクターに高精度で再現し、背景変更も可能。激しい動きでも破綻少なく、クリエイターの創作を革新。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-03T14:04:49.222Z"
+    },
+    {
+      "id": "trend-1775225089222-1",
+      "topic": "AIコード生成による業務効率化",
+      "category": "AI・LLM",
+      "summary": "保育園アプリのエクスポート機能不足をAIにコードを書かせて解決。日常業務の自動化事例として、AIの即時活用が注目されている。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-04-03T14:04:49.222Z"
+    },
+    {
+      "id": "trend-1775225089222-2",
+      "topic": "中小企業の社長体温採用",
+      "category": "スモールビジネス",
+      "summary": "大手には仕組み、中小には社長の直接的な想いと距離の近さが採用の強み。ブランディングより本物のWillを伝える重要性が議論。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-04-03T14:04:49.222Z"
+    },
+    {
+      "id": "trend-1775225089222-3",
+      "topic": "IT受託企業のAI広報活用",
+      "category": "スモールビジネス",
+      "summary": "守秘義務下の実績をAIハイパーパーソナライゼーションで伝える。顧客行動に基づく最適メッセージで差別化を図る中小企業事例。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-04-03T14:04:49.222Z"
+    },
+    {
+      "id": "trend-1775225089222-4",
+      "topic": "EC事業承継の取り組み",
+      "category": "M&A・事業承継",
+      "summary": "中小企業診断士が食品・特産品のEC事業承継をサポート。戦略分析から運用改善まで、オンライン指導で後継者育成を推進。",
+      "relevance_score": 0.7,
+      "source": "x",
+      "collected_at": "2026-04-03T14:04:49.222Z"
+    },
+    {
+      "id": "trend-1775225089222-5",
+      "topic": "モダンデータ基盤設計",
+      "category": "エンジニアリング",
+      "summary": "Software Design誌でデータ基盤の最前線特集。Snowflakeやdbtを活用したエンジニアリング手法が注目。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-04-03T14:04:49.222Z"
+    },
+    {
+      "id": "trend-1775225089222-6",
+      "topic": "フリーランスエンジニア単価向上",
+      "category": "エンジニアリング",
+      "summary": "経験年数より市場解決実績の言語化が鍵。スキルシート盛らず、問題解決力をアピールする戦略が有効。",
+      "relevance_score": 0.75,
+      "source": "x",
+      "collected_at": "2026-04-03T14:04:49.222Z"
+    },
+    {
+      "id": "trend-1775225089222-7",
+      "topic": "AIパーソナライズドマーケティング",
+      "category": "マーケティング",
+      "summary": "中小企業でAIを活用した顧客行動分析と最適メッセージ配信。信頼構築を人間が担うハイブリッドアプローチがトレンド。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-03T14:04:49.222Z"
+    },
+    {
+      "id": "trend-1775225089222-8",
+      "topic": "NTT IOWNのPR失敗",
+      "category": "マーケティング",
+      "summary": "光電融合技術の誤ったメッセージングで投資意欲を削ぐ。技術理解不足のマーケティングが課題として指摘。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-04-03T14:04:49.222Z"
+    },
+    {
+      "id": "trend-1775225089222-9",
+      "topic": "海外アプリマーケティングの課題",
+      "category": "マーケティング",
+      "summary": "TikTokやRedditの活用難易度高く、SEO/ASO中心の地道戦略。海外オーディエンスリーチのシステム的障壁が議論。",
+      "relevance_score": 0.75,
+      "source": "x",
+      "collected_at": "2026-04-03T14:04:49.222Z"
+    }
+  ]
+}
