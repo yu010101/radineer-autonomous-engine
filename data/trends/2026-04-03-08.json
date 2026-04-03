@@ -1,0 +1,95 @@
+{
+  "collected_at": "2026-04-03T08:51:57.684Z",
+  "trends": [
+    {
+      "id": "trend-1775206317684-0",
+      "topic": "AIの無断学習問題",
+      "category": "AI・LLM",
+      "summary": "生成AIによる絵師の権利侵害が議論されており、無断学習の被害が深刻化。AI被害の理解を促す声が高まっている。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-03T08:51:57.684Z"
+    },
+    {
+      "id": "trend-1775206317684-1",
+      "topic": "Microsoftの日本AI投資",
+      "category": "AI・LLM",
+      "summary": "Microsoftが日本に1兆6000億円規模のAI投資を発表。さくら・ソフトバンクと共同開発でAIインフラ強化が進む。",
+      "relevance_score": 0.95,
+      "source": "x",
+      "collected_at": "2026-04-03T08:51:57.684Z"
+    },
+    {
+      "id": "trend-1775206317684-2",
+      "topic": "中小企業診断士資格の人気",
+      "category": "スモールビジネス",
+      "summary": "中小企業診断士の予備校比較やテキストが話題。未経験者向けの資格取得支援が増え、経営コンサルタント志向が高まる。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-04-03T08:51:57.684Z"
+    },
+    {
+      "id": "trend-1775206317684-3",
+      "topic": "持続化補助金の活用",
+      "category": "スモールビジネス",
+      "summary": "第19回持続化補助金の様式が公開され、中小企業向けのオンライン申請が開始。事業継続支援が活発化。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-04-03T08:51:57.684Z"
+    },
+    {
+      "id": "trend-1775206317684-4",
+      "topic": "RaaSの普及",
+      "category": "スモールビジネス",
+      "summary": "Robot as a Serviceが中小企業に広がり、配膳・清掃ロボットを月額で導入。人手不足解消の標準装備へ。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-03T08:51:57.684Z"
+    },
+    {
+      "id": "trend-1775206317684-5",
+      "topic": "M&A仲介の格安サービス",
+      "category": "M&A・事業承継",
+      "summary": "年商1-3億円の事業承継M&Aを格安で仲介。銀行員が副業で運営し、全国対応で士業の下請けも受付。",
+      "relevance_score": 0.75,
+      "source": "x",
+      "collected_at": "2026-04-03T08:51:57.684Z"
+    },
+    {
+      "id": "trend-1775206317684-6",
+      "topic": "国産ミサイル開発の必要性",
+      "category": "エンジニアリング",
+      "summary": "米軍依存の懸念から、国産ミサイル開発の重要性が指摘。技術力強化で自衛力を高める議論が活発。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-04-03T08:51:57.684Z"
+    },
+    {
+      "id": "trend-1775206317684-7",
+      "topic": "SEOライティングの重要性",
+      "category": "マーケティング",
+      "summary": "Web記事のSEOが鍵で、キーワードベースの誤った書き方を避け、目的ベースのライティングが推奨される。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-04-03T08:51:57.684Z"
+    },
+    {
+      "id": "trend-1775206317684-8",
+      "topic": "ブログ発信の強み",
+      "category": "マーケティング",
+      "summary": "元ブロガーの発信力が集客・販売に活き、SEOやセールススキルが起業家に有利。ブログ経験者の強みが再評価。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-03T08:51:57.684Z"
+    },
+    {
+      "id": "trend-1775206317684-9",
+      "topic": "AI活用ホームページ",
+      "category": "マーケティング",
+      "summary": "ホームページで無料診断やチャットボットを導入し、ユーザー体験を向上。問い合わせ増加のためのマーケティング施策が話題。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-04-03T08:51:57.684Z"
+    }
+  ]
+}
