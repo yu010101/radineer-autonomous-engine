@@ -1,0 +1,95 @@
+{
+  "collected_at": "2026-04-03T23:31:33.557Z",
+  "trends": [
+    {
+      "id": "trend-1775259093556-0",
+      "topic": "AIエージェントの活用",
+      "category": "AI・LLM",
+      "summary": "副業でAIエージェントを活用し、ブログやnoteで月3万を目指す実験が話題。挫折経験者が再挑戦中。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-03T23:31:33.556Z"
+    },
+    {
+      "id": "trend-1775259093556-1",
+      "topic": "SlackのAI機能強化",
+      "category": "AI・LLM",
+      "summary": "SalesforceがSlackbotをAIエージェント化。メール作成やスケジューリングを自動化し、業務効率向上。",
+      "relevance_score": 0.95,
+      "source": "x",
+      "collected_at": "2026-04-03T23:31:33.556Z"
+    },
+    {
+      "id": "trend-1775259093556-2",
+      "topic": "AIイラスト生成",
+      "category": "AI・LLM",
+      "summary": "AIツールで猫や美女のイラストを作成・投稿。創作漫画やグラビア風作品が人気。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-04-03T23:31:33.556Z"
+    },
+    {
+      "id": "trend-1775259093556-3",
+      "topic": "スモールビジネスの経費管理",
+      "category": "スモールビジネス",
+      "summary": "税理士事務所で経費の誤用が問題に。小規模事業者は民主商工会に相談を推奨。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-03T23:31:33.556Z"
+    },
+    {
+      "id": "trend-1775259093556-4",
+      "topic": "海外スモールビジネス事例",
+      "category": "スモールビジネス",
+      "summary": "米カーウォッシュ市場でモバイルディテイリングが成長。道具投資から月商1,125万円達成。",
+      "relevance_score": 0.92,
+      "source": "x",
+      "collected_at": "2026-04-03T23:31:33.556Z"
+    },
+    {
+      "id": "trend-1775259093557-5",
+      "topic": "相続税と事業承継",
+      "category": "M&A・事業承継",
+      "summary": "遺産相続で高額税金が発生し放棄の事例。延納や小規模宅地特例の活用を議論。",
+      "relevance_score": 0.88,
+      "source": "x",
+      "collected_at": "2026-04-03T23:31:33.557Z"
+    },
+    {
+      "id": "trend-1775259093557-6",
+      "topic": "ITエンジニア育成",
+      "category": "エンジニアリング",
+      "summary": "専門学校でITエンジニアやゲームプログラマーを育成。新入生入学式が注目。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-03T23:31:33.557Z"
+    },
+    {
+      "id": "trend-1775259093557-7",
+      "topic": "エンジニアの職務経歴書",
+      "category": "エンジニアリング",
+      "summary": "STAR法で課題解決力をアピール。スキル羅列ではなく成果を物語化。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-04-03T23:31:33.557Z"
+    },
+    {
+      "id": "trend-1775259093557-8",
+      "topic": "炎上マーケティング",
+      "category": "マーケティング",
+      "summary": "新入社員歓迎会の感謝欠如を炎上させ議論。コミュニケーションの重要性。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-04-03T23:31:33.557Z"
+    },
+    {
+      "id": "trend-1775259093557-9",
+      "topic": "販促戦略立案",
+      "category": "マーケティング",
+      "summary": "自社商品のマーケティング担当募集。ココナラで戦略立案を依頼。",
+      "relevance_score": 0.87,
+      "source": "x",
+      "collected_at": "2026-04-03T23:31:33.557Z"
+    }
+  ]
+}
