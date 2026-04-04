@@ -1,0 +1,95 @@
+{
+  "collected_at": "2026-04-04T01:59:26.906Z",
+  "trends": [
+    {
+      "id": "trend-1775267966906-0",
+      "topic": "AI副業の活用",
+      "category": "AI・LLM",
+      "summary": "副業でAIツールを活用し月10万円稼ぐ方法が話題。挫折経験者向けにリアルなプロセスを公開中。AIイラストやシンガー応用も見られる。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-04T01:59:26.906Z"
+    },
+    {
+      "id": "trend-1775267966906-1",
+      "topic": "Claude Codeの業務効率化",
+      "category": "AI・LLM",
+      "summary": "Claude Codeを使って開発工数を半減。中小企業向け業務自動化ツール作成が容易になり、API連携やデータ処理が効率化。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-04-04T01:59:26.906Z"
+    },
+    {
+      "id": "trend-1775267966906-2",
+      "topic": "OpenAI経営陣の変化",
+      "category": "AI・LLM",
+      "summary": "OpenAIの幹部離脱が相次ぎ、健康問題と資本優先の組織変革が指摘。AGI開発のプレッシャーと広告導入の動きが議論に。",
+      "relevance_score": 0.7,
+      "source": "x",
+      "collected_at": "2026-04-04T01:59:26.906Z"
+    },
+    {
+      "id": "trend-1775267966906-3",
+      "topic": "中小企業診断士試験勉強",
+      "category": "スモールビジネス",
+      "summary": "資格取得を目指す勉強記録が活発。経済学や答練の正答率向上、年度末業務との両立が共有され、モチベーション維持の工夫が見られる。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-04-04T01:59:26.906Z"
+    },
+    {
+      "id": "trend-1775267966906-4",
+      "topic": "中小企業金融規制緩和",
+      "category": "スモールビジネス",
+      "summary": "金融庁の自己資本規制緩和で中小企業・スタートアップの融資が活発化。資金調達しやすく、産業再編と地方創生を加速させる可能性。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-04T01:59:26.906Z"
+    },
+    {
+      "id": "trend-1775267966906-5",
+      "topic": "AIイラスト作成のトレンド",
+      "category": "AI・LLM",
+      "summary": "AIを使ったイラスト投稿が増加。巫女キャラや光の女神などの幻想的な作品が共有され、表現の自由さと倫理的議論が交錯。",
+      "relevance_score": 0.7,
+      "source": "x",
+      "collected_at": "2026-04-04T01:59:26.906Z"
+    },
+    {
+      "id": "trend-1775267966906-6",
+      "topic": "エンジニアの自動化活用",
+      "category": "エンジニアリング",
+      "summary": "化学工学やFA自動化でAIツールを活用。統計学証明の解説やビリヤードの厳選プロセス効率化が、現場の生産性向上を示す。",
+      "relevance_score": 0.6,
+      "source": "x",
+      "collected_at": "2026-04-04T01:59:26.906Z"
+    },
+    {
+      "id": "trend-1775267966906-7",
+      "topic": "Gitバージョン管理の重要性",
+      "category": "エンジニアリング",
+      "summary": "GitHubの活用がエンジニア間で話題。誤消去対策やstash/branchの使いこなしが、非エンジニアでも推奨されるツールとして注目。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-04-04T01:59:26.906Z"
+    },
+    {
+      "id": "trend-1775267966906-8",
+      "topic": "マーケティング検定の有効性",
+      "category": "マーケティング",
+      "summary": "未経験者や副業向けにマーケティング検定が有効。正直な選考基準とブログ活用のメリットが議論され、スキルアップの手段として人気。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-04T01:59:26.906Z"
+    },
+    {
+      "id": "trend-1775267966906-9",
+      "topic": "音楽コンテンツマーケティング",
+      "category": "マーケティング",
+      "summary": "無名アーティストがTikTokで楽曲プロモーション。国際IDの資産性と数字分析が、テキスト/動画コンテンツとの違いを強調。",
+      "relevance_score": 0.7,
+      "source": "x",
+      "collected_at": "2026-04-04T01:59:26.906Z"
+    }
+  ]
+}
