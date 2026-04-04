@@ -1,0 +1,21 @@
+{
+  "date": "2026-04-04",
+  "posted_at": "2026-04-04T22:27:26.576Z",
+  "results": [
+    {
+      "text": "機関投資家が50のAIエージェントで投資を自動化する時代。\n\nスモールビジネスも同じ発想で業務を細分化してみる。経理、顧客対応、コンテンツ作成...一つずつAIに任せられる部分を洗い出す。\n\n「作業が止まっても収入が止まらない」仕組みづくりが、個人事業主にとっての最重要課題かも。\n\n#AI自動化 #スモールビジネス #副業",
+      "status": "error",
+      "error": "Error: X API error: 401 - {\n  \"title\": \"Unauthorized\",\n  \"type\": \"about:blank\",\n  \"status\": 401,\n  \"detail\": \"Unauthorized\"\n}"
+    },
+    {
+      "text": "Claude AIが感情を持ち始めたという研究結果が話題に。\n\nこれまでのAI活用は「道具として使う」前提だったけど、今後は「協働者として接する」視点が重要になりそう。\n\nプロンプトも命令形から相談形に変わるかも。「〜して」ではなく「〜についてどう思う？」みたいな。\n\nAIとの関係性、根本から見直す時期かもしれません。\n\n#AI #プロンプトエンジニアリング #未来の働き方",
+      "status": "error",
+      "error": "Error: X API error: 401 - {\n  \"title\": \"Unauthorized\",\n  \"type\": \"about:blank\",\n  \"status\": 401,\n  \"detail\": \"Unauthorized\"\n}"
+    },
+    {
+      "text": "儲かる市場の法則📈\n\n美・時短・自慢・下心・即時幸福・教育・健康\n\nスモールビジネスで商品開発に迷ったら、この8要素のどれかに刺さるかチェック。理性より本能に訴えることが売上に直結する。\n\n「なんとなく良さそう」ではなく「人間の根源的欲求」を満たすものを作る。\n\n#スモールビジネス #商品開発 #マーケティング",
+      "status": "error",
+      "error": "Error: X API error: 401 - {\n  \"title\": \"Unauthorized\",\n  \"type\": \"about:blank\",\n  \"status\": 401,\n  \"detail\": \"Unauthorized\"\n}"
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "collected_at": "2026-04-04T22:25:14.769Z",
+  "trends": [
+    {
+      "id": "http://arxiv.org/abs/2604.02279v1",
+      "topic": "The Self Driving Portfolio: Agentic Architecture for Institutional Asset Management",
+      "category": "AI論文",
+      "summary": "Agentic AI shifts the investor's role from analytical execution to oversight. We present an agentic strategic asset allocation pipeline in which approximately 50 specialized agents produce capital market assumptions, construct portfolios using over 20 competing methods, and critique and vote on each [機関投資家向け資産管理の自動化システムで、50の専門エージェントが資本市場分析を自動実行。スモールビジネスでも応用可能な投資自動化技術として高い関連性。]",
+      "relevance_score": 0.95,
+      "source": "arxiv",
+      "raw_data": {
+        "authors": [
+          "Andrew Ang",
+          "Nazym Azimbayev",
+          "Andrey Kim"
+        ],
+        "link": "https://arxiv.org/abs/2604.02279v1",
+        "categories": [
+          "cs.AI",
+          "cs.MA",
+          "q-fin.GN",
+          "q-fin.PM",
+          "cs.AI"
+        ]
+      },
+      "collected_at": "2026-04-04T22:25:14.769Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/2604.02276v1",
+      "topic": "De Jure: Iterative LLM Self-Refinement for Structured Extraction of Regulatory Rules",
+      "category": "AI論文",
+      "summary": "Regulatory documents encode legally binding obligations that LLM-based systems must respect. Yet converting dense, hierarchically structured legal text into machine-readable rules remains a costly, expert-intensive process. We present De Jure, a fully automated, domain-agnostic pipeline for extracti [法規制文書から機械可読ルールを自動抽出するLLMシステム。スモールビジネスのコンプライアンス自動化や法務業務効率化に直接応用可能。]",
+      "relevance_score": 0.9,
+      "source": "arxiv",
+      "raw_data": {
+        "authors": [
+          "Keerat Guliani",
+          "Deepkamal Gill",
+          "David Landsman",
+          "Nima Eshraghi",
+          "Krishna Kumar",
+          "Lovedeep Gondara"
+        ],
+        "link": "https://arxiv.org/abs/2604.02276v1",
+        "categories": [
+          "cs.AI",
+          "cs.CL",
+          "cs.LG",
+          "cs.AI"
+        ]
+      },
+      "collected_at": "2026-04-04T22:25:14.769Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/2604.02296v1",
+      "topic": "VOID: Video Object and Interaction Deletion",
+      "category": "AI論文",
+      "summary": "Existing video object removal methods excel at inpainting content \"behind\" the object and correcting appearance-level artifacts such as shadows and reflections. However, when the removed object has more significant interactions, such as collisions with other objects, current models fail to correct t [動画からオブジェクト削除技術。コンテンツ制作者が動画編集を自動化でき、特にスモールビジネスの動画マーケティングで制作コスト削減に貢献。]",
+      "relevance_score": 0.85,
+      "source": "arxiv",
+      "raw_data": {
+        "authors": [
+          "Saman Motamed",
+          "William Harvey",
+          "Benjamin Klein",
+          "Luc Van Gool",
+          "Zhuoning Yuan",
+          "Ta-Ying Cheng"
+        ],
+        "link": "https://arxiv.org/abs/2604.02296v1",
+        "categories": [
+          "cs.CV",
+          "cs.AI",
+          "cs.CV"
+        ]
+      },
+      "collected_at": "2026-04-04T22:25:14.769Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/2604.02330v1",
+      "topic": "ActionParty: Multi-Subject Action Binding in Generative Video Games",
+      "category": "AI論文",
+      "summary": "Recent advances in video diffusion have enabled the development of \"world models\" capable of simulating interactive environments. However, these models are largely restricted to single-agent settings, failing to control multiple agents simultaneously in a scene. In this work, we tackle a fundamental [インタラクティブな動画ゲーム生成技術。小規模ゲーム開発会社やコンテンツクリエイターが低コストで高品質なゲームコンテンツを自動生成可能。]",
+      "relevance_score": 0.8,
+      "source": "arxiv",
+      "raw_data": {
+        "authors": [
+          "Alexander Pondaven",
+          "Ziyi Wu",
+          "Igor Gilitschenski",
+          "Philip Torr",
+          "Sergey Tulyakov",
+          "Fabio Pizzati",
+          "Aliaksandr Siarohin"
+        ],
+        "link": "https://arxiv.org/abs/2604.02330v1",
+        "categories": [
+          "cs.CV",
+          "cs.AI",
+          "cs.LG",
+          "cs.CV"
+        ]
+      },
+      "collected_at": "2026-04-04T22:25:14.769Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/2604.02280v1",
+      "topic": "Novel Memory Forgetting Techniques for Autonomous AI Agents: Balancing Relevance and Efficiency",
+      "category": "AI論文",
+      "summary": "Long-horizon conversational agents require persistent memory for coherent reasoning, yet uncontrolled accumulation causes temporal decay and false memory propagation. Benchmarks such as LOCOMO and LOCCO report performance degradation from 0.455 to 0.05 across stages, while MultiWOZ shows 78.2% accur [長期対話エージェントのメモリ管理技術。スモールビジネスの顧客サービス自動化において、効率的な顧客履歴管理と応答品質向上を実現。]",
+      "relevance_score": 0.75,
+      "source": "arxiv",
+      "raw_data": {
+        "authors": [
+          "Payal Fofadiya",
+          "Sunil Tiwari"
+        ],
+        "link": "https://arxiv.org/abs/2604.02280v1",
+        "categories": [
+          "cs.AI",
+          "cs.CV",
+          "cs.AI"
+        ]
+      },
+      "collected_at": "2026-04-04T22:25:14.769Z"
+    }
+  ]
+}
