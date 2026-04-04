@@ -1,0 +1,95 @@
+{
+  "collected_at": "2026-04-04T13:52:08.461Z",
+  "trends": [
+    {
+      "id": "trend-1775310728461-0",
+      "topic": "AI副業の月5万円達成チャレンジ",
+      "category": "AI・LLM",
+      "summary": "未経験からAIを活用した副業で月5万円を目指す挑戦記。フォロワー300人突破し、note売上も発生。成功と失敗をリアルタイムで発信中。AIツールの検証を重視。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-04T13:52:08.461Z"
+    },
+    {
+      "id": "trend-1775310728461-1",
+      "topic": "AI生成イラストのPatreon更新",
+      "category": "AI・LLM",
+      "summary": "AI美少女イラストを毎日投稿するアカウントがPatreonを更新。微健全な内容でファンを魅了し、リンク集からアクセス可能。ヨルさんのシリーズ最終回を公開。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-04-04T13:52:08.461Z"
+    },
+    {
+      "id": "trend-1775310728461-2",
+      "topic": "小規模事業共済の節税活用",
+      "category": "スモールビジネス",
+      "summary": "フーデリ稼ぎを小規模事業共済に投入し、トレードの節税に活用。退職金相当の個人事業主版として、生活保護抑止力に。運用継続を推奨。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-04T13:52:08.461Z"
+    },
+    {
+      "id": "trend-1775310728461-3",
+      "topic": "スモールビジネスの差別化と仕組み化",
+      "category": "スモールビジネス",
+      "summary": "副業やスモールビジネスで差別化と仕組み化が鍵。努力より構造が重要で、作業停止で収入止まらない状態を目指す。記事で詳細解説。",
+      "relevance_score": 1,
+      "source": "x",
+      "collected_at": "2026-04-04T13:52:08.461Z"
+    },
+    {
+      "id": "trend-1775310728461-4",
+      "topic": "M&Aをテーマにした新小説",
+      "category": "M&A・事業承継",
+      "summary": "池井戸潤の新作『M&Aバトル』。銀行に見限られた男がM&A最前線で巨悪に挑む。半沢直樹に続くヒーロー物語で、Amazonでマストバイ。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-04-04T13:52:08.461Z"
+    },
+    {
+      "id": "trend-1775310728461-5",
+      "topic": "事業承継M&Aの格安仲介",
+      "category": "M&A・事業承継",
+      "summary": "年商1-3億円の事業承継M&Aを格安で仲介。現役銀行員が副業で運営、地域不問。下請けも対応。エリナ支店長の強さを称賛。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-04T13:52:08.461Z"
+    },
+    {
+      "id": "trend-1775310728461-6",
+      "topic": "AIで製造業の手作業を消す",
+      "category": "エンジニアリング",
+      "summary": "非エンジニアがAIでルーチン作業を駆逐。Chrome拡張自作で業界ニュース自動収集。シンプル運用を重視し、明日から実務適用可能。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-04T13:52:08.461Z"
+    },
+    {
+      "id": "trend-1775310728461-7",
+      "topic": "Claude Codeの87のTips",
+      "category": "エンジニアリング",
+      "summary": "GitHub3万スターのClaude Codeベストプラクティスを非エンジニア視点で解説。マネジメント経験がAI活用の武器に。SYNCONメディアで深掘り。",
+      "relevance_score": 1,
+      "source": "x",
+      "collected_at": "2026-04-04T13:52:08.461Z"
+    },
+    {
+      "id": "trend-1775310728461-8",
+      "topic": "BtoBマーケティングのDMU理解",
+      "category": "マーケティング",
+      "summary": "パナソニックやコクヨの実践例。顧客を意思決定ユニットとして立体的に捉え、担当窓口・決裁者・エンドユーザーの違いを考慮。MarkeZine記事。",
+      "relevance_score": 1,
+      "source": "x",
+      "collected_at": "2026-04-04T13:52:08.461Z"
+    },
+    {
+      "id": "trend-1775310728461-9",
+      "topic": "SNSマーケティングの機会損失",
+      "category": "マーケティング",
+      "summary": "テイルズ運営のマーケティング下手でファン失望。ufotable発信でアニメ期待がイラストで終わり、機会損失。BtoBでも人の心を動かす投稿重要。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-04-04T13:52:08.461Z"
+    }
+  ]
+}
