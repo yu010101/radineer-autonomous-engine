@@ -3,8 +3,12 @@
     "データ収集": {
       "score": 0,
       "trend": "stable"
+    },
+    "全般": {
+      "score": 0,
+      "trend": "stable"
     }
   },
-  "last_updated": "2026-03-22T23:18:59.413Z",
-  "version": 2
+  "last_updated": "2026-04-05T23:25:04.014Z",
+  "version": 3
 }
