@@ -1,0 +1,95 @@
+{
+  "collected_at": "2026-04-05T02:12:21.953Z",
+  "trends": [
+    {
+      "id": "trend-1775355141953-0",
+      "topic": "Galaxy AIのプロモーションキャンペーン",
+      "category": "AI・LLM",
+      "summary": "Samsung JapanがGalaxy S26 UltraとGalaxy Buds4 Proを当たるキャンペーンを実施。AIフォンの機能とBudsのサウンドを強調し、参加者を増やしている。日本語投稿で人気を集めている。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-05T02:12:21.953Z"
+    },
+    {
+      "id": "trend-1775355141953-1",
+      "topic": "AI動画制作ツールの活用",
+      "category": "AI・LLM",
+      "summary": "Claude CodeとRemotionを使ったアニメ風CM作成法が共有。NanoBananaでキャラクター生成、Grok Imagineで動画作成、Sunoで音楽を組み合わせる手法がエンジニアに注目されている。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-04-05T02:12:21.953Z"
+    },
+    {
+      "id": "trend-1775355141953-2",
+      "topic": "DeepTutor AI学習プラットフォーム",
+      "category": "AI・LLM",
+      "summary": "HKUのDeepTutor v1.0がリリース。ツールと能力モジュールを備え、CLI/Web/API対応。TutorBotでチャットアプリ統合可能。AI教育の新トレンドとして話題。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-04-05T02:12:21.953Z"
+    },
+    {
+      "id": "trend-1775355141953-3",
+      "topic": "中小企業の賃上げ問題",
+      "category": "スモールビジネス",
+      "summary": "賃上げで潰れる中小企業は潰れた方が良いという意見が拡散。労働環境の厳しさが議論を呼んでいる。",
+      "relevance_score": 0.7,
+      "source": "x",
+      "collected_at": "2026-04-05T02:12:21.953Z"
+    },
+    {
+      "id": "trend-1775355141953-4",
+      "topic": "大企業 vs 中小企業 労働時間",
+      "category": "スモールビジネス",
+      "summary": "中小企業では残業文化が根強く、非効率な運用が指摘。大企業との違いが転職市場で話題に。",
+      "relevance_score": 0.75,
+      "source": "x",
+      "collected_at": "2026-04-05T02:12:21.953Z"
+    },
+    {
+      "id": "trend-1775355141953-5",
+      "topic": "マキタのパナソニック電動工具事業買収",
+      "category": "M&A・事業承継",
+      "summary": "マキタがパナソニックの電動工具事業を買収し、工場向けを強化。日経新聞で報じられ、業界再編の兆しとして注目。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-05T02:12:21.953Z"
+    },
+    {
+      "id": "trend-1775355141953-6",
+      "topic": "東京海上の兆円規模M&A計画",
+      "category": "M&A・事業承継",
+      "summary": "東京海上日動がバークシャー提携で上限なしのM&Aを推進。世界投資拡大の戦略が金融セクターで話題。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-04-05T02:12:21.953Z"
+    },
+    {
+      "id": "trend-1775355141953-7",
+      "topic": "ドンキホーテのオリンピック買収",
+      "category": "M&A・事業承継",
+      "summary": "ドンキが首都圏スーパーのオリンピックを買収。物価高による小売再編が加速し、業界トレンドに。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-04-05T02:12:21.953Z"
+    },
+    {
+      "id": "trend-1775355141953-8",
+      "topic": "こもりばアプリのリリース",
+      "category": "エンジニアリング",
+      "summary": "集中支援アプリ「こもりば」がリリース。可愛いキャラクターと一緒に作業するコンセプトで、開発者が動画で紹介。英語対応も。",
+      "relevance_score": 0.7,
+      "source": "x",
+      "collected_at": "2026-04-05T02:12:21.953Z"
+    },
+    {
+      "id": "trend-1775355141953-9",
+      "topic": "Meta広告見出しのチェックリスト",
+      "category": "マーケティング",
+      "summary": "クリック率向上のための見出し要素（数字、簡単さ、ベネフィットなど）をリスト化。CTR改善の型としてマーケターに共有されている。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-04-05T02:12:21.953Z"
+    }
+  ]
+}
