@@ -1,0 +1,95 @@
+{
+  "collected_at": "2026-04-05T08:40:26.776Z",
+  "trends": [
+    {
+      "id": "trend-1775378426776-0",
+      "topic": "Gemma 4のiPhone対応",
+      "category": "AI・LLM",
+      "summary": "GoogleのGemma 4をiPhoneでオフライン使用可能に変換。ChatGPTなどに劣るが爆速で小型タスクに適し、将来スマホにAI標準装備の時代を予感させる。安心感を提供する小型モデルとして注目。",
+      "relevance_score": 0.95,
+      "source": "x",
+      "collected_at": "2026-04-05T08:40:26.776Z"
+    },
+    {
+      "id": "trend-1775378426776-1",
+      "topic": "Gemini活用ハンドブック公開",
+      "category": "AI・LLM",
+      "summary": "Googleが学生向けGemini活用ハンドブックを無料公開。レポート作成、コーディング、履修登録などの実践例を網羅。NotebookLM連携やプロンプト集も収録し、AI活用者の参考に。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-05T08:40:26.776Z"
+    },
+    {
+      "id": "trend-1775378426776-2",
+      "topic": "GistajsによるDBアプリ即時作成",
+      "category": "エンジニアリング",
+      "summary": "コマンド1発でDBアプリ作成、デプロイ完了のツールGistajs。Claude/Codex対応のAI開発環境を提供。無料でTurso/Vercelデプロイ可能、初心者からプロまで即戦力に。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-04-05T08:40:26.776Z"
+    },
+    {
+      "id": "trend-1775378426776-3",
+      "topic": "AIツール課金優先度ランキング",
+      "category": "AI・LLM",
+      "summary": "4月のAI課金優先: Claude >>> Grok > ChatGPT >>>>>>> Gemini。Claudeの高性能が際立ち、Geminiの低評価が目立つ。ユーザー偏見に基づく実用性評価。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-04-05T08:40:26.776Z"
+    },
+    {
+      "id": "trend-1775378426776-4",
+      "topic": "モトローラのアイドルコラボマーケティング",
+      "category": "マーケティング",
+      "summary": "目黒蓮×アバター「ミニREN」で認知度2倍。iPhone対抗のスマホプロモで製品をヒーロー化せず、機能訴求を避けエンタメ活用。令和市場復活戦略として成功例。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-05T08:40:26.776Z"
+    },
+    {
+      "id": "trend-1775378426776-5",
+      "topic": "Claude Codeレートリミット正常化",
+      "category": "AI・LLM",
+      "summary": "AnthropicのClaude Codeでレートリミットが正常に戻り、Opus 4.6のvibe codingが可能に。第三者ハーネス制限で安定化、$200プラン価値向上。ユーザー移行の影響大。",
+      "relevance_score": 0.95,
+      "source": "x",
+      "collected_at": "2026-04-05T08:40:26.776Z"
+    },
+    {
+      "id": "trend-1775378426776-6",
+      "topic": "AIエージェントのコード生成思考",
+      "category": "エンジニアリング",
+      "summary": "AIが複雑コンテキスト解く一方、単純力押しでコード生成。汎化能力低くIQで人間優位か。贅沢スペック育ちの富豪思考が効率的アプローチを生む考察。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-04-05T08:40:26.776Z"
+    },
+    {
+      "id": "trend-1775378426776-7",
+      "topic": "M&A英文契約書ドラフトの喜び",
+      "category": "M&A・事業承継",
+      "summary": "1人目法務の視点で、海外M&A英文契約ドラフト完了の達成感。手差し印刷成功と同等の喜び。事業承継時の法務業務の重要性を示すエピソード。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-04-05T08:40:26.776Z"
+    },
+    {
+      "id": "trend-1775378426776-8",
+      "topic": "Obsidian小規模チームの成長",
+      "category": "スモールビジネス",
+      "summary": "Obsidianチームが3人から4人エンジニアへ拡大。リモート完全、競争力あるSF給与で採用。無料柔軟アプリの成功が小規模ビジネスのスケールを示す。",
+      "relevance_score": 0.75,
+      "source": "x",
+      "collected_at": "2026-04-05T08:40:26.776Z"
+    },
+    {
+      "id": "trend-1775378426776-9",
+      "topic": "AIによる胚評価技術",
+      "category": "AI・LLM",
+      "summary": "AIが胚の評価を行う時代到来。不妊治療の体外受精で活用され、精度向上。医療分野へのAI進出がトレンド化、未来の生殖医療を変革。",
+      "relevance_score": 0.7,
+      "source": "x",
+      "collected_at": "2026-04-05T08:40:26.776Z"
+    }
+  ]
+}
