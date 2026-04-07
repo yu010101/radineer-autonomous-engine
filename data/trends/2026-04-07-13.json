@@ -1,0 +1,95 @@
+{
+  "collected_at": "2026-04-07T13:14:35.459Z",
+  "trends": [
+    {
+      "id": "trend-1775567675458-0",
+      "topic": "ローカルAIの進化",
+      "category": "AI・LLM",
+      "summary": "Ryzen AI 350と32GB RAMでGemini 3 FlashレベルのAIがローカル実行可能になる可能性が話題。効率向上とアクセシビリティの進展が注目されている。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-07T13:14:35.458Z"
+    },
+    {
+      "id": "trend-1775567675459-1",
+      "topic": "AIによる外注代替",
+      "category": "AI・LLM",
+      "summary": "外注費をAIツールにシフトし、フルオート運用を目指す動き。信頼性とコスト削減の観点からAI活用が加速中。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-04-07T13:14:35.459Z"
+    },
+    {
+      "id": "trend-1775567675459-2",
+      "topic": "AI投資ツールの台頭",
+      "category": "AI・LLM",
+      "summary": "AI頼みの投資家増加でロボアドバイザーの不安定さが指摘。ブラックロックのような伝統的判断を求める声が高まる。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-04-07T13:14:35.459Z"
+    },
+    {
+      "id": "trend-1775567675459-3",
+      "topic": "中小企業イベント活性化",
+      "category": "スモールビジネス",
+      "summary": "福岡県中小企業振興センターでのイベント配置発表。サークル参加促進で地域中小企業の交流が活発化。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-07T13:14:35.459Z"
+    },
+    {
+      "id": "trend-1775567675459-4",
+      "topic": "中小企業診断士ツール活用",
+      "category": "スモールビジネス",
+      "summary": "X APIラップツールxmcpの公開が話題。自作ツールとの比較で中小企業向け低コスト分析が注目。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-04-07T13:14:35.459Z"
+    },
+    {
+      "id": "trend-1775567675459-5",
+      "topic": "中小企業値上げ対応",
+      "category": "スモールビジネス",
+      "summary": "原材料高騰で中小企業の値上げ圧力増大。大手との交渉難航が経営課題として議論。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-04-07T13:14:35.459Z"
+    },
+    {
+      "id": "trend-1775567675459-6",
+      "topic": "タダノのM&A戦略",
+      "category": "M&A・事業承継",
+      "summary": "欧州工場止血と米国M&Aフル稼働で減益隠しの反転攻勢。PBR0.85倍の割安株として投資家注目。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-07T13:14:35.459Z"
+    },
+    {
+      "id": "trend-1775567675459-7",
+      "topic": "AI効率化の限界",
+      "category": "エンジニアリング",
+      "summary": "AIで偶有作業を効率化するも本質的複雑性は残り、2-3倍止まり。知識創造プロセスの再設計が鍵。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-04-07T13:14:35.459Z"
+    },
+    {
+      "id": "trend-1775567675459-8",
+      "topic": "Rust言語の魅力",
+      "category": "エンジニアリング",
+      "summary": "安全性と速度のバランスがRustの意義。エンジニアの多様な役割選択がキャリア不安を呼ぶ。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-04-07T13:14:35.459Z"
+    },
+    {
+      "id": "trend-1775567675459-9",
+      "topic": "AI動画マーケティング",
+      "category": "マーケティング",
+      "summary": "NotebookLM×イラスト動画でYouTube収益化。初心者向けBAN回避テクニックが副業トレンドに。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-07T13:14:35.459Z"
+    }
+  ]
+}
