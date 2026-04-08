@@ -1,0 +1,95 @@
+{
+  "collected_at": "2026-04-08T13:16:35.456Z",
+  "trends": [
+    {
+      "id": "trend-1775654195456-0",
+      "topic": "Claude Mythosの限定提供",
+      "category": "AI・LLM",
+      "summary": "Anthropicが最新AI「Claude Mythos」を約50社に限定提供開始。悪用防止のためで、グーグルやアマゾンなどが対象。脆弱性発見能力が高く、セキュリティ強化に寄与する一方、悪用リスクも指摘されている。",
+      "relevance_score": 1,
+      "source": "x",
+      "collected_at": "2026-04-08T13:16:35.456Z"
+    },
+    {
+      "id": "trend-1775654195456-1",
+      "topic": "AIのIQブースト効果",
+      "category": "AI・LLM",
+      "summary": "AI使用で知能差が拡大。低IQ者がAIを活用すると過信を生み、誤った主張を広める可能性。将棋ソフト開発者の投稿で、AIの理解不足によるコミュニティ混乱が議論されている。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-08T13:16:35.456Z"
+    },
+    {
+      "id": "trend-1775654195456-2",
+      "topic": "Google Pixel 10aのAI機能",
+      "category": "AI・LLM",
+      "summary": "新機種Google Pixel 10aにGemini AIを標準搭載。スーパーバッテリーで長時間使用可能。カメラとデザインがフラットで、UQのキャンペーンで話題。AI進化を体感できるデバイスとして注目。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-04-08T13:16:35.456Z"
+    },
+    {
+      "id": "trend-1775654195456-3",
+      "topic": "地域中小企業のDX支援",
+      "category": "スモールビジネス",
+      "summary": "JICUが地域企業向けDX・AI活用支援を強化。資金調達から実行まで統合的にサポート。佐賀のUターン人材と連携し、中小企業の選択肢を拡大。SAGA DX AWARD受賞企業輩出。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-08T13:16:35.456Z"
+    },
+    {
+      "id": "trend-1775654195456-4",
+      "topic": "あきらめ廃業のPEファンド",
+      "category": "M&A・事業承継",
+      "summary": "後継者不足で廃業増加中。野村HDや伊藤忠が従業員買収特化PEファンド設立。黒字企業のM&Aを促進し、中小企業の事業継続を支援する新たな選択肢として広がり。",
+      "relevance_score": 1,
+      "source": "x",
+      "collected_at": "2026-04-08T13:16:35.456Z"
+    },
+    {
+      "id": "trend-1775654195456-5",
+      "topic": "中小企業資金繰り管理",
+      "category": "スモールビジネス",
+      "summary": "資金繰り表を活用した銀行融資検討が不足。適切な手元資金・借入額の見通しを立て、半年間の予測を共有。経営参画型コンサルが中小企業社長にアドバイス。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-04-08T13:16:35.456Z"
+    },
+    {
+      "id": "trend-1775654195456-6",
+      "topic": "Serifu AIアプリ開発",
+      "category": "エンジニアリング",
+      "summary": "俳優・声優向けセリフ暗記アプリ「Serifu AI」誕生。演劇界隈で話題賞受賞中。バグ修正と音声精度向上、Android版開発予定。個人開発者が俳優xエンジニア視点で作成。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-08T13:16:35.456Z"
+    },
+    {
+      "id": "trend-1775654195456-7",
+      "topic": "コミュニティマーケティングの先駆け",
+      "category": "マーケティング",
+      "summary": "Nike Running Clubの店舗展開がtoCコミュニティマーケティングの先駆け。ランニングコーチによるイベントで差別化。長期的な仲間形成がブランド忠誠心を高める好例。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-04-08T13:16:35.456Z"
+    },
+    {
+      "id": "trend-1775654195456-8",
+      "topic": "事業承継のM&A拡大",
+      "category": "M&A・事業承継",
+      "summary": "後継者不在の中小企業でM&Aが選択肢に。PEファンドの活用で従業員継承促進。日経ビジネスが黒字廃業問題の解決策として紹介。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-08T13:16:35.456Z"
+    },
+    {
+      "id": "trend-1775654195456-9",
+      "topic": "AIプロンプト公開の影響",
+      "category": "AI・LLM",
+      "summary": "東大卒AIエンジニアがプロンプトを公開。自動化ツールの解像度が高く、ビジネス活用に役立つ。note月100万円達成者の裏話が共有され、AI実務の参考に。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-04-08T13:16:35.456Z"
+    }
+  ]
+}
