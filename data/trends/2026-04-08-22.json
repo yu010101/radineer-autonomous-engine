@@ -1,0 +1,95 @@
+{
+  "collected_at": "2026-04-08T22:36:53.125Z",
+  "trends": [
+    {
+      "id": "trend-1775687813125-0",
+      "topic": "OllamaのMLX対応でMac高速化",
+      "category": "AI・LLM",
+      "summary": "ローカルAI実行ツールOllamaがAppleのMLXフレームワークに対応し、Macでの動作が高速化。AI開発者の効率向上を促進する進展。",
+      "relevance_score": 0.95,
+      "source": "x",
+      "collected_at": "2026-04-08T22:36:53.125Z"
+    },
+    {
+      "id": "trend-1775687813125-1",
+      "topic": "AI副業の朝5分タスク活用",
+      "category": "AI・LLM",
+      "summary": "ChatGPTを使って朝5分の副業タスクを事前計画。未経験者向けにAIを活用した時短術が話題で、モチベーション維持に役立つ。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-04-08T22:36:53.125Z"
+    },
+    {
+      "id": "trend-1775687813125-2",
+      "topic": "大和ハウス介護事業譲渡",
+      "category": "M&A・事業承継",
+      "summary": "大和ハウスが介護事業をALSOKに譲渡し撤退。資本効率向上のためで、業界のM&A加速と二極化を予感させる動き。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-08T22:36:53.125Z"
+    },
+    {
+      "id": "trend-1775687813125-3",
+      "topic": "相続税の事業承継批判",
+      "category": "M&A・事業承継",
+      "summary": "相続税が事業承継を阻害するとの声が高まり、税制の横取り思想を批判。スモールビジネスのEXIT戦略に影響大。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-04-08T22:36:53.125Z"
+    },
+    {
+      "id": "trend-1775687813125-4",
+      "topic": "スモールビジネス育成補助金",
+      "category": "スモールビジネス",
+      "summary": "島根県の補助金で中山間地域の新商品開発・販路開拓を支援。小規模事業者の成長を後押しする地方活性化施策。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-04-08T22:36:53.125Z"
+    },
+    {
+      "id": "trend-1775687813125-5",
+      "topic": "スモールECのSNS活用",
+      "category": "スモールビジネス",
+      "summary": "ポッドキャストでスモールECのSNSマーケティングを解説。通販ビジネスの集客術として実践的なノウハウ共有。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-08T22:36:53.125Z"
+    },
+    {
+      "id": "trend-1775687813125-6",
+      "topic": "エンジニア不足と消費税改修",
+      "category": "エンジニアリング",
+      "summary": "消費減税時のレジ改修でエンジニア不足が課題。IT人材の需給逼迫が事業者の負担増大を招く問題提起。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-04-08T22:36:53.125Z"
+    },
+    {
+      "id": "trend-1775687813125-7",
+      "topic": "Cursor 3のAIエージェントUI",
+      "category": "エンジニアリング",
+      "summary": "AIコーディングエディタCursorの新版がAIエージェント中心のUIを導入。開発効率化ツールの進化が注目。",
+      "relevance_score": 0.95,
+      "source": "x",
+      "collected_at": "2026-04-08T22:36:53.125Z"
+    },
+    {
+      "id": "trend-1775687813125-8",
+      "topic": "KitKatの自虐PRマーケティング",
+      "category": "マーケティング",
+      "summary": "チョコ盗難事件を逆手に大統領級警備で配送PR。マイナスをプラスに変える攻めのマーケティングが世界的にバズる。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-08T22:36:53.125Z"
+    },
+    {
+      "id": "trend-1775687813125-9",
+      "topic": "アシックスの引き算経営",
+      "category": "マーケティング",
+      "summary": "大谷翔平契約断ったが株価9倍。不要事業を捨てブランド集中した戦略で売上急増の成功事例。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-04-08T22:36:53.125Z"
+    }
+  ]
+}
