@@ -1,0 +1,95 @@
+{
+  "collected_at": "2026-04-09T05:07:58.391Z",
+  "trends": [
+    {
+      "id": "trend-1775711278391-0",
+      "topic": "AIイラスト生成ツールの活用",
+      "category": "AI・LLM",
+      "summary": "X上でAIを使ったイラスト作成投稿が人気。GrokやStable Diffusionなどのツールでセーラー服キャラやオリジナルイラストを生成し、共有。クリエイターがプロンプトを公開中。",
+      "relevance_score": 0.95,
+      "source": "x",
+      "collected_at": "2026-04-09T05:07:58.391Z"
+    },
+    {
+      "id": "trend-1775711278391-1",
+      "topic": "生成AI資格取得ブーム",
+      "category": "AI・LLM",
+      "summary": "Google Cloud Generative AI Leader資格の合格報告が増加。ビジネス戦略部分の難易度が高いが、GeminiやNotebookLMの活用で学習。AIスキルの向上を目指す投稿多し。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-09T05:07:58.391Z"
+    },
+    {
+      "id": "trend-1775711278391-2",
+      "topic": "Claude Managed Agentsの導入",
+      "category": "AI・LLM",
+      "summary": "AnthropicのClaude Managed Agentsが公ベータ版リリース。エージェントのタスク定義とインフラ管理を簡素化し、プロトタイプから本番展開を容易に。監査業務AIツールとしての可能性議論。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-04-09T05:07:58.391Z"
+    },
+    {
+      "id": "trend-1775711278391-3",
+      "topic": "中小企業DX支援の推進",
+      "category": "スモールビジネス",
+      "summary": "中小企業のIT参謀がAI活用で業務効率化を支援。スクール不要で実践重視のアドバイス。Copilotの社内ナレッジ学習で業務爆上げの秘策公開。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-09T05:07:58.391Z"
+    },
+    {
+      "id": "trend-1775711278391-4",
+      "topic": "人手不足解消のためのAI・BPO",
+      "category": "スモールビジネス",
+      "summary": "中小企業の人手不足コーディネーターがAI導入と事務外注を組み合わせ、社長の時間を創出。ファスティング体験談も交え、組織づくり支援をアピール。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-04-09T05:07:58.391Z"
+    },
+    {
+      "id": "trend-1775711278391-5",
+      "topic": "事業承継とM&Aの政策議論",
+      "category": "M&A・事業承継",
+      "summary": "自民党の政策で中小企業軽視の声。消費税見直しとインボイス廃止の整合性議論。個人事業主救済のためのM&A推進を求める投稿増加。",
+      "relevance_score": 0.75,
+      "source": "x",
+      "collected_at": "2026-04-09T05:07:58.391Z"
+    },
+    {
+      "id": "trend-1775711278391-6",
+      "topic": "開発環境の汎用化ツール",
+      "category": "エンジニアリング",
+      "summary": "MITライセンスの無料プロダクトで開発環境を汎用的に構成。AIビジネス活用の中級者向け。非エンジニアへのDevin AI推奨でアクセスしやすく。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-09T05:07:58.391Z"
+    },
+    {
+      "id": "trend-1775711278391-7",
+      "topic": "Bayesの定理 in AIエンジニアリング",
+      "category": "エンジニアリング",
+      "summary": "Bayesの定理がスパムフィルタや医療診断AIに活用。言語モデルの確率分布で不確実性を扱う。エンジニアの基礎知識として再確認の投稿。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-04-09T05:07:58.391Z"
+    },
+    {
+      "id": "trend-1775711278391-8",
+      "topic": "AIツールClaude Codeのマーケティング活用",
+      "category": "マーケティング",
+      "summary": "2026年最強AIツールとしてClaude Codeが話題。マーケティングの自動化と効率化に革命。YouTube攻略動画で共有され、業務変革を促進。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-09T05:07:58.391Z"
+    },
+    {
+      "id": "trend-1775711278391-9",
+      "topic": "SNS発信とマーケティング内製化",
+      "category": "マーケティング",
+      "summary": "発信継続で世界が広がる体験談。コンプレックス克服のSNS活用が集客・採用に寄与。マーケティング内製化の専門家が率先垂範の重要性を強調。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-04-09T05:07:58.391Z"
+    }
+  ]
+}
