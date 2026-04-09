@@ -1,0 +1,95 @@
+{
+  "collected_at": "2026-04-09T09:05:08.137Z",
+  "trends": [
+    {
+      "id": "trend-1775725508137-0",
+      "topic": "Claude Codeによる補助金申請の自動化",
+      "category": "AI・LLM",
+      "summary": "Claude Codeを使って小規模事業者持続化補助金の申請から商工会議所承認まで5時間で完了。インボイス特例込み100万円枠の効率化が話題。AIが申請書作成を支援し、個人事業主の負担を軽減。",
+      "relevance_score": 0.95,
+      "source": "x",
+      "collected_at": "2026-04-09T09:05:08.137Z"
+    },
+    {
+      "id": "trend-1775725508137-1",
+      "topic": "小規模事業者持続化補助金のAI活用",
+      "category": "スモールビジネス",
+      "summary": "ChatGPTとClaude Sonnetで事業計画書を作成比較。Claudeが現実的な提案で優位。美容室の顧客管理システム導入例で、AIが補助金申請を支援し、スモールビジネスのデジタル化を促進。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-09T09:05:08.137Z"
+    },
+    {
+      "id": "trend-1775725508137-2",
+      "topic": "AmazonセラーアカウントのM&A成約",
+      "category": "M&A・事業承継",
+      "summary": "ラッコM&Aで食品日用品中心のAmazonセラーアカウントが55万円で成約。評価4.8の運用実績あり。EC事業の譲渡が活発化し、中小企業の事業承継ニーズに対応。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-04-09T09:05:08.137Z"
+    },
+    {
+      "id": "trend-1775725508137-3",
+      "topic": "社内AIエージェントの構築",
+      "category": "エンジニアリング",
+      "summary": "Agenticシステムで業務自動化。Claude Code活用でタスク整理やバグ修正を効率化。1人開発者の生産性向上と、社内AIエンジニアリングの重要性が議論。",
+      "relevance_score": 0.92,
+      "source": "x",
+      "collected_at": "2026-04-09T09:05:08.137Z"
+    },
+    {
+      "id": "trend-1775725508137-4",
+      "topic": "AIによるマーケティング自動化",
+      "category": "マーケティング",
+      "summary": "AnthropicのClaude Codeで広告運用・SEO・メールを1人で10ヶ月回す。パフォーマンス分析からコピー生成まで自動化。コンサルでもAI拡張が広がり、効率化トレンド。",
+      "relevance_score": 0.88,
+      "source": "x",
+      "collected_at": "2026-04-09T09:05:08.137Z"
+    },
+    {
+      "id": "trend-1775725508137-5",
+      "topic": "1人SaaS開発のAI支援",
+      "category": "AI・LLM",
+      "summary": "Claude Codeで対話型GTDツール作成。ターミナルAI秘書でタスク整理。複数AI連携で開発限界突破。個人開発者のSaaS構築が加速。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-09T09:05:08.137Z"
+    },
+    {
+      "id": "trend-1775725508137-6",
+      "topic": "KantanBizのスモールビジネスツールリリース",
+      "category": "スモールビジネス",
+      "summary": "販売支援SaaS「KantanBiz」リリース。ソロ・チーム向けクロスプラットフォームツール。スモールビジネスの販売管理を簡素化し、成長支援。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-04-09T09:05:08.137Z"
+    },
+    {
+      "id": "trend-1775725508137-7",
+      "topic": "酪農家の事業停止と承継課題",
+      "category": "M&A・事業承継",
+      "summary": "栃木の酪農家が飼料高騰で事業停止、負債2.5億円。中間層の苦境と海峡閉鎖影響。事業承継の必要性が高まり、M&A検討が増加。",
+      "relevance_score": 0.75,
+      "source": "x",
+      "collected_at": "2026-04-09T09:05:08.137Z"
+    },
+    {
+      "id": "trend-1775725508137-8",
+      "topic": "エンジニアのタスク管理AI",
+      "category": "エンジニアリング",
+      "summary": "Claude CodeでGTDツール開発。毎朝AI秘書と対話でタスク整理、脳メモリ解放。エンジニアの生産性向上ツールとして注目。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-04-09T09:05:08.137Z"
+    },
+    {
+      "id": "trend-1775725508137-9",
+      "topic": "AIコマースのECプラットフォーム影響",
+      "category": "マーケティング",
+      "summary": "AIエージェントが購買自動化でマーケットプレイス迂回。AmazonのShop Direct問題やディスインターミディエーション議論。EC事業者の戦略変更を促す。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-09T09:05:08.137Z"
+    }
+  ]
+}
