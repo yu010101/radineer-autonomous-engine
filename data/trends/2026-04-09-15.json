@@ -1,0 +1,95 @@
+{
+  "collected_at": "2026-04-09T15:20:51.953Z",
+  "trends": [
+    {
+      "id": "trend-1775748051953-0",
+      "topic": "AI音楽フェス",
+      "category": "AI・LLM",
+      "summary": "X上でAIを活用した音楽フェス「底辺AI音楽フェス」が話題。DAY1とDAY2のイベントが楽しく、AIボーカリストやアカペラグループの楽曲制作が注目を集めている。AIの創造性を活かしたエンタメの新潮流。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-09T15:20:51.953Z"
+    },
+    {
+      "id": "trend-1775748051953-1",
+      "topic": "AIイラスト生成",
+      "category": "AI・LLM",
+      "summary": "AIツールを使ったイラスト投稿が活発。黒髪エルフやSFWイラストが人気で、AI生成のクオリティの高さが議論されている。創作のヒントとして活用が進む。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-04-09T15:20:51.953Z"
+    },
+    {
+      "id": "trend-1775748051953-2",
+      "topic": "Tesla V15自運転AI",
+      "category": "AI・LLM",
+      "summary": "Elon Muskの投稿でTeslaのV15が人間レベルの安全性を超えると話題。レベル4-5の自動運転が近づき、AIの進化が期待される。",
+      "relevance_score": 0.95,
+      "source": "x",
+      "collected_at": "2026-04-09T15:20:51.953Z"
+    },
+    {
+      "id": "trend-1775748051953-3",
+      "topic": "中国AI世論操作",
+      "category": "AI・LLM",
+      "summary": "中国のAIが24時間50アカウントを自動運用し、世論を形成。投稿と反応をAIで生成する巧妙さが指摘され、AIの倫理的課題が議論に。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-04-09T15:20:51.953Z"
+    },
+    {
+      "id": "trend-1775748051953-4",
+      "topic": "スモールビジネスのAI自動化",
+      "category": "スモールビジネス",
+      "summary": "生成AIで顧客対応をDIY自動化する工夫が共有。メール設計やオンライン化のステップが提案され、小規模事業者の効率化ツールとして注目。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-09T15:20:51.953Z"
+    },
+    {
+      "id": "trend-1775748051953-5",
+      "topic": "M&A EXIT戦略",
+      "category": "M&A・事業承継",
+      "summary": "スモールビジネスの1億EXITのための出口戦略設計が話題。相続税批判やGHQ由来の思想が議論され、事業売却の重要性が強調。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-04-09T15:20:51.953Z"
+    },
+    {
+      "id": "trend-1775748051953-6",
+      "topic": "スタートアップの変化",
+      "category": "スモールビジネス",
+      "summary": "IPO一択時代の終焉とスモールビジネス台頭。連続起業家の視点から業界リアルが語られ、売却経験の共有が進む。",
+      "relevance_score": 0.75,
+      "source": "x",
+      "collected_at": "2026-04-09T15:20:51.953Z"
+    },
+    {
+      "id": "trend-1775748051953-7",
+      "topic": "エンジニアキャリア転換",
+      "category": "エンジニアリング",
+      "summary": "技術興味の薄れでエンジニア辞めるか悩む投稿。地方イベントの過疎化や人間関係構築の重要性が語られ、キャリアの持続可能性がテーマ。",
+      "relevance_score": 0.7,
+      "source": "x",
+      "collected_at": "2026-04-09T15:20:51.953Z"
+    },
+    {
+      "id": "trend-1775748051953-8",
+      "topic": "AIエンジニアの定義",
+      "category": "エンジニアリング",
+      "summary": "AIエンジニアとは何かを問う声。非エンジニアのAI活用やスキル構築が議論され、役割の曖昧さがトレンド。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-04-09T15:20:51.953Z"
+    },
+    {
+      "id": "trend-1775748051953-9",
+      "topic": "YouTube台本AIマーケティング",
+      "category": "マーケティング",
+      "summary": "AIでYouTube台本を自動生成するセミナーが開催。リサーチから企画・台本までのパイプラインが共有され、コンテンツマーケティングの効率化が進む。",
+      "relevance_score": 0.95,
+      "source": "x",
+      "collected_at": "2026-04-09T15:20:51.953Z"
+    }
+  ]
+}
