@@ -1,0 +1,95 @@
+{
+  "collected_at": "2026-04-09T10:57:02.756Z",
+  "trends": [
+    {
+      "id": "trend-1775732222756-0",
+      "topic": "LLMO（AI検索最適化）の重要性",
+      "category": "AI・LLM",
+      "summary": "採用やマーケティングでユーザー目線の情報を充実させることで、SEOやLLMO対策が効果的。形だけの施策ではなく、価値提供が鍵。AI検索エンジンに推薦されるコンテンツ作成がトレンド。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-09T10:57:02.756Z"
+    },
+    {
+      "id": "trend-1775732222756-1",
+      "topic": "Gemini AIの概要生成の誤情報問題",
+      "category": "AI・LLM",
+      "summary": "Google検索のGemini AIによる概要が嘘が多く、社会問題化。盲信を避け、あくまで参考として扱うべき。AIの信頼性向上が課題。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-04-09T10:57:02.756Z"
+    },
+    {
+      "id": "trend-1775732222756-2",
+      "topic": "中小企業診断士の開業志向",
+      "category": "スモールビジネス",
+      "summary": "公務員が中小企業診断士資格取得を目指し、全国を飛び回る開業生活に憧れ。スモールビジネスの支援需要が高まっている。",
+      "relevance_score": 0.7,
+      "source": "x",
+      "collected_at": "2026-04-09T10:57:02.756Z"
+    },
+    {
+      "id": "trend-1775732222756-3",
+      "topic": "中小企業倒産の増加",
+      "category": "スモールビジネス",
+      "summary": "物価高と人手不足で中小企業の倒産が急増。資金繰りの苦悩が深刻で、地域経済への影響大。支援策の必要性が高まる。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-09T10:57:02.756Z"
+    },
+    {
+      "id": "trend-1775732222756-4",
+      "topic": "M&Aを通じた事業売却",
+      "category": "M&A・事業承継",
+      "summary": "IT系企業を複数立ち上げ、3社をM&Aで売却した起業家の事例。外国籍人材活用で未来を変える戦略が注目。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-04-09T10:57:02.756Z"
+    },
+    {
+      "id": "trend-1775732222756-5",
+      "topic": "M&A仲介の新卒研修",
+      "category": "M&A・事業承継",
+      "summary": "大手M&A仲介会社の新卒が研修終了。事業承継市場の活性化に向けた若手参入が増加中。",
+      "relevance_score": 0.6,
+      "source": "x",
+      "collected_at": "2026-04-09T10:57:02.756Z"
+    },
+    {
+      "id": "trend-1775732222756-6",
+      "topic": "エンジニア採用の再現性向上",
+      "category": "エンジニアリング",
+      "summary": "応募が来ても採れない問題を、場当たりから再現性のある採用設計へシフト。現場と経営の橋渡しが鍵。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-04-09T10:57:02.756Z"
+    },
+    {
+      "id": "trend-1775732222756-7",
+      "topic": "個人開発の集中力管理",
+      "category": "エンジニアリング",
+      "summary": "アプリ開発などの個人開発で、1日の集中時間が2時間程度。スマホ distractionsを減らす工夫が必要。",
+      "relevance_score": 0.7,
+      "source": "x",
+      "collected_at": "2026-04-09T10:57:02.756Z"
+    },
+    {
+      "id": "trend-1775732222756-8",
+      "topic": "オンライン集客の資産構築",
+      "category": "マーケティング",
+      "summary": "労働収入不安時代に、リスト不要のオンライン集客で堅実な資産形成。簡単活動で紹介チャンス獲得のシステムが人気。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-04-09T10:57:02.756Z"
+    },
+    {
+      "id": "trend-1775732222756-9",
+      "topic": "AI活用マーケティングの差別化",
+      "category": "マーケティング",
+      "summary": "公開情報だけではAIで差がつかない。自社資産をAIに読ませるNotebookLM活用で独自戦略を構築。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-09T10:57:02.756Z"
+    }
+  ]
+}
