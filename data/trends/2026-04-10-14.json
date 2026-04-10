@@ -1,0 +1,95 @@
+{
+  "collected_at": "2026-04-10T14:45:39.763Z",
+  "trends": [
+    {
+      "id": "trend-1775832339763-0",
+      "topic": "AIによる音楽生成",
+      "category": "AI・LLM",
+      "summary": "ユーザーが自作歌詞をAIに歌わせる試みが話題。AIのクリエイティブ活用が広がり、簡単なツールで高品質な出力が可能に。副業や趣味での利用が増加中。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-10T14:45:39.763Z"
+    },
+    {
+      "id": "trend-1775832339763-1",
+      "topic": "AI副業の投資必要性",
+      "category": "スモールビジネス",
+      "summary": "AI副業で成功するため初期投資が必要と指摘。人生を変える覚悟で自己投資を促す声が高まる。小規模事業者向けのAI活用がトレンド。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-04-10T14:45:39.763Z"
+    },
+    {
+      "id": "trend-1775832339763-2",
+      "topic": "Perplexityの金融AI連携",
+      "category": "AI・LLM",
+      "summary": "PerplexityのAI基盤「Computer」がPlaid経由で銀行口座・カードと接続。支出追跡や予算ツール構築が可能になり、金融分野でのAI実用化が進む。",
+      "relevance_score": 1,
+      "source": "x",
+      "collected_at": "2026-04-10T14:45:39.763Z"
+    },
+    {
+      "id": "trend-1775832339763-3",
+      "topic": "小規模事業者のレジシステム対応",
+      "category": "スモールビジネス",
+      "summary": "消費税食料品ゼロ化に向け、小規模事業者のレジ改修が課題。iPadなど簡易システムで迅速対応可能と議論。2027年実施見込み。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-04-10T14:45:39.763Z"
+    },
+    {
+      "id": "trend-1775832339763-4",
+      "topic": "令和8年度補助金活用ロードマップ",
+      "category": "スモールビジネス",
+      "summary": "小規模事業者向けに省力化と新事業投資の二段構え戦略を提案。予算を使い倒すロードマップ公開で生存戦略として注目。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-10T14:45:39.763Z"
+    },
+    {
+      "id": "trend-1775832339763-5",
+      "topic": "アメリカ式スモールM&A",
+      "category": "M&A・事業承継",
+      "summary": "譲渡契約先行でデポジット10%をエスクロー。2週間DD後自動不可避の合理的プロセス。日本との違いが議論され、効率化の参考に。",
+      "relevance_score": 0.95,
+      "source": "x",
+      "collected_at": "2026-04-10T14:45:39.763Z"
+    },
+    {
+      "id": "trend-1775832339763-6",
+      "topic": "AfterEffectsの動画編集推奨",
+      "category": "エンジニアリング",
+      "summary": "低単価問題でAfterEffects活用を勧め、AEユーザーの優しさを強調。動画編集界隈のツールシフトが話題。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-04-10T14:45:39.763Z"
+    },
+    {
+      "id": "trend-1775832339763-7",
+      "topic": "WebアプリのSQLite OPFS対応",
+      "category": "エンジニアリング",
+      "summary": "巨大SQLiteファイルをIndexedDBからOPFSへ移行。プログラム複雑化の課題を共有し、Web開発のデータ管理トレンド。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-04-10T14:45:39.763Z"
+    },
+    {
+      "id": "trend-1775832339763-8",
+      "topic": "炎上マーケティングの是非",
+      "category": "マーケティング",
+      "summary": "奇策や炎上を避けコツコツ戦略を主張。一方でマクドナルドの下品マーケティング批判も。効果的なプロモーション手法が議論。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-10T14:45:39.763Z"
+    },
+    {
+      "id": "trend-1775832339763-9",
+      "topic": "X導線最適化診断",
+      "category": "マーケティング",
+      "summary": "小規模事業者向けにXのプロフィール・固定ポスト・リンク診断。改善提案でSNS集客を強化。半自動化ツール活用の流れ。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-10T14:45:39.763Z"
+    }
+  ]
+}
