@@ -188,8 +188,17 @@
         "x_posts": []
       },
       "collected_at": "2026-04-09T14:51:17.977Z"
+    },
+    {
+      "date": "2026-04-10",
+      "performance": {
+        "date": "2026-04-10",
+        "note_articles": [],
+        "x_posts": []
+      },
+      "collected_at": "2026-04-10T14:14:45.807Z"
     }
   ],
-  "last_updated": "2026-04-09T14:51:17.977Z",
+  "last_updated": "2026-04-10T14:14:45.807Z",
   "version": 1
 }
