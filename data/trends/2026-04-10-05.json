@@ -1,0 +1,95 @@
+{
+  "collected_at": "2026-04-10T05:23:20.366Z",
+  "trends": [
+    {
+      "id": "trend-1775798600365-0",
+      "topic": "Claudeのアドバイザー戦略",
+      "category": "AI・LLM",
+      "summary": "AnthropicのClaudeがOpusをアドバイザー、Sonnet/Haikuを実行者として組み合わせ、低コストで高性能エージェントを実現。トークン制限の補償も迅速で、ユーザーニーズに応じた進化が話題。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-10T05:23:20.365Z"
+    },
+    {
+      "id": "trend-1775798600365-1",
+      "topic": "dev-browserによるAIブラウザ制御",
+      "category": "AI・LLM",
+      "summary": "ClaudeがPlaywrightコードでChromeをサンドボックス内で操作可能に。スクレイピングや自動化が効率化され、AIエージェントの実務応用が広がる革新ツールとして注目。",
+      "relevance_score": 0.95,
+      "source": "x",
+      "collected_at": "2026-04-10T05:23:20.365Z"
+    },
+    {
+      "id": "trend-1775798600365-2",
+      "topic": "AI小説生成のユーモア",
+      "category": "AI・LLM",
+      "summary": "AIに小説を書かせると文学部の幽霊部員主人公が出てくるなど、意外な出力で笑いを誘う事例。クリエイティブツールとしてのAIの娯楽性が話題に。",
+      "relevance_score": 0.7,
+      "source": "x",
+      "collected_at": "2026-04-10T05:23:20.365Z"
+    },
+    {
+      "id": "trend-1775798600365-3",
+      "topic": "小規模介護事業所の淘汰危機",
+      "category": "スモールビジネス",
+      "summary": "介護報酬制度の複雑さで小規模事業所が加算ビジネスに追われ、基本報酬引き上げの必要性が議論。地域介護の崩壊を防ぐ支援策が求められている。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-04-10T05:23:20.365Z"
+    },
+    {
+      "id": "trend-1775798600365-4",
+      "topic": "小規模事業者持続化補助金",
+      "category": "スモールビジネス",
+      "summary": "中小企業・小規模事業者向けの補助金申請が増加。商工会議所入会促進も伴い、事業計画策定支援が活発化。経営改善のツールとして活用が進む。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-04-10T05:23:20.365Z"
+    },
+    {
+      "id": "trend-1775798600365-5",
+      "topic": "小規模M&A支援の適正価格化",
+      "category": "M&A・事業承継",
+      "summary": "通信業界独立アドバイザーが完全成功報酬で小規模M&Aを支援。京都府中心に中小企業診断士が伴走し、事業承継のハードルを下げる取り組みが注目。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-10T05:23:20.365Z"
+    },
+    {
+      "id": "trend-1775798600365-6",
+      "topic": "事業承継ラボの情報発信",
+      "category": "M&A・事業承継",
+      "summary": "事業承継に関するWEBマガジンがM&A事例や支援策を共有。経営後継者向けに変革戦略を伝えるコンテンツが、スモールビジネスの継続性を高める。",
+      "relevance_score": 0.75,
+      "source": "x",
+      "collected_at": "2026-04-10T05:23:20.365Z"
+    },
+    {
+      "id": "trend-1775798600365-7",
+      "topic": "GTMエンジニアの役割拡大",
+      "category": "エンジニアリング",
+      "summary": "LayerXがGemini/Cursor活用のGTMエンジニア事例として紹介。AI Operation Specialistの新役割が、非エンジニアの開発参加を促進し、効率化が進む。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-04-10T05:23:20.365Z"
+    },
+    {
+      "id": "trend-1775798600365-8",
+      "topic": "Vibe CodingでSlackアプリ開発",
+      "category": "エンジニアリング",
+      "summary": "非エンジニア向けVibe CodingでSlackアプリをマスター。SalesforceのCRM進化と連動し、ハイブリッドイベントで実践共有が活発。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-04-10T05:23:20.365Z"
+    },
+    {
+      "id": "trend-1775798600365-9",
+      "topic": "トヨタのブランディングマーケティング",
+      "category": "マーケティング",
+      "summary": "86の売上成功がAE86の伝統継承によるもの。プロモーションで連続性を演出するトヨタの戦略が、理系的思考を超えたマーケティングの効果を示す。",
+      "relevance_score": 0.7,
+      "source": "x",
+      "collected_at": "2026-04-10T05:23:20.365Z"
+    }
+  ]
+}
