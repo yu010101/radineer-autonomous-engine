@@ -1,0 +1,95 @@
+{
+  "collected_at": "2026-04-10T09:06:47.148Z",
+  "trends": [
+    {
+      "id": "trend-1775812007148-0",
+      "topic": "MarkItDownツールの活用",
+      "category": "AI・LLM",
+      "summary": "MicrosoftのMarkItDownがPDF、Word、Excel、画像、音声などをMarkdown形式に変換。LLM連携で画像説明自動生成が可能。ドキュメント管理の革新としてAI活用のトレンド。Claudeとの相性も良好。",
+      "relevance_score": 0.95,
+      "source": "x",
+      "collected_at": "2026-04-10T09:06:47.148Z"
+    },
+    {
+      "id": "trend-1775812007148-1",
+      "topic": "OpenAI Proプランの導入",
+      "category": "AI・LLM",
+      "summary": "OpenAIが月額100ドルのProプランを追加。ChatGPT Plusの5倍価格でCodex機能強化。中小企業での補助金申請書作成や事業計画に活用可能で、ユーザー二極化を促す。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-10T09:06:47.148Z"
+    },
+    {
+      "id": "trend-1775812007148-2",
+      "topic": "AI補助金申請の効率化",
+      "category": "スモールビジネス",
+      "summary": "AIを活用した補助金申請書作成が中小企業で注目。IT導入補助金やものづくり補助金のデジタル枠で差別化。Proプラン利用料も経費対象可能で導入ハードル低下。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-04-10T09:06:47.148Z"
+    },
+    {
+      "id": "trend-1775812007148-3",
+      "topic": "中小企業のM&A出口戦略",
+      "category": "M&A・事業承継",
+      "summary": "スモールビジネスの事業売却を支援する出口戦略設計が話題。シリコンバレー経験者がM&Aアドバイス。相続税制度の厳しさが起業阻害要因として議論。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-04-10T09:06:47.148Z"
+    },
+    {
+      "id": "trend-1775812007148-4",
+      "topic": "Android開発者認証義務化",
+      "category": "エンジニアリング",
+      "summary": "2026年9月からAndroidアプリの開発者認証が完全義務化。「らしさ」喪失の懸念。セキュリティ強化の一環としてエンジニアの対応が急務。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-04-10T09:06:47.148Z"
+    },
+    {
+      "id": "trend-1775812007148-5",
+      "topic": "SfM-MVS地形データ生成",
+      "category": "エンジニアリング",
+      "summary": "過去空中写真とSfM-MVS技術でDSM・DEM・オルソ画像を生成。地理情報システムの研究開発が進み、オープンデータ公開。GIS分野の革新。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-10T09:06:47.148Z"
+    },
+    {
+      "id": "trend-1775812007148-6",
+      "topic": "営業のビジネス課題ヒアリング",
+      "category": "マーケティング",
+      "summary": "営業提案で顧客のビジネス課題を優先。製品説明より事業文脈を捉える重要性。SFA活用で提案質向上、マーケティング設計にも適用可能。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-04-10T09:06:47.148Z"
+    },
+    {
+      "id": "trend-1775812007148-7",
+      "topic": "AI検索時代のLLMO戦略",
+      "category": "マーケティング",
+      "summary": "AI検索マーケティングの「LLMO」を独自調査。SEOの次としてエンティティ戦略や情報ガバナンスを発信。経営者向けデータ駆動アプローチ。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-04-10T09:06:47.148Z"
+    },
+    {
+      "id": "trend-1775812007148-8",
+      "topic": "AI活用のHRテック対談",
+      "category": "マーケティング",
+      "summary": "ミキワメAIの対談動画公開。信頼関係構築の心理学的観点から人事・組織開発を議論。マネジメントに携わる人向けのマーケティングツール。",
+      "relevance_score": 0.75,
+      "source": "x",
+      "collected_at": "2026-04-10T09:06:47.148Z"
+    },
+    {
+      "id": "trend-1775812007148-9",
+      "topic": "こもりばアプリのリリース",
+      "category": "エンジニアリング",
+      "summary": "集中支援アプリ「こもりば」リリース。ハリネズミなどの可愛いキャラクターで穏やかな作業環境提供。AI非活用だが開発トレンドとして注目。",
+      "relevance_score": 0.7,
+      "source": "x",
+      "collected_at": "2026-04-10T09:06:47.148Z"
+    }
+  ]
+}
