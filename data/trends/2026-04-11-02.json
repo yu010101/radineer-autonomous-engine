@@ -1,0 +1,95 @@
+{
+  "collected_at": "2026-04-11T02:02:56.678Z",
+  "trends": [
+    {
+      "id": "trend-1775872976678-0",
+      "topic": "Googleの無料AI動画生成ツール",
+      "category": "AI・LLM",
+      "summary": "OpenAIの撤退後、GoogleがAI動画生成を無料で提供開始。動画制作の敷居が下がり、クリエイターの活用が期待される。リアルサウンドの記事で話題。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-11T02:02:56.678Z"
+    },
+    {
+      "id": "trend-1775872976678-1",
+      "topic": "Netflixの動画AIモデルVOID公開",
+      "category": "AI・LLM",
+      "summary": "NetflixがHugging FaceでAIモデルVOIDを公開。映像から物体と動作を自動削除する技術で、動画AIの普及フェーズ突入。コンテンツ制作が変わる可能性。",
+      "relevance_score": 0.95,
+      "source": "x",
+      "collected_at": "2026-04-11T02:02:56.678Z"
+    },
+    {
+      "id": "trend-1775872976678-2",
+      "topic": "AI文章生成検知ツールの課題",
+      "category": "AI・LLM",
+      "summary": "ユーザーの文章がAI生成と誤判定される問題が指摘。AIの進化に伴い、検知ツールの精度向上が求められる。日常的な議論に。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-04-11T02:02:56.678Z"
+    },
+    {
+      "id": "trend-1775872976678-3",
+      "topic": "小規模事業者向け補助金活用",
+      "category": "スモールビジネス",
+      "summary": "IT導入補助金や小規模事業者持続化補助金など、2026年最新の返済不要補助金リストが共有。経営者の自腹負担を減らし、利益伸ばすチャンス。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-11T02:02:56.678Z"
+    },
+    {
+      "id": "trend-1775872976678-4",
+      "topic": "スモールビジネスでのAI業務効率化",
+      "category": "スモールビジネス",
+      "summary": "一人で全業務をこなすスモールビジネスのあるあるに対し、AI活用で業務量2-3倍増。海外事例が増加し、日本の中小企業にも波及。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-04-11T02:02:56.678Z"
+    },
+    {
+      "id": "trend-1775872976678-5",
+      "topic": "小規模事業者のネット集客戦略",
+      "category": "スモールビジネス",
+      "summary": "月1000円の広告予算でキーワード調査を実施。サイト反映で長期的な防衛壁構築。資金力のない事業者がコツコツ進める重要性。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-04-11T02:02:56.678Z"
+    },
+    {
+      "id": "trend-1775872976678-6",
+      "topic": "AIエージェントとナノマネージメント",
+      "category": "エンジニアリング",
+      "summary": "AIエージェント活用をマネジメントと呼ぶが、細かな粒度が必要。ハーネスエンジニアリングの観点からナノマネジメントの議論。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-04-11T02:02:56.678Z"
+    },
+    {
+      "id": "trend-1775872976678-7",
+      "topic": "ElixirのAI開発強み",
+      "category": "エンジニアリング",
+      "summary": "Elixirの並行処理と障害耐性がAI開発にフィット。OpenAIのSymphony FWが好例で、マイクロサービス時代に適応。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-11T02:02:56.678Z"
+    },
+    {
+      "id": "trend-1775872976678-8",
+      "topic": "SES業界の終焉と変化",
+      "category": "エンジニアリング",
+      "summary": "人月商売のIT業界に終わりが近づく。SESベンダーの技術者向けに警鐘。AI時代でのセキュリティ危機解決の文脈で議論。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-04-11T02:02:56.678Z"
+    },
+    {
+      "id": "trend-1775872976678-9",
+      "topic": "イケハヤのマーケティング教科書『明鏡』",
+      "category": "マーケティング",
+      "summary": "イケハヤ氏の新刊『明鏡』発売。マーケティングをビジネスのハンドルスキルとして学ぶ重要性。Spotifyポッドキャストで話題。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-11T02:02:56.678Z"
+    }
+  ]
+}
