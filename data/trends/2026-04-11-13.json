@@ -1,0 +1,95 @@
+{
+  "collected_at": "2026-04-11T13:55:14.455Z",
+  "trends": [
+    {
+      "id": "trend-1775915714455-0",
+      "topic": "AI副業の収支公開",
+      "category": "AI・LLM",
+      "summary": "AI副業で月30万円を目指す過程をリアルタイムで公開。noteのビューとスキ数が急増し、副業コンテンツの人気を証明。未経験からAI活用の収支・失敗を数字で発信中。",
+      "relevance_score": 1,
+      "source": "x",
+      "collected_at": "2026-04-11T13:55:14.455Z"
+    },
+    {
+      "id": "trend-1775915714455-1",
+      "topic": "ComfyUI AI動画トランジション",
+      "category": "AI・LLM",
+      "summary": "ComfyUI向けLTX 2.3 Transition LORAを使ったAI動画チュートリアル公開。低VRAM環境対応でFlux 2 KleinとQwen VLを組み合わせ。動的な結果が注目。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-11T13:55:14.455Z"
+    },
+    {
+      "id": "trend-1775915714455-2",
+      "topic": "小規模事業者持続化補助金",
+      "category": "スモールビジネス",
+      "summary": "小規模事業者持続化補助金の申請と採択情報が活発。最大250万円の返済不要補助で販路開拓・設備投資に活用。スマホ申請可能で締切迫る。",
+      "relevance_score": 1,
+      "source": "x",
+      "collected_at": "2026-04-11T13:55:14.455Z"
+    },
+    {
+      "id": "trend-1775915714455-3",
+      "topic": "EC運営術の本",
+      "category": "スモールビジネス",
+      "summary": "月商100万円達成のEC運営術をKindle・単行本で公開。個人・小規模事業者の売上突破ノウハウを解説。実践的なチェックシート付き。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-04-11T13:55:14.455Z"
+    },
+    {
+      "id": "trend-1775915714455-4",
+      "topic": "副業スモールビジネスの構造",
+      "category": "スモールビジネス",
+      "summary": "1人で回る小さな事業の構造を重視。課題解決・売上化・時間配分を明確に。粗利・固定費・在庫管理で差別化を図るアドバイス。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-11T13:55:14.455Z"
+    },
+    {
+      "id": "trend-1775915714455-5",
+      "topic": "創業支援融資と給付金",
+      "category": "M&A・事業承継",
+      "summary": "特定創業支援融資完了で小規模事業者持続化給付金手続き進む。広告集客に活用予定。事業承継時の資金調達として注目。",
+      "relevance_score": 0.7,
+      "source": "x",
+      "collected_at": "2026-04-11T13:55:14.455Z"
+    },
+    {
+      "id": "trend-1775915714455-6",
+      "topic": "エンジニアの解雇規制",
+      "category": "エンジニアリング",
+      "summary": "労働者保護の過剰が貧困を生むと指摘。解雇規制緩和を求める声。ワークライフバランスと収入安定のジレンマが議論。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-04-11T13:55:14.455Z"
+    },
+    {
+      "id": "trend-1775915714455-7",
+      "topic": "税率変更システム改修",
+      "category": "エンジニアリング",
+      "summary": "POSシステムの税率マスタ改修が課題。軽減税率対応でSIerの費用負担増。柔軟なシステム設計の必要性を指摘。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-11T13:55:14.455Z"
+    },
+    {
+      "id": "trend-1775915714455-8",
+      "topic": "Mr.Childrenのマーケティング分析",
+      "category": "マーケティング",
+      "summary": "Mr.Childrenの楽曲・戦略をマーケティング視点で分析。共感設計と全体戦略でファン獲得。採用・EC売上向上の事例として参考。",
+      "relevance_score": 1,
+      "source": "x",
+      "collected_at": "2026-04-11T13:55:14.455Z"
+    },
+    {
+      "id": "trend-1775915714455-9",
+      "topic": "イケハヤのマーケティング教材",
+      "category": "マーケティング",
+      "summary": "『明鏡』でAI・コミュニティ・エンタメを掛け合わせたマーケティングを解説。お好み焼き屋の事例で実践ノウハウ提供。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-11T13:55:14.455Z"
+    }
+  ]
+}
