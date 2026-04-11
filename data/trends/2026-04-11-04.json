@@ -1,0 +1,95 @@
+{
+  "collected_at": "2026-04-11T04:52:47.454Z",
+  "trends": [
+    {
+      "id": "trend-1775883167454-0",
+      "topic": "AIを担当編集者に活用した技術書執筆",
+      "category": "AI・LLM",
+      "summary": "技術書執筆でAIを担当編集者として活用し、新しい書き方を紹介。Zenn.devで詳細を公開。AI時代の実践例として参考になる。",
+      "relevance_score": 0.95,
+      "source": "x",
+      "collected_at": "2026-04-11T04:52:47.454Z"
+    },
+    {
+      "id": "trend-1775883167454-1",
+      "topic": "Vidu MV Generatorの動画編集",
+      "category": "AI・LLM",
+      "summary": "AIツールVidu MV Generatorを使ってMVを生成。編集スキルの限界を感じ、20秒のポン出し動画を作成。AIの利便性を示す。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-11T04:52:47.454Z"
+    },
+    {
+      "id": "trend-1775883167454-2",
+      "topic": "Claude codeのAI活用",
+      "category": "AI・LLM",
+      "summary": "Claude codeを今更ながら紹介。AIのコーディング支援ツールとして注目。hs.shitsumon.jpで詳細。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-04-11T04:52:47.454Z"
+    },
+    {
+      "id": "trend-1775883167454-3",
+      "topic": "中小企業診断士1次模試の法務",
+      "category": "スモールビジネス",
+      "summary": "LECの中小企業診断士1次模試（法務）で36点の結果。西村渉講師の解説動画でリーガルマインドを学び、思考プロセスを理解。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-11T04:52:47.454Z"
+    },
+    {
+      "id": "trend-1775883167454-4",
+      "topic": "中小企業のAI未活用問題",
+      "category": "スモールビジネス",
+      "summary": "中小企業の6割がAI未活用。失業懸念よりツールと体制のギャップが課題。補助金活用で業務フロー見直しを提案。",
+      "relevance_score": 0.95,
+      "source": "x",
+      "collected_at": "2026-04-11T04:52:47.454Z"
+    },
+    {
+      "id": "trend-1775883167454-5",
+      "topic": "日本M&Aセンターの事業承継ファンド",
+      "category": "M&A・事業承継",
+      "summary": "日本プライベートエクイティの日本M&AセンターとDBJ合弁ファンド。中小企業の事業承継をメインに支援。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-11T04:52:47.454Z"
+    },
+    {
+      "id": "trend-1775883167454-6",
+      "topic": "外資ITエンジニアのキャリア戦略",
+      "category": "エンジニアリング",
+      "summary": "外資系アプリエンジニア4年目の経験を共有。IT転職のリアルと戦略、外資エンジニアの実態を発信。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-04-11T04:52:47.454Z"
+    },
+    {
+      "id": "trend-1775883167454-7",
+      "topic": "AIで起業の実験公開",
+      "category": "エンジニアリング",
+      "summary": "30代ITエンジニアがAIで起業実験。フォロワー3人、売上0円のリアルをnoteで全公開。副業・独立の参考に。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-11T04:52:47.454Z"
+    },
+    {
+      "id": "trend-1775883167454-8",
+      "topic": "イケハヤのマーケティング教科書「明鏡」",
+      "category": "マーケティング",
+      "summary": "イケハヤ氏の15年キャリア集大成「明鏡」を購入。図解・動画満載で初心者向け。Brainで販売中。",
+      "relevance_score": 0.95,
+      "source": "x",
+      "collected_at": "2026-04-11T04:52:47.454Z"
+    },
+    {
+      "id": "trend-1775883167454-9",
+      "topic": "組織の意思決定スピードの重要性",
+      "category": "マーケティング",
+      "summary": "組織のスピードは意思決定のスピードで決まる。決断しないコストが大きい。進みながら修正を提案。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-04-11T04:52:47.454Z"
+    }
+  ]
+}
