@@ -1,0 +1,95 @@
+{
+  "collected_at": "2026-04-11T08:40:43.207Z",
+  "trends": [
+    {
+      "id": "trend-1775896843207-0",
+      "topic": "Higgsfield AIのSeedance 2.0動画生成",
+      "category": "AI・LLM",
+      "summary": "Higgsfield AIでSeedance 2.0が個人利用可能に。キャラクター読み込みで動画生成が可能だが、NSFW検知が厳しく制服指定で制限。顔生成は服指定で可能。AI動画ツールの進化が話題。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-11T08:40:43.207Z"
+    },
+    {
+      "id": "trend-1775896843207-1",
+      "topic": "AI副業で月10万を目指す",
+      "category": "AI・LLM",
+      "summary": "フォロワー0からAI副業に挑戦中。30日で1000人達成し、月10万目標。失敗も公開しコツコツ継続。AIを活用した副業トレンドが中小層で広がる。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-04-11T08:40:43.207Z"
+    },
+    {
+      "id": "trend-1775896843207-2",
+      "topic": "#AI_love_universeイベント",
+      "category": "AI・LLM",
+      "summary": "AIイラストイベントで宇宙テーマを募集。#AI_love_universeタグで投稿。二次創作NGで参加歓迎。AI生成アートのコミュニティ活性化が見られる。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-04-11T08:40:43.207Z"
+    },
+    {
+      "id": "trend-1775896843207-3",
+      "topic": "中小企業AI導入で業務削減",
+      "category": "スモールビジネス",
+      "summary": "AIを現場導入した中小企業で1部署月38時間削減。付加価値の低い業務を効率化し、社長の時間を解放。AI活用がスモールビジネスの生産性向上に寄与。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-11T08:40:43.207Z"
+    },
+    {
+      "id": "trend-1775896843207-4",
+      "topic": "居住支援補助事業開始",
+      "category": "スモールビジネス",
+      "summary": "居住支援協議会・法人向け補助事業が2026年4月9日から開始。中小企業支援として注目。経営者向け新制度の活用がトレンド。",
+      "relevance_score": 0.7,
+      "source": "x",
+      "collected_at": "2026-04-11T08:40:43.207Z"
+    },
+    {
+      "id": "trend-1775896843207-5",
+      "topic": "相続放棄と不動産負動産",
+      "category": "M&A・事業承継",
+      "summary": "不動産を負動産と位置づけ、全員相続放棄の影響を議論。事業承継時の課題として、相続登記の重要性が強調される。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-04-11T08:40:43.207Z"
+    },
+    {
+      "id": "trend-1775896843207-6",
+      "topic": "IntentDBデータベース開発",
+      "category": "エンジニアリング",
+      "summary": "自然言語で登録・検索可能なIntentDBを開発。AIプロンプト管理に特化し、Claude Code対応。スキーマ不要で即インストール可能。",
+      "relevance_score": 0.95,
+      "source": "x",
+      "collected_at": "2026-04-11T08:40:43.207Z"
+    },
+    {
+      "id": "trend-1775896843207-7",
+      "topic": "Claude Codeの生産性向上",
+      "category": "エンジニアリング",
+      "summary": "Claude Codeで開発生産性が爆上がりするが、人間側のコンテキスト切り替えがボトルネックに。AIツールの活用がエンジニアの課題を浮き彫り。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-04-11T08:40:43.207Z"
+    },
+    {
+      "id": "trend-1775896843207-8",
+      "topic": "YouTube Premium値上げと広告ブロック",
+      "category": "マーケティング",
+      "summary": "YouTube Premiumが月15.99ドルに値上げ。広告ブロックツールBraveの利用が増加。デジタル広告の回避トレンドがマーケティングに影響。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-04-11T08:40:43.207Z"
+    },
+    {
+      "id": "trend-1775896843207-9",
+      "topic": "SNS集客とフォロワー減少",
+      "category": "マーケティング",
+      "summary": "ブログ・SNS集客コンサルがBAN祭りでフォロワー20人減。スパム粛清の影響で中小ビジネス向けマーケティング戦略の見直しが必要。",
+      "relevance_score": 0.75,
+      "source": "x",
+      "collected_at": "2026-04-11T08:40:43.207Z"
+    }
+  ]
+}
