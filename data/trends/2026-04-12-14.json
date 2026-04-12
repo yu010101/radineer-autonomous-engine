@@ -1,0 +1,95 @@
+{
+  "collected_at": "2026-04-12T14:00:37.348Z",
+  "trends": [
+    {
+      "id": "trend-1776002437347-0",
+      "topic": "生成AIによるDTM作曲",
+      "category": "AI・LLM",
+      "summary": "Synthesizer V 2 AIの重音テトを使用したDTMで、弦楽器中心のオーケストラ風曲を作成。AIツールで軽いノリで作曲を試すトレンドが見られる。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-12T14:00:37.347Z"
+    },
+    {
+      "id": "trend-1776002437347-1",
+      "topic": "GitHub Copilot SDKのAIエージェント統合",
+      "category": "AI・LLM",
+      "summary": "中小企業向けにGitHub Copilot SDKを活用し、自社ツールにAIエージェントを組み込み、現場定着を促進。テクニカルプレビュー中の先行導入が注目。",
+      "relevance_score": 0.95,
+      "source": "x",
+      "collected_at": "2026-04-12T14:00:37.347Z"
+    },
+    {
+      "id": "trend-1776002437347-2",
+      "topic": "中小企業の競合指名キーワード広告戦略",
+      "category": "スモールビジネス",
+      "summary": "中小企業が大手に対抗するための広告戦略として、競合指名キーワードの正しい使い方を議論。Webマーケティングのブラックボックスを解消するアプローチ。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-12T14:00:37.347Z"
+    },
+    {
+      "id": "trend-1776002437347-3",
+      "topic": "中小企業診断士のAI活用支援",
+      "category": "スモールビジネス",
+      "summary": "中小企業診断士がAI導入を支援し、伴走型ビジネスを展開。MicrosoftのアンケートでAIに詳しい若手が選ばれる中、キャリアアップの必要性を指摘。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-04-12T14:00:37.347Z"
+    },
+    {
+      "id": "trend-1776002437347-4",
+      "topic": "UnileverのGrüns社買収",
+      "category": "M&A・事業承継",
+      "summary": "Unileverが米サプリ企業Grünsを買収。グミ形式のグリーンスサプリで急成長した同社により、ウェルビーイング分野と米国市場を強化するM&A事例。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-12T14:00:37.347Z"
+    },
+    {
+      "id": "trend-1776002437347-5",
+      "topic": "OpenAIのCirrus Labs買収",
+      "category": "M&A・事業承継",
+      "summary": "OpenAIがApple Silicon向け仮想化ツールTart開発チームを買収。エージェント基盤強化で、オープンソース化とCIシャットダウンが話題。",
+      "relevance_score": 0.95,
+      "source": "x",
+      "collected_at": "2026-04-12T14:00:37.347Z"
+    },
+    {
+      "id": "trend-1776002437347-6",
+      "topic": "DevOpsエンジニアのHackerRankテスト",
+      "category": "エンジニアリング",
+      "summary": "日本就活中のエンジニアがREST API・SQL・Reactの課題に挑戦。DevOps中心の経験を活かし、2時間超でクリアする就活トレンド。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-04-12T14:00:37.347Z"
+    },
+    {
+      "id": "trend-1776002437347-7",
+      "topic": "二段燃焼サイクルエンジンの複雑さ",
+      "category": "エンジニアリング",
+      "summary": "ロケットエンジンの二段燃焼サイクルが配管の強度とエンジニアリングの難しさを象徴。複雑な設計の悪夢として議論される。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-04-12T14:00:37.347Z"
+    },
+    {
+      "id": "trend-1776002437347-8",
+      "topic": "AI開発のハーネスエンジニアリング",
+      "category": "エンジニアリング",
+      "summary": "AIエージェントのスキル・プロンプト・RAG資料を整え、全体を回すハーネスエンジニアリングが重要。システム開発の生産性を左右する新スキル。",
+      "relevance_score": 0.95,
+      "source": "x",
+      "collected_at": "2026-04-12T14:00:37.347Z"
+    },
+    {
+      "id": "trend-1776002437347-9",
+      "topic": "イケハヤのマーケティング本『明鏡』",
+      "category": "マーケティング",
+      "summary": "イケハヤ氏の新作『明鏡』でネット商品販売と本当のマーケティングを学ぶ。資産1億円ロードマップをテーマにマネタイズ模索のトレンド。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-12T14:00:37.347Z"
+    }
+  ]
+}
