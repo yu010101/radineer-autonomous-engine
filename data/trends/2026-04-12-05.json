@@ -1,0 +1,95 @@
+{
+  "collected_at": "2026-04-12T05:21:40.678Z",
+  "trends": [
+    {
+      "id": "trend-1775971300678-0",
+      "topic": "AI副業占いアプリの成功事例",
+      "category": "AI・LLM",
+      "summary": "Claude Codeを使って占いアプリを開発し、寝ている間に売上29,800円を達成。夜中の需要を捉え、月100万超えの副業として注目。未経験者でもAI活用で高収入可能。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-12T05:21:40.678Z"
+    },
+    {
+      "id": "trend-1775971300678-1",
+      "topic": "AIイラストと動画生成ツール",
+      "category": "AI・LLM",
+      "summary": "Veo3.1とGrokを使ってAIイラストの動画を作成。表情豊かな可愛い女の子を生成し、SNSで共有。AIツールの進化でクリエイティブ作業が効率化。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-04-12T05:21:40.678Z"
+    },
+    {
+      "id": "trend-1775971300678-2",
+      "topic": "中小企業へのAI導入抵抗",
+      "category": "スモールビジネス",
+      "summary": "中小企業社長がAIを「まだ早い」と避けるのは変化への抵抗。Claude Codeでアプリ作成可能で、導入遅れが競争力低下を招く。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-04-12T05:21:40.678Z"
+    },
+    {
+      "id": "trend-1775971300678-3",
+      "topic": "事業承継アドバイザーの役割",
+      "category": "M&A・事業承継",
+      "summary": "中小企業診断士が事業承継を支援。資格保有者が現場で活躍し、資金支援や組織構築を助ける。春のツツジのように新展開を促す。",
+      "relevance_score": 0.7,
+      "source": "x",
+      "collected_at": "2026-04-12T05:21:40.678Z"
+    },
+    {
+      "id": "trend-1775971300678-4",
+      "topic": "LBOファイナンスの市場動向",
+      "category": "M&A・事業承継",
+      "summary": "2025年のTOB市場拡大中、金利高でレバレッジ低下。ソフトウェア企業評価低下が影響。日本市場は限定的で、買収戦略の見直しが必要。",
+      "relevance_score": 0.75,
+      "source": "x",
+      "collected_at": "2026-04-12T05:21:40.678Z"
+    },
+    {
+      "id": "trend-1775971300678-5",
+      "topic": "合成燃料関連エンジニアリング",
+      "category": "エンジニアリング",
+      "summary": "三菱重工らがSOECとFT合成で実証成功。日揮や千代田化工がインフラ構築を担う。コスト課題あるが、脱炭素技術の進展が期待。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-12T05:21:40.678Z"
+    },
+    {
+      "id": "trend-1775971300678-6",
+      "topic": "機械設計の配送トラブル",
+      "category": "エンジニアリング",
+      "summary": "Amazon配送で機械設計本が破損。楽天ブックス推奨で、専門書入手の信頼性向上。エンジニアの学習効率を左右する物流課題。",
+      "relevance_score": 0.6,
+      "source": "x",
+      "collected_at": "2026-04-12T05:21:40.678Z"
+    },
+    {
+      "id": "trend-1775971300678-7",
+      "topic": "SEO自動化スクリプト",
+      "category": "マーケティング",
+      "summary": "Claude CodeでSEO記事構造を自動化。手作業3-4時間短縮し、再現性向上。AI活用でマーケティング効率が10倍に。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-04-12T05:21:40.678Z"
+    },
+    {
+      "id": "trend-1775971300678-8",
+      "topic": "YouTube収益化停止の影響",
+      "category": "マーケティング",
+      "summary": "低体重強調や過食美化動画が対象。フィットネスYouTuber休止、家族系も影響。動物ネタ動画へのシフトが新たな戦略。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-04-12T05:21:40.678Z"
+    },
+    {
+      "id": "trend-1775971300678-9",
+      "topic": "マーケティングの透明性向上",
+      "category": "マーケティング",
+      "summary": "RallyOnChainでキャンペーン効果を明確化。質重視の報酬システムで、クリエイター主導の信頼性高い配布が可能に。",
+      "relevance_score": 0.75,
+      "source": "x",
+      "collected_at": "2026-04-12T05:21:40.678Z"
+    }
+  ]
+}
