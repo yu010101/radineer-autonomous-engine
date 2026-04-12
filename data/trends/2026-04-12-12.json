@@ -1,0 +1,95 @@
+{
+  "collected_at": "2026-04-12T12:57:22.961Z",
+  "trends": [
+    {
+      "id": "trend-1775998642961-0",
+      "topic": "生成AIの教育活用",
+      "category": "AI・LLM",
+      "summary": "教育者による生成AIの活用事例が活発。Apple TeacherやGoogle教育者Lv2がSwift Playgroundsやmicro:bitを組み合わせたAIツールの紹介が増え、子供向けプログラミング教育の革新が注目されている。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-12T12:57:22.961Z"
+    },
+    {
+      "id": "trend-1775998642961-1",
+      "topic": "AIエージェントのオフ会とコミュニティ",
+      "category": "AI・LLM",
+      "summary": "AIエージェント開発者のオフ会が開催され、非エンジニア向けのAIツール構築やプロンプト設計の共有が話題。SYNQAI CTOらによる実践的な議論が活発で、AIの民主化が進む。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-04-12T12:57:22.961Z"
+    },
+    {
+      "id": "trend-1775998642961-2",
+      "topic": "中小企業診断士の資格取得ブーム",
+      "category": "スモールビジネス",
+      "summary": "中小企業診断士の養成課程修了者が増加。IT企業所属の診断士が界隈交流を呼びかけ、事務寄りのビジネス支援やワークライフバランスの模索が中小企業オーナー間で共有されている。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-04-12T12:57:22.961Z"
+    },
+    {
+      "id": "trend-1775998642961-3",
+      "topic": "中小企業の組織人事変革",
+      "category": "スモールビジネス",
+      "summary": "人手不足解消のためのAI導入とBPO活用が提案。住宅営業経験者が合同会社を設立し、社長の時間を創出する支援が注目。採用依存からの脱却がスモールビジネスのトレンド。",
+      "relevance_score": 0.75,
+      "source": "x",
+      "collected_at": "2026-04-12T12:57:22.961Z"
+    },
+    {
+      "id": "trend-1775998642961-4",
+      "topic": "M&A顧問の財務支援",
+      "category": "M&A・事業承継",
+      "summary": "元銀行員による中小企業向けM&A・事業再生顧問が活発。融資獲得とM&A実践ノウハウの公開が増え、組織人事変革を伴う再生計画の重要性が議論されている。",
+      "relevance_score": 0.7,
+      "source": "x",
+      "collected_at": "2026-04-12T12:57:22.961Z"
+    },
+    {
+      "id": "trend-1775998642961-5",
+      "topic": "事業承継時の組織文化構築",
+      "category": "M&A・事業承継",
+      "summary": "人事制度の自己目的化を避け、価値観を体現する覚悟が求められる。M&A後の文化崩壊防止策として、トップダウンとボトムアップの言語化が事業承継の鍵と指摘。",
+      "relevance_score": 0.65,
+      "source": "x",
+      "collected_at": "2026-04-12T12:57:22.961Z"
+    },
+    {
+      "id": "trend-1775998642961-6",
+      "topic": "ソフトウェアエンジニアのAI開発講座",
+      "category": "エンジニアリング",
+      "summary": "プログラミングスクールのAI開発マスター講座が人気。累計4000名超のYouTube運営者がGPTs/Gem構築を指導し、非エンジニアのAIツール開発スキル向上を支援。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-04-12T12:57:22.961Z"
+    },
+    {
+      "id": "trend-1775998642961-7",
+      "topic": "Flutter×Firebaseの個人開発",
+      "category": "エンジニアリング",
+      "summary": "アナログ企業のCTOがFlutterとFirebaseを使ったアプリ開発を発信。HackerMemoなど13本のリリース経験から、個人開発のプロモーション動画製作がエンジニア間で共有。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-04-12T12:57:22.961Z"
+    },
+    {
+      "id": "trend-1775998642961-8",
+      "topic": "AI×SEO×LPのマーケティング",
+      "category": "マーケティング",
+      "summary": "配達員がAIを活用したSEOとランディングページ最適化で収益化。3ヶ月で成果を達成し、加盟店アンバサダーサポートが中小マーケティングの効率化トレンドに。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-12T12:57:22.961Z"
+    },
+    {
+      "id": "trend-1775998642961-9",
+      "topic": "ボトムアップマーケティングの顧客心理",
+      "category": "マーケティング",
+      "summary": "顧客心理を科学的に活用した新規事業立ち上げが成功事例に。YouTube事業ROAS600%超の売却経験から、Google/Facebook広告とSEOの順番使い分けが推奨されている。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-04-12T12:57:22.961Z"
+    }
+  ]
+}
