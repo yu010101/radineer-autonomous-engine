@@ -1,0 +1,113 @@
+{
+  "collected_at": "2026-04-12T02:24:54.561Z",
+  "trends": [
+    {
+      "id": "trend-1775960694561-0",
+      "topic": "AIの思考力への影響",
+      "category": "AI・LLM",
+      "summary": "AIは思考を奪うのではなく広げるツールとして活用可能。使う前に考えることと出力の理解が学びを変える鍵。note記事で議論。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-12T02:24:54.561Z"
+    },
+    {
+      "id": "trend-1775960694561-1",
+      "topic": "AI生成画像のフェイク問題",
+      "category": "AI・LLM",
+      "summary": "AIイメージ画像の不自然な情景が実風景と誤認されやすい。自動表示義務を提案し、フェイク防止を求める声。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-04-12T02:24:54.561Z"
+    },
+    {
+      "id": "trend-1775960694561-2",
+      "topic": "医療現場のAI活用",
+      "category": "AI・LLM",
+      "summary": "医療職の業務効率化にAIを活用。勤務表アプリで60%効率化を実現し、生成AIの講演も。現場課題解決を発信。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-04-12T02:24:54.561Z"
+    },
+    {
+      "id": "trend-1775960694561-3",
+      "topic": "中小企業診断士の可処分所得減少",
+      "category": "スモールビジネス",
+      "summary": "資格取得後、会費や研修費でコスト増。同業者依存を避け、自力解決を推奨。診断士の現実を指摘。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-12T02:24:54.561Z"
+    },
+    {
+      "id": "trend-1775960694561-4",
+      "topic": "大企業vs中小企業の休暇文化",
+      "category": "スモールビジネス",
+      "summary": "中小企業では休暇が裏切り視されやすいが、労基法遵守で改善傾向。大企業との違いを比較し、誤解を解く。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-04-12T02:24:54.561Z"
+    },
+    {
+      "id": "trend-1775960694561-5",
+      "topic": "中小企業のDX支援",
+      "category": "スモールビジネス",
+      "summary": "中小企業のデジタルトランスフォーメーション支援。業務効率化と地方創生を推進し、資格を活かした活動。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-04-12T02:24:54.561Z"
+    },
+    {
+      "id": "trend-1775960694561-6",
+      "topic": "M&Aバリューアップ支援",
+      "category": "M&A・事業承継",
+      "summary": "元銀行員のFASコンサルがM&A実績多数。経営者の想いに寄り添い、バリューアップをフルコミット。",
+      "relevance_score": 0.75,
+      "source": "x",
+      "collected_at": "2026-04-12T02:24:54.561Z"
+    },
+    {
+      "id": "trend-1775960694561-7",
+      "topic": "事業承継のミスリード事例",
+      "category": "M&A・事業承継",
+      "summary": "Suan運営者と売れるネット社の訴訟で個人情報公開問題。裁判で権利侵害認められ、事業継承の注意喚起。",
+      "relevance_score": 0.7,
+      "source": "x",
+      "collected_at": "2026-04-12T02:24:54.561Z"
+    },
+    {
+      "id": "trend-1775960694561-8",
+      "topic": "エンジニアの働き方：SES/SIer比率",
+      "category": "エンジニアリング",
+      "summary": "エンジニアの7-8割がSIer/SES。領域別キャリアの違いを指摘し、Web/アプリ専門の視点共有。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-12T02:24:54.561Z"
+    },
+    {
+      "id": "trend-1775960694561-9",
+      "topic": "Claude Codeの組織セキュリティ",
+      "category": "エンジニアリング",
+      "summary": "メルカリのClaude Code組織設定。危険コマンド抑制とSandboxで安全運用。MDM配布を提案。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-04-12T02:24:54.561Z"
+    },
+    {
+      "id": "trend-1775960694561-10",
+      "topic": "YouTuberの広告収益化課題",
+      "category": "マーケティング",
+      "summary": "広告収入依存の不安定さ。インフラ費用差し引きで配信者分配額少なく、ビジネス土壌の厳しさを指摘。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-04-12T02:24:54.561Z"
+    },
+    {
+      "id": "trend-1775960694561-11",
+      "topic": "Xの広告無しチャット開始",
+      "category": "マーケティング",
+      "summary": "Xが広告無し暗号化チャット開始。WhatsApp対抗で、収益モデル変革のトレンド。",
+      "relevance_score": 0.75,
+      "source": "x",
+      "collected_at": "2026-04-12T02:24:54.561Z"
+    }
+  ]
+}
