@@ -1,0 +1,95 @@
+{
+  "collected_at": "2026-04-12T22:31:59.457Z",
+  "trends": [
+    {
+      "id": "trend-1776033119457-0",
+      "topic": "Google AI Overviewsの普及",
+      "category": "AI・LLM",
+      "summary": "GoogleのAI Overviewsがクエリ簡略化を促進し、検索行動を変革。テレビCMの効果が疑問視され、AIモードの認知不足が課題。ChatGPTとの比較で、検索意図の自動理解が進む。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-12T22:31:59.457Z"
+    },
+    {
+      "id": "trend-1776033119457-1",
+      "topic": "AI求人文改善ツール",
+      "category": "スモールビジネス",
+      "summary": "小規模事業者向けにAIで求人文を最適化するPDFツールが登場。応募増加を目指し、業界共通版で4980円。応募不足の解消に寄与。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-04-12T22:31:59.457Z"
+    },
+    {
+      "id": "trend-1776033119457-2",
+      "topic": "個人事業主の年金対策",
+      "category": "スモールビジネス",
+      "summary": "サラリーマンから個人事業主へ移行時の年金変更を解説。iDeCo、小規模企業共済、NISAを活用した「じぶん年金」構築が推奨され、節税効果も。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-04-12T22:31:59.457Z"
+    },
+    {
+      "id": "trend-1776033119457-3",
+      "topic": "持続化補助金とマル経融資の組み合わせ",
+      "category": "スモールビジネス",
+      "summary": "令和8年度の補助金活用法を解説。自己負担分や設備投資に無担保2000万円をフル活用。事業拡大の資金調達戦略として有効。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-12T22:31:59.457Z"
+    },
+    {
+      "id": "trend-1776033119457-4",
+      "topic": "プログリット社のM&A",
+      "category": "M&A・事業承継",
+      "summary": "英語コーチング企業プログリットがM&Aを実施。事業拡大の動きが注目され、業界再編の兆し。詳細レポートで分析。",
+      "relevance_score": 0.75,
+      "source": "x",
+      "collected_at": "2026-04-12T22:31:59.457Z"
+    },
+    {
+      "id": "trend-1776033119457-5",
+      "topic": "中小企業向け国際情勢支援",
+      "category": "M&A・事業承継",
+      "summary": "中東情勢を踏まえた中小企業・小規模事業者支援策。資金化可能な保険貸付などを活用し、事業継続を強化。",
+      "relevance_score": 0.7,
+      "source": "x",
+      "collected_at": "2026-04-12T22:31:59.457Z"
+    },
+    {
+      "id": "trend-1776033119457-6",
+      "topic": "AIエージェントのセキュリティ",
+      "category": "エンジニアリング",
+      "summary": "CiscoがAstrix Securityを買収協議。AIエージェントの権限リスク管理が急務となり、シャドーAI検知ツールが注目。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-04-12T22:31:59.457Z"
+    },
+    {
+      "id": "trend-1776033119457-7",
+      "topic": "エンジニアの伝え方スキル",
+      "category": "エンジニアリング",
+      "summary": "面談での伝え方が重要。演劇経験から学んだ表現力がエンジニアのキャリアに活き、価値観のフィットが採用の鍵。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-04-12T22:31:59.457Z"
+    },
+    {
+      "id": "trend-1776033119457-8",
+      "topic": "SEOアルゴリズムの大幅更新",
+      "category": "マーケティング",
+      "summary": "検索アルゴリズムが3年で根本変化。独自性のある企業が有利となり、成果維持のための活動強化が必要。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-12T22:31:59.457Z"
+    },
+    {
+      "id": "trend-1776033119457-9",
+      "topic": "ADHDターゲットマーケティング",
+      "category": "マーケティング",
+      "summary": "ADHD特性を狙った商品PR手法が議論。衝動買いを促すSNS戦略がGeminiとの会話で浮上し、倫理的課題を指摘。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-04-12T22:31:59.457Z"
+    }
+  ]
+}
