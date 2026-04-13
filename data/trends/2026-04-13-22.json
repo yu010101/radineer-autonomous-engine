@@ -1,0 +1,95 @@
+{
+  "collected_at": "2026-04-13T22:41:07.236Z",
+  "trends": [
+    {
+      "id": "trend-1776120067236-0",
+      "topic": "ローカルLLMの進化",
+      "category": "AI・LLM",
+      "summary": "Gemma 4やQwen 3.5などのローカルLLMが熱く、24GB GPUでGPT-5.4レベルが手元で動く。2026年はAIの民主化が進み、超知能が身近になる。",
+      "relevance_score": 0.95,
+      "source": "x",
+      "collected_at": "2026-04-13T22:41:07.236Z"
+    },
+    {
+      "id": "trend-1776120067236-1",
+      "topic": "国産LLM-jp-4のオープンソース公開",
+      "category": "AI・LLM",
+      "summary": "国立情報学研究所がLLM-jp-4をオープンソースで公開。1ビットLLM Bonsai 8BもiPhoneで動く精度を保ち、生成AI技術の進展が加速。",
+      "relevance_score": 0.92,
+      "source": "x",
+      "collected_at": "2026-04-13T22:41:07.236Z"
+    },
+    {
+      "id": "trend-1776120067236-2",
+      "topic": "起業環境の厳しさとAI導入",
+      "category": "スモールビジネス",
+      "summary": "資本1億以上が必要な厳しい起業環境で、AI導入支援で小遣い稼ぎも限界。金融の時代へ移行し、0→1起業が難しくなっている。",
+      "relevance_score": 0.88,
+      "source": "x",
+      "collected_at": "2026-04-13T22:41:07.236Z"
+    },
+    {
+      "id": "trend-1776120067236-3",
+      "topic": "AI活用の1人時価総額10億企業",
+      "category": "スモールビジネス",
+      "summary": "10代がバイブコーディングとSNSで事業開始。AIでチーム不要の時代、会社員並行で事業構築のチャンスが広がる。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-04-13T22:41:07.236Z"
+    },
+    {
+      "id": "trend-1776120067236-4",
+      "topic": "中小M&A資格試験の概要公表",
+      "category": "M&A・事業承継",
+      "summary": "2026年度からCBT試験実施。M&A実務、財務・税務、法務、倫理をカバー。更新講習必須で、士業免除なし。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-13T22:41:07.236Z"
+    },
+    {
+      "id": "trend-1776120067236-5",
+      "topic": "M&Aスキーム選択の税務影響",
+      "category": "M&A・事業承継",
+      "summary": "株式譲渡 vs 事業譲渡で手残りが変わる。タックスプランニングで節税し、実質受取額を最大化。コンプライアンス基準の確認重要。",
+      "relevance_score": 0.87,
+      "source": "x",
+      "collected_at": "2026-04-13T22:41:07.236Z"
+    },
+    {
+      "id": "trend-1776120067236-6",
+      "topic": "Platform Engineeringの台頭",
+      "category": "エンジニアリング",
+      "summary": "DevOpsの認知負荷を解消し、開発者をビジネス価値へ集中。職能分離から組織的勝利へ移行するエンジニアリングの進化。",
+      "relevance_score": 0.89,
+      "source": "x",
+      "collected_at": "2026-04-13T22:41:07.236Z"
+    },
+    {
+      "id": "trend-1776120067236-7",
+      "topic": "ダークファクトリーとAIエージェント",
+      "category": "エンジニアリング",
+      "summary": "人間がコードを書かずAIエージェントが24時間テスト。AI活用で燃え尽き症候群の懸念も、新たな監督業務が生まれる。",
+      "relevance_score": 0.91,
+      "source": "x",
+      "collected_at": "2026-04-13T22:41:07.236Z"
+    },
+    {
+      "id": "trend-1776120067236-8",
+      "topic": "SNSの役割分担設計",
+      "category": "マーケティング",
+      "summary": "Xで集客、Instagramで共感、YouTubeで信頼など、各SNSの役割を明確に。導線設計で発信が効率化し、ファンを生む。",
+      "relevance_score": 0.86,
+      "source": "x",
+      "collected_at": "2026-04-13T22:41:07.236Z"
+    },
+    {
+      "id": "trend-1776120067236-9",
+      "topic": "B2B企業SNS活用のポイント",
+      "category": "マーケティング",
+      "summary": "デジタルパンフレット化を避け、課題解決コンテンツをファネル設計。経営者の言葉で発信し、KPIで改善を続ける。",
+      "relevance_score": 0.84,
+      "source": "x",
+      "collected_at": "2026-04-13T22:41:07.236Z"
+    }
+  ]
+}
