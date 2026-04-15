@@ -1,0 +1,95 @@
+{
+  "collected_at": "2026-04-15T23:39:49.428Z",
+  "trends": [
+    {
+      "id": "trend-1776296389428-0",
+      "topic": "Nucleus-Imageの発表",
+      "category": "AI・LLM",
+      "summary": "Nucleus AIが世界初のsparse Mixture-of-Experts diffusion model「Nucleus-Image」を発表。17Bパラメータで効率が高く、Hugging Faceで即利用可能。AI画像生成の新時代を象徴するトレンド。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-15T23:39:49.428Z"
+    },
+    {
+      "id": "trend-1776296389428-1",
+      "topic": "Meta AI動画生成",
+      "category": "AI・LLM",
+      "summary": "Meta AIを使ってプロンプトから動画を作成する事例が増加。建築設計者らが活用し、クリエイティブなコンテンツ制作を加速。AIツールの日常化が進む。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-04-15T23:39:49.428Z"
+    },
+    {
+      "id": "trend-1776296389428-2",
+      "topic": "中小企業のキャッシュフロー管理",
+      "category": "スモールビジネス",
+      "summary": "中小企業ではキャッシュフローが利益の100倍重要。赤字でも資金が尽きなければ存続可能。徹底した資金繰り管理が経営の鍵と指摘される。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-04-15T23:39:49.428Z"
+    },
+    {
+      "id": "trend-1776296389428-3",
+      "topic": "中小企業診断士のトレーニング",
+      "category": "スモールビジネス",
+      "summary": "中小企業診断士受験生のトレーニングが進む。講義前の復習が活発で、仕事と勉強の両立が課題。資格取得で事業支援力が向上。",
+      "relevance_score": 0.7,
+      "source": "x",
+      "collected_at": "2026-04-15T23:39:49.428Z"
+    },
+    {
+      "id": "trend-1776296389428-4",
+      "topic": "M&A仲介の活用",
+      "category": "M&A・事業承継",
+      "summary": "ウィルゲートM&Aがベンチャー/IT企業の仲介を強化。成約実績87組で、売却・買収の相談が増加。事業承継の選択肢として注目。",
+      "relevance_score": 0.75,
+      "source": "x",
+      "collected_at": "2026-04-15T23:39:49.428Z"
+    },
+    {
+      "id": "trend-1776296389428-5",
+      "topic": "ソフトウェアエンジニアの未来",
+      "category": "エンジニアリング",
+      "summary": "AI進化でソフトウェアエンジニアの仕事が減少する可能性。アクションを起こす必要性が高まり、スキルアップや多角化が議論される。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-04-15T23:39:49.428Z"
+    },
+    {
+      "id": "trend-1776296389428-6",
+      "topic": "SRE NEXT LT募集",
+      "category": "エンジニアリング",
+      "summary": "SRE NEXT 2026のLT募集開始。信頼性エンジニアのコミュニティが活発で、4/28締め切り。エンジニアリングの共有文化がトレンド。",
+      "relevance_score": 0.7,
+      "source": "x",
+      "collected_at": "2026-04-15T23:39:49.428Z"
+    },
+    {
+      "id": "trend-1776296389428-7",
+      "topic": "AI検索最適化サービス",
+      "category": "マーケティング",
+      "summary": "ローカルビズがAI検索時代対応の新サービスをリリース。店舗ビジネスのSEO対策が強化され、ゼロクリック時代に適応。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-15T23:39:49.428Z"
+    },
+    {
+      "id": "trend-1776296389428-8",
+      "topic": "プロテインブームのマーケティング",
+      "category": "マーケティング",
+      "summary": "米国でプロテイン商品が急増。肥満対策と連動し、ドリトスやマック・アンド・チーズにプロテイン投入。大手企業の投資活発化。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-04-15T23:39:49.428Z"
+    },
+    {
+      "id": "trend-1776296389428-9",
+      "topic": "Xのショート動画トレンド",
+      "category": "マーケティング",
+      "summary": "Xに動画タブが追加され、ショート動画が重要に。マーケティングで動画活用が増え、ユーザーエンゲージメント向上の兆し。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-04-15T23:39:49.428Z"
+    }
+  ]
+}
