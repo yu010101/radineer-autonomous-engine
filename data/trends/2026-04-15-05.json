@@ -1,0 +1,95 @@
+{
+  "collected_at": "2026-04-15T05:22:04.727Z",
+  "trends": [
+    {
+      "id": "trend-1776230524727-0",
+      "topic": "VRゴーグルとAI推奨",
+      "category": "AI・LLM",
+      "summary": "万博関連でMeta QuestのVRゴーグルがAIによりPC不要で性能良好と推奨。PICO 4 ultraと比較し、超時空シアターとの相性が良いと話題。AIのアドバイスが実用的活用を示す。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-15T05:22:04.727Z"
+    },
+    {
+      "id": "trend-1776230524727-1",
+      "topic": "LLMと人間人格のメタ表現",
+      "category": "AI・LLM",
+      "summary": "LLMで人間の感情や人格を高次元ベクトルの情報フローとして捉える研究が議論。AI理解の新視点として注目され、論文共有で関心高まる。",
+      "relevance_score": 0.95,
+      "source": "x",
+      "collected_at": "2026-04-15T05:22:04.727Z"
+    },
+    {
+      "id": "trend-1776230524727-2",
+      "topic": "CopilotのNotebookLM化活用",
+      "category": "AI・LLM",
+      "summary": "社内データをNotebookLM化しCopilotのポテンシャルを引き出す方法が共有。生成AIで生産性向上の具体策として、中小企業診断士が提案。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-04-15T05:22:04.727Z"
+    },
+    {
+      "id": "trend-1776230524727-3",
+      "topic": "中小企業の相続税負担増",
+      "category": "スモールビジネス",
+      "summary": "非上場中小企業の株式相続評価見直しで節税抑止。一部増税となり、倒産やM&A増加の懸念。国税庁方針が中小経営者の苦労を助長と批判。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-15T05:22:04.727Z"
+    },
+    {
+      "id": "trend-1776230524727-4",
+      "topic": "M&Aによる事業売却増加",
+      "category": "M&A・事業承継",
+      "summary": "相続税高で黒字中小企業がM&Aで売却を検討。地銀のファンド転売も横行し、中華資本流入の懸念。事業承継の難しさが浮き彫り。",
+      "relevance_score": 0.95,
+      "source": "x",
+      "collected_at": "2026-04-15T05:22:04.727Z"
+    },
+    {
+      "id": "trend-1776230524727-5",
+      "topic": "ナフサ高騰の中小企業影響",
+      "category": "スモールビジネス",
+      "summary": "原油高でナフサ調達不安定化。中小製造業の資材確保難しく、納期遅れや値上げ圧力。倒産リスク高まり、政府支援の必要性叫ばれる。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-15T05:22:04.727Z"
+    },
+    {
+      "id": "trend-1776230524727-6",
+      "topic": "文系からITエンジニア転職希望",
+      "category": "エンジニアリング",
+      "summary": "文系卒の82.8%が理系職種未希望も、17.2%がITエンジニアに興味。実際探した25.1%で、情報科学系が人気。キャリアチェンジのトレンド。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-04-15T05:22:04.727Z"
+    },
+    {
+      "id": "trend-1776230524727-7",
+      "topic": "AI時代エンジニア向け書籍",
+      "category": "エンジニアリング",
+      "summary": "AI時代にエンジニアが経営視点を持つための書籍3冊推薦。サイバーエージェント幹部が紹介し、技術者育成の重要性を強調。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-04-15T05:22:04.727Z"
+    },
+    {
+      "id": "trend-1776230524727-8",
+      "topic": "AI検索最適化の戦略",
+      "category": "マーケティング",
+      "summary": "Japan IT WeekでAI検索対策セミナー開催。AEOサービスがCV獲得戦略を解説し、AI時代マーケティングの関心高まる。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-15T05:22:04.727Z"
+    },
+    {
+      "id": "trend-1776230524727-9",
+      "topic": "個人開発のAIマーケティング",
+      "category": "マーケティング",
+      "summary": "AI活用個人開発でアプリリリース挑戦。時間投資2,200時間で売上0も、マーケティングの重要性実感。23歳のリアルな奮闘が話題。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-04-15T05:22:04.727Z"
+    }
+  ]
+}
