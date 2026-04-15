@@ -1,0 +1,95 @@
+{
+  "collected_at": "2026-04-15T15:07:19.562Z",
+  "trends": [
+    {
+      "id": "trend-1776265639562-0",
+      "topic": "生成AIの信頼性問題",
+      "category": "AI・LLM",
+      "summary": "生成AIの出力が常に正しいわけではないという指摘がX上で広がり、ユーザーがAIの限界を議論。実用時の検証の重要性が強調されている。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-15T15:07:19.562Z"
+    },
+    {
+      "id": "trend-1776265639562-1",
+      "topic": "AI判定ツールの登場",
+      "category": "AI・LLM",
+      "summary": "きのこの山・たけのこの里のどっち派を判定するAIツール「KINOTAKE MOTHER」が話題。エンタメ要素でAIの応用例として注目を集めている。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-04-15T15:07:19.562Z"
+    },
+    {
+      "id": "trend-1776265639562-2",
+      "topic": "AI投資トレードバトル",
+      "category": "AI・LLM",
+      "summary": "AIと人間のトレード成績を競うバトルが人気。東宝VS東ソーなどの銘柄比較で、AIの投資判断が議論されている。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-04-15T15:07:19.562Z"
+    },
+    {
+      "id": "trend-1776265639562-3",
+      "topic": "中小企業診断士の活躍",
+      "category": "スモールビジネス",
+      "summary": "中小企業診断士の修了生声や日常の勉強投稿が目立ち、資格取得や経営支援の重要性が共有されている。",
+      "relevance_score": 0.7,
+      "source": "x",
+      "collected_at": "2026-04-15T15:07:19.562Z"
+    },
+    {
+      "id": "trend-1776265639562-4",
+      "topic": "中小企業の設備投資課題",
+      "category": "スモールビジネス",
+      "summary": "中小企業の設備投資が廃業リスクを高める可能性を指摘。税制や支援策の必要性が議論されている。",
+      "relevance_score": 0.75,
+      "source": "x",
+      "collected_at": "2026-04-15T15:07:19.562Z"
+    },
+    {
+      "id": "trend-1776265639562-5",
+      "topic": "事業承継の社会的重要性",
+      "category": "M&A・事業承継",
+      "summary": "中小企業が大企業を支える基盤として、事業承継の重要性が再認識。廃業増加への懸念が広がる。",
+      "relevance_score": 0.6,
+      "source": "x",
+      "collected_at": "2026-04-15T15:07:19.562Z"
+    },
+    {
+      "id": "trend-1776265639562-6",
+      "topic": "AIを活用したソフトウェア開発",
+      "category": "エンジニアリング",
+      "summary": "Claude Codeを使ったi18n開発の失敗談が共有され、AIの翻訳キー管理の課題と改善策が議論されている。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-04-15T15:07:19.562Z"
+    },
+    {
+      "id": "trend-1776265639562-7",
+      "topic": "ブロックチェーン提案BIP-361",
+      "category": "エンジニアリング",
+      "summary": "BitcoinのBIP-361提案が注目。経済インセンティブと哲学的原則のバランスがエンジニア間で議論。",
+      "relevance_score": 0.7,
+      "source": "x",
+      "collected_at": "2026-04-15T15:07:19.562Z"
+    },
+    {
+      "id": "trend-1776265639562-8",
+      "topic": "3C分析のマーケティング教育",
+      "category": "マーケティング",
+      "summary": "マーケティング配信で3C分析を解説。初心者向けに顧客・競合・自社の分析手法が紹介され、学習意欲を刺激。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-04-15T15:07:19.562Z"
+    },
+    {
+      "id": "trend-1776265639562-9",
+      "topic": "フリーランスのセルフマーケティング",
+      "category": "マーケティング",
+      "summary": "フリーランスの時間管理とセルフマーケティングの難しさが指摘。即売会や作品発表の重要性が共有されている。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-04-15T15:07:19.562Z"
+    }
+  ]
+}
