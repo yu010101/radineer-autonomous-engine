@@ -1,0 +1,95 @@
+{
+  "collected_at": "2026-04-16T15:23:42.729Z",
+  "trends": [
+    {
+      "id": "trend-1776353022729-0",
+      "topic": "Claude Opus 4.7の一般公開",
+      "category": "AI・LLM",
+      "summary": "AnthropicがClaude Opus 4.7を公開。自律的コーディングと視覚理解が向上し、人間監視なしで複雑タスクを処理可能。AI開発者・エンジニアに注目される進化。",
+      "relevance_score": 0.95,
+      "source": "x",
+      "collected_at": "2026-04-16T15:23:42.729Z"
+    },
+    {
+      "id": "trend-1776353022729-1",
+      "topic": "GoogleのAI広告検知強化",
+      "category": "AI・LLM",
+      "summary": "Googleが不適切広告83億件をAIで検知・防止。検知数は前年比6割増。AIの活用で広告プラットフォームの信頼性向上を目指す。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-16T15:23:42.729Z"
+    },
+    {
+      "id": "trend-1776353022729-2",
+      "topic": "Claude Codeの活用",
+      "category": "AI・LLM",
+      "summary": "Claude Codeがコーディングを革新。非エンジニアでもWebアプリを短時間で構築可能。AIのコーディング支援が開発効率を劇的に向上。",
+      "relevance_score": 0.92,
+      "source": "x",
+      "collected_at": "2026-04-16T15:23:42.729Z"
+    },
+    {
+      "id": "trend-1776353022729-3",
+      "topic": "生成AIのスモールビジネス活用",
+      "category": "スモールビジネス",
+      "summary": "生成AIをスモールビジネスで実践。集客・業務自動化・商品開発に活用し、少人数で大企業並みの効率を実現。5つの活用法が注目。",
+      "relevance_score": 0.88,
+      "source": "x",
+      "collected_at": "2026-04-16T15:23:42.729Z"
+    },
+    {
+      "id": "trend-1776353022729-4",
+      "topic": "AIをOSとして活用するスモールビジネス",
+      "category": "スモールビジネス",
+      "summary": "2026年、AIを速いインターンではなくOSとして活用する企業が勝つ。少人数チームで自動化と戦略設計を進め、大企業に対抗。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-04-16T15:23:42.729Z"
+    },
+    {
+      "id": "trend-1776353022729-5",
+      "topic": "スモールビジネスの勝ち筋絞り込み",
+      "category": "スモールビジネス",
+      "summary": "売るもの・人を絞り、専門性を高めて単価・品質向上。高単価でも買う顧客が増え、満足度向上。スモールビジネスの成長戦略。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-04-16T15:23:42.729Z"
+    },
+    {
+      "id": "trend-1776353022729-6",
+      "topic": "M&Aを通じた事業承継の重要性",
+      "category": "M&A・事業承継",
+      "summary": "スモールビジネスでM&Aを活用した事業承継が増加。後継者不足解消と事業継続のため、EXIT戦略が注目。IT・EC分野で成功事例多。",
+      "relevance_score": 0.75,
+      "source": "x",
+      "collected_at": "2026-04-16T15:23:42.729Z"
+    },
+    {
+      "id": "trend-1776353022729-7",
+      "topic": "インフラエンジニアの需要増",
+      "category": "エンジニアリング",
+      "summary": "未経験からインフラエンジニアへの転職が増。プログラミングスクール活用で年収アップ。ネットワーク・サーバー構築のスキルが鍵。",
+      "relevance_score": 0.82,
+      "source": "x",
+      "collected_at": "2026-04-16T15:23:42.729Z"
+    },
+    {
+      "id": "trend-1776353022729-8",
+      "topic": "Claude CodeとCoworkの使い分け",
+      "category": "エンジニアリング",
+      "summary": "Claude Codeはターミナルベースのコーディング、Coworkはデスクトップのビジネス支援。両方を組み合わせ業務自動化を効率化。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-16T15:23:42.729Z"
+    },
+    {
+      "id": "trend-1776353022729-9",
+      "topic": "B2Bマーケティングの環境整備",
+      "category": "マーケティング",
+      "summary": "B2Bマーケで成果を出すには権限付与と設計図の整備が重要。目先の数字ではなく、長期戦略で活躍するマーケターを育てる環境。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-04-16T15:23:42.729Z"
+    }
+  ]
+}
