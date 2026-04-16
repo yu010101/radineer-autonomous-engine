@@ -1,0 +1,95 @@
+{
+  "collected_at": "2026-04-16T22:37:48.721Z",
+  "trends": [
+    {
+      "id": "trend-1776379068721-0",
+      "topic": "NotebookLMの活用法",
+      "category": "AI・LLM",
+      "summary": "AmazonでNotebookLMの初心者向け教科書がPR中。生成AIを副業やKindle出版に活用するマニュアルとして注目。AIツールの普及を後押しする内容。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-16T22:37:48.721Z"
+    },
+    {
+      "id": "trend-1776379068721-1",
+      "topic": "OpenAIのサイバー防衛AI",
+      "category": "AI・LLM",
+      "summary": "OpenAIがGPT-5.4-Cyberを限定公開。脆弱性発見を目的とした新モデルで、AnthropicのMythosに対抗。AIのセキュリティ分野進化が話題。",
+      "relevance_score": 0.95,
+      "source": "x",
+      "collected_at": "2026-04-16T22:37:48.721Z"
+    },
+    {
+      "id": "trend-1776379068721-2",
+      "topic": "LLMによる適時開示資料構造化",
+      "category": "AI・LLM",
+      "summary": "LLMを活用したPDF適時開示資料のゼロショット構造化手法を研究。知識グラフ変換で高精度抽出を実現。金融情報学の進展を示す。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-04-16T22:37:48.721Z"
+    },
+    {
+      "id": "trend-1776379068721-3",
+      "topic": "中小企業賃上げ格差",
+      "category": "スモールビジネス",
+      "summary": "大手中心の賃上げ加速に対し、中小企業との格差が課題に。経済ニュースで家計影響も指摘され、ビジネス環境の変化が議論。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-04-16T22:37:48.721Z"
+    },
+    {
+      "id": "trend-1776379068721-4",
+      "topic": "中小企業融資審査のポイント",
+      "category": "スモールビジネス",
+      "summary": "赤字でも一時的損失なら融資可能。黒字でも借入過多は警戒。数字の説明準備が重要で、中小企業財務の現実を共有。",
+      "relevance_score": 0.75,
+      "source": "x",
+      "collected_at": "2026-04-16T22:37:48.721Z"
+    },
+    {
+      "id": "trend-1776379068721-5",
+      "topic": "調剤・小売りのM&A加速",
+      "category": "M&A・事業承継",
+      "summary": "アインホールディングスが調剤と小売でM&A積極化。新規出店限界を補う動きで、業界再編のトレンドを示す。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-16T22:37:48.721Z"
+    },
+    {
+      "id": "trend-1776379068721-6",
+      "topic": "事業承継税制改正",
+      "category": "M&A・事業承継",
+      "summary": "評価方式の厳格化で事業承継に影響。中小企業へのバランス調整が議論され、来年度税制改正の焦点に。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-04-16T22:37:48.721Z"
+    },
+    {
+      "id": "trend-1776379068721-7",
+      "topic": "NWエンジニアの業務課題",
+      "category": "エンジニアリング",
+      "summary": "NWエンジニアの現場で属人化解消が課題。AI活用でドキュメント再現を推進し、組織効率化の必要性を指摘。",
+      "relevance_score": 0.7,
+      "source": "x",
+      "collected_at": "2026-04-16T22:37:48.721Z"
+    },
+    {
+      "id": "trend-1776379068721-8",
+      "topic": "ITエンジニアのPDCA実践",
+      "category": "エンジニアリング",
+      "summary": "成功者は小さなPDCAを積み重ね。失敗経験を活かし、行動と疑似体験で成長。エンジニアのスキル向上トレンド。",
+      "relevance_score": 0.75,
+      "source": "x",
+      "collected_at": "2026-04-16T22:37:48.721Z"
+    },
+    {
+      "id": "trend-1776379068721-9",
+      "topic": "2ステップマーケティングの活用",
+      "category": "マーケティング",
+      "summary": "無料お試しで体験させ、高額商品へ誘導。X投稿で実践例共有され、セールス未経験者のコンテンツ販売術として人気。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-16T22:37:48.721Z"
+    }
+  ]
+}
