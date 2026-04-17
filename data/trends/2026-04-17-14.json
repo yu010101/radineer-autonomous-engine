@@ -1,0 +1,95 @@
+{
+  "collected_at": "2026-04-17T14:53:48.177Z",
+  "trends": [
+    {
+      "id": "trend-1776437628177-0",
+      "topic": "AIと人間の役割分担",
+      "category": "AI・LLM",
+      "summary": "AIは情報整理や仮説生成で視野を広げ、人間は市場感や経験に基づく最終判断を担う。成果を出すための使い分けが重要。#リモラボ",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-17T14:53:48.177Z"
+    },
+    {
+      "id": "trend-1776437628177-1",
+      "topic": "Claude Codeによるデスクリサーチ",
+      "category": "AI・LLM",
+      "summary": "Claude Codeを使えばWeb上のデスクリサーチが大幅に効率化。人事関連のリサーチで重宝されている。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-04-17T14:53:48.177Z"
+    },
+    {
+      "id": "trend-1776437628177-2",
+      "topic": "小規模事業者持続化補助金",
+      "category": "スモールビジネス",
+      "summary": "小規模事業者向け持続化補助金のまとめサイトが公開。事業継続支援のための情報提供が活発。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-04-17T14:53:48.177Z"
+    },
+    {
+      "id": "trend-1776437628177-3",
+      "topic": "フリーランスのセルフマネジメント",
+      "category": "スモールビジネス",
+      "summary": "起業後、セルフマネジメントができず崩れる人が多い。特に独立3ヶ月で朝起きられなくなるケース。会社勤め向きの環境管理の重要性。",
+      "relevance_score": 0.75,
+      "source": "x",
+      "collected_at": "2026-04-17T14:53:48.177Z"
+    },
+    {
+      "id": "trend-1776437628177-4",
+      "topic": "在留資格の資本金3000万円ルール",
+      "category": "M&A・事業承継",
+      "summary": "厳格化されたビザルールでエスニック店舗が閉店危機。資本金要件の緩和を求める声が高まる。中小事業者の実態に合わない規制。",
+      "relevance_score": 0.7,
+      "source": "x",
+      "collected_at": "2026-04-17T14:53:48.177Z"
+    },
+    {
+      "id": "trend-1776437628177-5",
+      "topic": "事業承継と介護報酬改正",
+      "category": "M&A・事業承継",
+      "summary": "2027年改正で小規模介護事業所が潰れる可能性。居宅介護支援報酬アップの影響を議論。",
+      "relevance_score": 0.65,
+      "source": "x",
+      "collected_at": "2026-04-17T14:53:48.177Z"
+    },
+    {
+      "id": "trend-1776437628177-6",
+      "topic": "任天堂のUI/UXエンジニア募集",
+      "category": "エンジニアリング",
+      "summary": "Nintendo Switch 2のHOMEメニューやWebサービス開発でUI/UXエンジニアを京都で募集。高年収が注目。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-17T14:53:48.177Z"
+    },
+    {
+      "id": "trend-1776437628177-7",
+      "topic": "パワー半導体セミナー",
+      "category": "エンジニアリング",
+      "summary": "ロームとZEPエンジニアリング共催のパワー半導体セミナが開催。学生の就職志望先として有望。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-04-17T14:53:48.177Z"
+    },
+    {
+      "id": "trend-1776437628177-8",
+      "topic": "AIエージェントの購買決定権",
+      "category": "マーケティング",
+      "summary": "AIエージェントが検索トラフィックを奪い、購買を決定。構造化データが鍵で、商売の生き残り策を議論。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-04-17T14:53:48.177Z"
+    },
+    {
+      "id": "trend-1776437628177-9",
+      "topic": "AIでマーケティング戦略作成",
+      "category": "マーケティング",
+      "summary": "AIにバイネーム指定で戦略依頼するとエッジの効いたものができる。一般的なターゲットでは刺さらない。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-04-17T14:53:48.177Z"
+    }
+  ]
+}
