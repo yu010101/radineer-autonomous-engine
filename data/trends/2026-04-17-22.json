@@ -1,0 +1,95 @@
+{
+  "collected_at": "2026-04-17T22:36:23.751Z",
+  "trends": [
+    {
+      "id": "trend-1776465383751-0",
+      "topic": "Claude Designの発表",
+      "category": "AI・LLM",
+      "summary": "AnthropicがClaude Designを発表。会話でプロトタイプやスライドを作成可能。社内デザインシステムを自動適用し、中小企業向けAI導入を促進。CanvaやAdobeの代替として注目。",
+      "relevance_score": 0.95,
+      "source": "x",
+      "collected_at": "2026-04-17T22:36:23.751Z"
+    },
+    {
+      "id": "trend-1776465383751-1",
+      "topic": "OpenAIのGPT-Rosalind",
+      "category": "AI・LLM",
+      "summary": "OpenAIが生命科学特化のAIモデル「GPT-Rosalind」を発表。創薬の効率化を目指す。ITニュースで話題に。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-17T22:36:23.751Z"
+    },
+    {
+      "id": "trend-1776465383751-2",
+      "topic": "Salesforce Headless 360",
+      "category": "AI・LLM",
+      "summary": "SalesforceがHeadless 360を発表。API経由でAIエージェントがデータやワークフローにアクセス可能。Agentforceと連携し、開発を加速。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-04-17T22:36:23.751Z"
+    },
+    {
+      "id": "trend-1776465383751-3",
+      "topic": "AIによる仕事奪取の恐怖",
+      "category": "AI・LLM",
+      "summary": "シンギュラリティの文脈でAIが仕事を奪う「ギュられる」現象が話題。日経記事で議論。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-04-17T22:36:23.751Z"
+    },
+    {
+      "id": "trend-1776465383751-4",
+      "topic": "中小企業向けAI導入戦略",
+      "category": "スモールビジネス",
+      "summary": "Claude Proを活用したデザイン業務の効率化。Canva/Adobe契約の見直しを推奨。社内CIガイドラインのデジタル化でコスト削減。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-17T22:36:23.751Z"
+    },
+    {
+      "id": "trend-1776465383751-5",
+      "topic": "高校新卒採用の課題",
+      "category": "スモールビジネス",
+      "summary": "中小企業で応募ゼロや早期離職が問題。Kindle本で原因分析と具体策を提示。無料キャンペーン中。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-04-17T22:36:23.751Z"
+    },
+    {
+      "id": "trend-1776465383751-6",
+      "topic": "法務部の設置増加",
+      "category": "M&A・事業承継",
+      "summary": "企業で法務部設置が5割超。M&AやAIリスク対応のため。日経記事で初の過半数突破。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-17T22:36:23.751Z"
+    },
+    {
+      "id": "trend-1776465383751-7",
+      "topic": "企業価値担保権",
+      "category": "M&A・事業承継",
+      "summary": "金融庁Q&Aで複数貸し手対応可能と説明。シンジケートローン前提で中小企業融資の選択肢に。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-04-17T22:36:23.751Z"
+    },
+    {
+      "id": "trend-1776465383751-8",
+      "topic": "AI駆動開発のテスト課題",
+      "category": "エンジニアリング",
+      "summary": "NTTデータの事例でテスト問題指摘。設計・製造は進むがテストはハーネスエンジニアリングが必要。AIネイティブの問題も。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-04-17T22:36:23.751Z"
+    },
+    {
+      "id": "trend-1776465383751-9",
+      "topic": "除外キーワードの見直し",
+      "category": "マーケティング",
+      "summary": "Google広告で除外キーワードの月次棚卸しを推奨。CPA10-20%改善可能。検索語句レポート活用。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-17T22:36:23.751Z"
+    }
+  ]
+}
