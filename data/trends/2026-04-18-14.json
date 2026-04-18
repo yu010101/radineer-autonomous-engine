@@ -1,0 +1,95 @@
+{
+  "collected_at": "2026-04-18T14:02:31.048Z",
+  "trends": [
+    {
+      "id": "trend-1776520951047-0",
+      "topic": "AIプロンプトで未来の自分を仮想化",
+      "category": "AI・LLM",
+      "summary": "AIにプロンプトを入力して50年後の自分を仮想的に生成し、行動指針を得る戦法が話題。内向型の人に特に有効で、先延ばし癖を克服し成長を加速させる。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-18T14:02:31.047Z"
+    },
+    {
+      "id": "trend-1776520951047-1",
+      "topic": "生成AIによる文章修正",
+      "category": "AI・LLM",
+      "summary": "生成AIを使って単語羅列を自然な文章に修正する手法が共有。メイク道具の説明例のように、AIが文脈を整えて自然な表現に変換。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-04-18T14:02:31.047Z"
+    },
+    {
+      "id": "trend-1776520951047-2",
+      "topic": "AI小説生成の活用",
+      "category": "AI・LLM",
+      "summary": "AIに小説の続きを生成させて創作を楽しむユーザーが増加。エブリスタなどのプラットフォームでAI支援の小説執筆が流行中。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-04-18T14:02:31.047Z"
+    },
+    {
+      "id": "trend-1776520951047-3",
+      "topic": "中小企業向けAIサーバー導入",
+      "category": "スモールビジネス",
+      "summary": "中小企業社長が自社専用AIサーバーを保有する重要性が議論。Amazon書籍でコスト効果的なAI活用が提案され、業務効率化を促進。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-18T14:02:31.047Z"
+    },
+    {
+      "id": "trend-1776520951047-4",
+      "topic": "中小企業のDX推進支援",
+      "category": "スモールビジネス",
+      "summary": "Microsoft 365を活用した中小企業の時間創出とDX支援が注目。IT苦手な企業向けに現場活用可能なツール導入で業務改善。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-04-18T14:02:31.047Z"
+    },
+    {
+      "id": "trend-1776520951047-5",
+      "topic": "ソフトウェアエンジニアのキャリア論",
+      "category": "エンジニアリング",
+      "summary": "エンジニアが会社ではなく自身のエンジニアリングスキルを語る重要性。チーム戦の側面を認めつつ、個人キャリアの構築が推奨される。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-04-18T14:02:31.047Z"
+    },
+    {
+      "id": "trend-1776520951047-6",
+      "topic": "プロンプトエンジニアリングの基礎",
+      "category": "エンジニアリング",
+      "summary": "AI活用時のプロンプトとコンテキストの違いを解説。note記事で初心者向けに実践法を共有し、出力精度向上の鍵を説明。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-18T14:02:31.047Z"
+    },
+    {
+      "id": "trend-1776520951047-7",
+      "topic": "Webマーケティング担当者の役割",
+      "category": "マーケティング",
+      "summary": "mokuture+のWebマーケティング担当が受付の価値を変える可能性を語る。空間デザインとデジタル融合で来訪者体験を向上。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-04-18T14:02:31.047Z"
+    },
+    {
+      "id": "trend-1776520951047-8",
+      "topic": "データマーケティングの強化",
+      "category": "マーケティング",
+      "summary": "Warner Music Japanがデータマーケティングに注力。PSYCHIC FEVERのプロモーションでレーベル戦略が話題に。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-04-18T14:02:31.047Z"
+    },
+    {
+      "id": "trend-1776520951048-9",
+      "topic": "イベントユーザーミートアップ",
+      "category": "マーケティング",
+      "summary": "みんなの銀行の大阪User Meetupでユーザー声収集。サービス改善とつながりを生むマーケティング手法が成功事例として共有。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-04-18T14:02:31.048Z"
+    }
+  ]
+}
