@@ -1,0 +1,95 @@
+{
+  "collected_at": "2026-04-18T23:32:28.989Z",
+  "trends": [
+    {
+      "id": "trend-1776555148989-0",
+      "topic": "Gemini 2.0の新機能",
+      "category": "AI・LLM",
+      "summary": "GoogleのGemini 2.0がマルチモーダル機能を強化し、日本語対応が向上。ビジネスでの活用事例が増加中。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-18T23:32:28.989Z"
+    },
+    {
+      "id": "trend-1776555148989-1",
+      "topic": "中小企業向けAIツール",
+      "category": "スモールビジネス",
+      "summary": "スモールビジネス向けに低コストAIツールが登場。業務効率化で売上20%向上の事例が話題。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-04-18T23:32:28.989Z"
+    },
+    {
+      "id": "trend-1776555148989-2",
+      "topic": "事業承継のM&A増加",
+      "category": "M&A・事業承継",
+      "summary": "高齢化社会で事業承継型M&Aが活発。専門コンサルが支援を強化し、成功事例共有。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-04-18T23:32:28.989Z"
+    },
+    {
+      "id": "trend-1776555148989-3",
+      "topic": "Rust言語のエンジニア採用",
+      "category": "エンジニアリング",
+      "summary": "セキュリティ重視のRustがエンジニアリング分野で人気。採用需要が高まり、トレーニングプログラム拡大。",
+      "relevance_score": 0.7,
+      "source": "x",
+      "collected_at": "2026-04-18T23:32:28.989Z"
+    },
+    {
+      "id": "trend-1776555148989-4",
+      "topic": "TikTokマーケティング戦略",
+      "category": "マーケティング",
+      "summary": "TikTokのアルゴリズム変更でショート動画マーケティングが再燃。日本企業の実践例が共有。",
+      "relevance_score": 0.75,
+      "source": "x",
+      "collected_at": "2026-04-18T23:32:28.989Z"
+    },
+    {
+      "id": "trend-1776555148989-5",
+      "topic": "LLMのカスタマイズツール",
+      "category": "AI・LLM",
+      "summary": "オープンソースLLMのカスタマイズが容易に。企業向けファインチューニングの議論活発。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-04-18T23:32:28.989Z"
+    },
+    {
+      "id": "trend-1776555148989-6",
+      "topic": "スモールビジネスのEC移行",
+      "category": "スモールビジネス",
+      "summary": "Shopify活用でスモールビジネスがECにシフト。初心者向けガイドがトレンド。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-04-18T23:32:28.989Z"
+    },
+    {
+      "id": "trend-1776555148989-7",
+      "topic": "クロスボーダーM&A",
+      "category": "M&A・事業承継",
+      "summary": "アジア圏でのクロスボーダーM&Aが増加。リスク管理の重要性が指摘。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-18T23:32:28.989Z"
+    },
+    {
+      "id": "trend-1776555148989-8",
+      "topic": "DevOpsエンジニアリング",
+      "category": "エンジニアリング",
+      "summary": "DevOpsツールの進化でCI/CDパイプラインが効率化。クラウドネイティブ開発のトレンド。",
+      "relevance_score": 0.75,
+      "source": "x",
+      "collected_at": "2026-04-18T23:32:28.989Z"
+    },
+    {
+      "id": "trend-1776555148989-9",
+      "topic": "AI駆動マーケティング",
+      "category": "マーケティング",
+      "summary": "AIを活用したパーソナライズドマーケティングが主流。データプライバシーとのバランス議論。",
+      "relevance_score": 0.95,
+      "source": "x",
+      "collected_at": "2026-04-18T23:32:28.989Z"
+    }
+  ]
+}
