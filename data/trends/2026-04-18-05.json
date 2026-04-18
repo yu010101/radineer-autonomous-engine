@@ -1,0 +1,95 @@
+{
+  "collected_at": "2026-04-18T05:05:07.722Z",
+  "trends": [
+    {
+      "id": "trend-1776488707721-0",
+      "topic": "AI副業の実態",
+      "category": "AI・LLM",
+      "summary": "AI副業はSNS運用効率化が主で、キラキラしたイメージとは異なり、地道な運用が本質。ツールが変わっても努力が必要。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-18T05:05:07.721Z"
+    },
+    {
+      "id": "trend-1776488707721-1",
+      "topic": "生成AIコンテンツの活用",
+      "category": "AI・LLM",
+      "summary": "AIでグラビア画像や英語学習ツールを作成。子育て中や副業でAIを活用したコンテンツが人気。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-04-18T05:05:07.721Z"
+    },
+    {
+      "id": "trend-1776488707721-2",
+      "topic": "中小企業の税制負担",
+      "category": "スモールビジネス",
+      "summary": "消費税が中小企業を衰退させる悪税との指摘。インボイス廃止と税率引き下げを求める声が高まる。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-04-18T05:05:07.721Z"
+    },
+    {
+      "id": "trend-1776488707721-3",
+      "topic": "起業支援コンサル",
+      "category": "スモールビジネス",
+      "summary": "ゼロから起業成功のためのコンサルタントが活躍。腸活習慣や地元志向のビジネス環境を活かした支援。",
+      "relevance_score": 0.7,
+      "source": "x",
+      "collected_at": "2026-04-18T05:05:07.721Z"
+    },
+    {
+      "id": "trend-1776488707721-4",
+      "topic": "企業合併の財務効果",
+      "category": "M&A・事業承継",
+      "summary": "旧萩原電気と佐鳥電機の合併で資産88億円増加。高配当期待の新会社MIRAINIホールディングスが注目。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-18T05:05:07.721Z"
+    },
+    {
+      "id": "trend-1776488707721-5",
+      "topic": "事業承継の重要性",
+      "category": "M&A・事業承継",
+      "summary": "事業継承の計画が中小企業存続に不可欠。診断士が資金繰りや新規事業を支援。",
+      "relevance_score": 0.7,
+      "source": "x",
+      "collected_at": "2026-04-18T05:05:07.721Z"
+    },
+    {
+      "id": "trend-1776488707721-6",
+      "topic": "エンジニア向けフィッシング",
+      "category": "エンジニアリング",
+      "summary": "エンジニア狙いの7パターン手口：偽通知、トークン要求など。セキュリティ意識向上を促す。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-18T05:05:07.721Z"
+    },
+    {
+      "id": "trend-1776488707721-7",
+      "topic": "フルリモート開発環境",
+      "category": "エンジニアリング",
+      "summary": "新卒フルリモート採用が可能。バーチャルオフィス導入で田舎在住のエンジニアが増加。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-04-18T05:05:07.721Z"
+    },
+    {
+      "id": "trend-1776488707721-8",
+      "topic": "SNSマーケティングの限界",
+      "category": "マーケティング",
+      "summary": "SNSは一部で、リアル信頼と紹介が収益源。売切り中心は純利益を上げない。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-18T05:05:07.721Z"
+    },
+    {
+      "id": "trend-1776488707721-9",
+      "topic": "AI広告デザイン生成",
+      "category": "マーケティング",
+      "summary": "ChatGPTで広告画像作成が可能。テスト版利用でランダム生成、プロンプト活用がトレンド。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-18T05:05:07.721Z"
+    }
+  ]
+}
