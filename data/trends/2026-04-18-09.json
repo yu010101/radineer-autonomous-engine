@@ -1,0 +1,95 @@
+{
+  "collected_at": "2026-04-18T09:45:05.932Z",
+  "trends": [
+    {
+      "id": "trend-1776505505931-0",
+      "topic": "AIプロンプトの言語化不足",
+      "category": "AI・LLM",
+      "summary": "企業でのAI活用で成果が出ない理由は、自社ビジネスの意図を言語化できていないため。プロンプト集めより、経営意思の明確化が重要。AI導入はツールではなく言語化作業。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-18T09:45:05.931Z"
+    },
+    {
+      "id": "trend-1776505505931-1",
+      "topic": "AI活用作業交流会",
+      "category": "AI・LLM",
+      "summary": "非エンジニア向けAI自動化講師が全国ツアーの申込サイトをリリース。時間削減のための自動化コツと事例を無料配信。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-04-18T09:45:05.931Z"
+    },
+    {
+      "id": "trend-1776505505931-2",
+      "topic": "フォロワー増加の停滞打破",
+      "category": "マーケティング",
+      "summary": "フォロワー300人の壁で停滞。頑張り方を変えることで突破。判断ゼロ・最短10分の仕組みで初収益を目指すAI行動設計。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-04-18T09:45:05.931Z"
+    },
+    {
+      "id": "trend-1776505505931-3",
+      "topic": "中小企業の利益管理",
+      "category": "スモールビジネス",
+      "summary": "売上増でも手元資金が残らない問題。損益計算書の5つの利益のうち、本業の稼ぐ力を最大化する指標が重要。黒字倒産リスクを解説。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-18T09:45:05.931Z"
+    },
+    {
+      "id": "trend-1776505505931-4",
+      "topic": "石油危機と中小企業",
+      "category": "スモールビジネス",
+      "summary": "ホルムズ海峡の通航困難で石油危機。事業主の間でヤバい話題に。中小企業が軒並み潰れる死活問題の可能性。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-04-18T09:45:05.931Z"
+    },
+    {
+      "id": "trend-1776505505931-5",
+      "topic": "ハーネスエンジニアリングのバズワード",
+      "category": "エンジニアリング",
+      "summary": "ハーネスエンジニアリングとは何かを調査。意味が曖昧でクソバズワード。アイカツに例えられるほど不明瞭。",
+      "relevance_score": 0.75,
+      "source": "x",
+      "collected_at": "2026-04-18T09:45:05.931Z"
+    },
+    {
+      "id": "trend-1776505505931-6",
+      "topic": "DevOpsのCLI往復問題",
+      "category": "エンジニアリング",
+      "summary": "DevOpsあるあるとして、クラウドCLIとRe-run-jobsの往復が多すぎる問題。",
+      "relevance_score": 0.7,
+      "source": "x",
+      "collected_at": "2026-04-18T09:45:05.931Z"
+    },
+    {
+      "id": "trend-1776505505931-7",
+      "topic": "綾鷹の商品マーケティング",
+      "category": "マーケティング",
+      "summary": "綾鷹ほうじ茶のデザインと文言が疲労軽減を連想させ手に取る。濃い・650ml・上林春松本店などのキーワードが効く。日常でマーケティングを学ぶ。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-04-18T09:45:05.931Z"
+    },
+    {
+      "id": "trend-1776505505931-8",
+      "topic": "出版起点ブランディング",
+      "category": "マーケティング",
+      "summary": "書籍1冊で数億円の新規取引獲得。出版マーケティングのパーパス戦略でブランディング効果を解説。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-04-18T09:45:05.931Z"
+    },
+    {
+      "id": "trend-1776505505931-9",
+      "topic": "Agent SDKの選択",
+      "category": "AI・LLM",
+      "summary": "Claude Agent SDK vs pi-monoの二択。Claudeは性能重視、pi-monoはカスタム向き。Agent体系化で製品化を推奨。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-18T09:45:05.931Z"
+    }
+  ]
+}
