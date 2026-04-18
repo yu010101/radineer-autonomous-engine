@@ -1,0 +1,95 @@
+{
+  "collected_at": "2026-04-18T07:04:26.735Z",
+  "trends": [
+    {
+      "id": "trend-1776495866735-0",
+      "topic": "AIデザインツールの影響",
+      "category": "AI・LLM",
+      "summary": "AIデザインツールの進化により、デザイナーの適当な依頼が減少し業務負担が軽減。クリエイティブ分野でのAI活用が活発化している。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-18T07:04:26.735Z"
+    },
+    {
+      "id": "trend-1776495866735-1",
+      "topic": "中小企業AI業務効率化",
+      "category": "スモールビジネス",
+      "summary": "AI導入で手順書作成時間が65%削減、記載漏れ45%減少。中小企業での業務標準化が進む。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-04-18T07:04:26.735Z"
+    },
+    {
+      "id": "trend-1776495866735-2",
+      "topic": "ローカルLLM vs クラウドAPI",
+      "category": "AI・LLM",
+      "summary": "ローカルLLMはコストゼロ・プライバシー重視、クラウドは最新モデル即利用。中小企業でローカル推奨のトレンド。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-04-18T07:04:26.735Z"
+    },
+    {
+      "id": "trend-1776495866735-3",
+      "topic": "宿泊業の人手不足課題",
+      "category": "スモールビジネス",
+      "summary": "インバウンド増加も人手不足・施設老朽化で稼げない。ビジネスモデル改革の必要性が高まる。",
+      "relevance_score": 0.75,
+      "source": "x",
+      "collected_at": "2026-04-18T07:04:26.735Z"
+    },
+    {
+      "id": "trend-1776495866735-4",
+      "topic": "中小企業補助金活用",
+      "category": "スモールビジネス",
+      "summary": "補助金・助成金の対象確認が重要。事業拡大支援で資金調達を促進する動き。",
+      "relevance_score": 0.7,
+      "source": "x",
+      "collected_at": "2026-04-18T07:04:26.735Z"
+    },
+    {
+      "id": "trend-1776495866735-5",
+      "topic": "個人開発UI調整",
+      "category": "エンジニアリング",
+      "summary": "個人開発でコード執筆よりUI微調整の時間が長い。開発者の日常的な課題として話題。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-04-18T07:04:26.735Z"
+    },
+    {
+      "id": "trend-1776495866735-6",
+      "topic": "AIエージェント管理ツール",
+      "category": "エンジニアリング",
+      "summary": "AIを放牧管理する新スタイル。複数エージェント運用が非エンジニアでも可能に。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-04-18T07:04:26.735Z"
+    },
+    {
+      "id": "trend-1776495866735-7",
+      "topic": "生成AI資格取得",
+      "category": "マーケティング",
+      "summary": "AIスキルの証明でキャリアアップ。資格取得の是非が議論され、マーケティング分野で活用拡大。",
+      "relevance_score": 0.75,
+      "source": "x",
+      "collected_at": "2026-04-18T07:04:26.735Z"
+    },
+    {
+      "id": "trend-1776495866735-8",
+      "topic": "ABEMAリアルマーケティング",
+      "category": "マーケティング",
+      "summary": "渋谷横丁ジャックで体験型企画。オンライン媒体がリアルイベントでブランド体験を強化。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-18T07:04:26.735Z"
+    },
+    {
+      "id": "trend-1776495866735-9",
+      "topic": "SNS来店動機効果",
+      "category": "マーケティング",
+      "summary": "SNS投稿が商品購入・イベント来場のきっかけに。マーケティングの励みとして効果実感。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-04-18T07:04:26.735Z"
+    }
+  ]
+}
