@@ -1,0 +1,95 @@
+{
+  "collected_at": "2026-04-20T02:30:28.349Z",
+  "trends": [
+    {
+      "id": "trend-1776652228348-0",
+      "topic": "慶應義塾のAI知的資産プロジェクト",
+      "category": "AI・LLM",
+      "summary": "慶應義塾大学が全教職員にNotionを導入し、168年分の知的資産をAIに活用するプロジェクトを開始。教育・研究の効率化を目指す。",
+      "relevance_score": 0.95,
+      "source": "x",
+      "collected_at": "2026-04-20T02:30:28.348Z"
+    },
+    {
+      "id": "trend-1776652228349-1",
+      "topic": "生成AIの汚染問題",
+      "category": "AI・LLM",
+      "summary": "ChatGPTやGeminiなどの生成AIが互いの出力を見ながら進化する中、汚染の懸念が高まる。AIの信頼性と倫理的課題が議論されている。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-20T02:30:28.349Z"
+    },
+    {
+      "id": "trend-1776652228349-2",
+      "topic": "ロボットとAIの労働代替",
+      "category": "AI・LLM",
+      "summary": "ロボットの歩行速度向上により、農業などの実作業をAI・ロボットが代替。人間は管理業務へシフトし、娯楽産業が拡大する未来像。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-04-20T02:30:28.349Z"
+    },
+    {
+      "id": "trend-1776652228349-3",
+      "topic": "Claude Opus4.7の進化",
+      "category": "AI・LLM",
+      "summary": "Claude Opus4.7の高度な機能が話題。非エンジニアでも業務自動化が可能で、AIツールのアクセシビリティ向上を象徴。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-20T02:30:28.349Z"
+    },
+    {
+      "id": "trend-1776652228349-4",
+      "topic": "スモールビジネスの稼ぎ続ける共通点",
+      "category": "スモールビジネス",
+      "summary": "商品設計、集客、発信、セールスの4力が鍵。小さく回す仕組みで持続的な成長を実現するスモールビジネスオーナーの戦略。",
+      "relevance_score": 0.95,
+      "source": "x",
+      "collected_at": "2026-04-20T02:30:28.349Z"
+    },
+    {
+      "id": "trend-1776652228349-5",
+      "topic": "小規模事業者デジタル化支援補助金",
+      "category": "スモールビジネス",
+      "summary": "神奈川県の令和8年度補助金が申請受付中。デジタル化を推進し、小規模事業者の競争力強化を支援。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-20T02:30:28.349Z"
+    },
+    {
+      "id": "trend-1776652228349-6",
+      "topic": "創業道場のお知らせ",
+      "category": "M&A・事業承継",
+      "summary": "名古屋市小規模事業金融公社が緑区で創業道場を開催。創業・第二創業を目指す方を対象に支援。事業承継の基盤形成に寄与。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-04-20T02:30:28.349Z"
+    },
+    {
+      "id": "trend-1776652228349-7",
+      "topic": "スピントロニクス半導体の革新",
+      "category": "エンジニアリング",
+      "summary": "消費電力を1000分の1に削減するスピントロニクス半導体。スマホバッテリー持続50日可能で、医療機器応用も期待。",
+      "relevance_score": 0.95,
+      "source": "x",
+      "collected_at": "2026-04-20T02:30:28.349Z"
+    },
+    {
+      "id": "trend-1776652228349-8",
+      "topic": "AWS資格取得ブーム",
+      "category": "エンジニアリング",
+      "summary": "外資ITエンジニアがAWS全資格を目指す。リモートワークと高収入を実現するキャリア戦略として注目。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-04-20T02:30:28.349Z"
+    },
+    {
+      "id": "trend-1776652228349-9",
+      "topic": "動画生成AIのマーケティング活用",
+      "category": "マーケティング",
+      "summary": "Runwayなどの動画生成AIで編集工数・撮影費を削減。競合優位性を高める低コスト映像制作がトレンド。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-20T02:30:28.349Z"
+    }
+  ]
+}
