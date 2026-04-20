@@ -1,0 +1,95 @@
+{
+  "collected_at": "2026-04-20T10:46:10.575Z",
+  "trends": [
+    {
+      "id": "trend-1776681970574-0",
+      "topic": "ChatGPTの画像生成機能活用",
+      "category": "AI・LLM",
+      "summary": "ChatGPTのGPT image2が広告画像作成に利用され、プロンプト共有が活発。テスト版のランダム出現が課題だが、AIのクリエイティブ活用が進む。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-20T10:46:10.574Z"
+    },
+    {
+      "id": "trend-1776681970574-1",
+      "topic": "生成AIセミナーのニーズ",
+      "category": "AI・LLM",
+      "summary": "地域セミナーで生成AIの使い方・選び方が1位の希望テーマ。データ分析と並び、ビジネス活用の関心が高い。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-04-20T10:46:10.574Z"
+    },
+    {
+      "id": "trend-1776681970574-2",
+      "topic": "中小企業新技術開発助成金",
+      "category": "スモールビジネス",
+      "summary": "横浜市が中小企業の技術開発支援助成金と販路開拓事業を募集。イノベーション促進の取り組みが活発化。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-20T10:46:10.574Z"
+    },
+    {
+      "id": "trend-1776681970574-3",
+      "topic": "外国人スタッフ教育の課題",
+      "category": "スモールビジネス",
+      "summary": "オンライン勉強会で日本語漢字や関西弁の翻訳が難点に。中小企業の人材育成の多文化対応が注目。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-04-20T10:46:10.574Z"
+    },
+    {
+      "id": "trend-1776681970574-4",
+      "topic": "医療法人のM&A支援",
+      "category": "M&A・事業承継",
+      "summary": "税理士事務所が医療法人のM&Aと出資持分相続税ゼロの認定医療法人制度を支援。事業承継の専門化が進む。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-20T10:46:10.574Z"
+    },
+    {
+      "id": "trend-1776681970574-5",
+      "topic": "Raspberry Pi GPS装置開発",
+      "category": "エンジニアリング",
+      "summary": "Raspberry Pi 5とGPSモジュールで位置関係表示装置を開発。Zero 2 Wを本番環境に、IoT電子工作のトレンド。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-04-20T10:46:10.574Z"
+    },
+    {
+      "id": "trend-1776681970574-6",
+      "topic": "AI開発効率化のジレンマ",
+      "category": "エンジニアリング",
+      "summary": "AIで開発がラクになる一方、PR依存関係やCIレビューの把握が負担増。エンジニアの業務変革が議論。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-04-20T10:46:10.574Z"
+    },
+    {
+      "id": "trend-1776681970574-7",
+      "topic": "ブログSEOキーワード選定",
+      "category": "マーケティング",
+      "summary": "ブログ副業で月100万円達成のキーワード選定術を公開。お宝キーワード探しが成功の鍵と実践共有。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-20T10:46:10.574Z"
+    },
+    {
+      "id": "trend-1776681970574-8",
+      "topic": "接待費経費是正の議論",
+      "category": "マーケティング",
+      "summary": "キャバクラ代の経費計上廃止を求める声。中小企業負担の公平性とデジタル化による可視化が提案。",
+      "relevance_score": 0.75,
+      "source": "x",
+      "collected_at": "2026-04-20T10:46:10.574Z"
+    },
+    {
+      "id": "trend-1776681970575-9",
+      "topic": "事業承継と診断士の役割",
+      "category": "M&A・事業承継",
+      "summary": "中小企業診断士が財務・現場視点でDXとAI活用を推進。事業承継の生産性向上支援がトレンド。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-04-20T10:46:10.575Z"
+    }
+  ]
+}
