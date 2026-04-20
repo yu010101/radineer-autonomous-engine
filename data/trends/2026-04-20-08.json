@@ -1,0 +1,95 @@
+{
+  "collected_at": "2026-04-20T08:03:18.223Z",
+  "trends": [
+    {
+      "id": "trend-1776672198223-0",
+      "topic": "AI投資家の価値ピーク警鐘",
+      "category": "AI・LLM",
+      "summary": "AI投資家Elad Gil氏が、企業の価値ピークは12ヶ月で急落すると警告。売却戦略の定例化を提言。スタートアップの好況時の判断を促す議論が活発。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-20T08:03:18.223Z"
+    },
+    {
+      "id": "trend-1776672198223-1",
+      "topic": "AIデータセンター提携",
+      "category": "AI・LLM",
+      "summary": "エスクリプトエナジーがSDSと提携、14億円投資でAIデータセンター分野に進出。三崎優太氏ら布陣で次世代インフラ加速。低位株注目。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-04-20T08:03:18.223Z"
+    },
+    {
+      "id": "trend-1776672198223-2",
+      "topic": "中小企業買収政策",
+      "category": "スモールビジネス",
+      "summary": "中小企業100万社の技術集積を狙い、エネルギー締め付けで潰し大企業吸収へ。中国買取リスクも。株クラ入会で自衛を推奨。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-04-20T08:03:18.223Z"
+    },
+    {
+      "id": "trend-1776672198223-3",
+      "topic": "中小企業賃金と物価",
+      "category": "スモールビジネス",
+      "summary": "タクシー値上げ前に中小企業賃金引き上げを主張。物価高で実質賃金マイナス、生活厳しく。法人税増税で還付企業から税金回収を。",
+      "relevance_score": 0.7,
+      "source": "x",
+      "collected_at": "2026-04-20T08:03:18.223Z"
+    },
+    {
+      "id": "trend-1776672198223-4",
+      "topic": "M&A案件: 下水処理プラント企業",
+      "category": "M&A・事業承継",
+      "summary": "TRANBI新着案件: 創業80年超の神奈川県エンジニアリング企業、売却希望2.5-5億円。下水処理設計・据付強み、安定黒字。",
+      "relevance_score": 0.95,
+      "source": "x",
+      "collected_at": "2026-04-20T08:03:18.223Z"
+    },
+    {
+      "id": "trend-1776672198223-5",
+      "topic": "事業承継と株薄め",
+      "category": "M&A・事業承継",
+      "summary": "中小企業買収回避策として株薄めや上場廃止を提案。事業承継問題で多くが潰れる定め。中国安値買取リスクを指摘。",
+      "relevance_score": 0.75,
+      "source": "x",
+      "collected_at": "2026-04-20T08:03:18.223Z"
+    },
+    {
+      "id": "trend-1776672198223-6",
+      "topic": "プロンプトエンジニアリング講座",
+      "category": "エンジニアリング",
+      "summary": "LLMプロンプトエンジニアリング講座おすすめ。AIエージェント向けワークフロー構築、開発テクニック習得。O'Reilly本翻訳者推奨。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-20T08:03:18.223Z"
+    },
+    {
+      "id": "trend-1776672198223-7",
+      "topic": "FastAPI Cloud DevOps",
+      "category": "エンジニアリング",
+      "summary": "FastAPI CloudをVercel感覚でデプロイ。コンテナ不要、Supabase連携、AI統合予定。Python DevOps効率化ツールとして注目。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-04-20T08:03:18.223Z"
+    },
+    {
+      "id": "trend-1776672198223-8",
+      "topic": "採用マーケティング密着",
+      "category": "マーケティング",
+      "summary": "三井住友海上採用マーケティング1日密着。人事による年間100本記事制作でファン創出。採用の女神として動画で紹介。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-04-20T08:03:18.223Z"
+    },
+    {
+      "id": "trend-1776672198223-9",
+      "topic": "パズルプロモーション",
+      "category": "マーケティング",
+      "summary": "パズルで広告滞在時間延長、商品記憶向上、イベント回遊性アップ。用途別問題設計でマーケティング効果を高める。",
+      "relevance_score": 0.75,
+      "source": "x",
+      "collected_at": "2026-04-20T08:03:18.223Z"
+    }
+  ]
+}
