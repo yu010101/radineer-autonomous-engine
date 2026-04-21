@@ -1,0 +1,95 @@
+{
+  "collected_at": "2026-04-21T23:32:50.395Z",
+  "trends": [
+    {
+      "id": "trend-1776814370395-0",
+      "topic": "Amazon ConnectのAIトーンバッファリング機能",
+      "category": "AI・LLM",
+      "summary": "Amazon ConnectがAIを活用したセルフサービス向けトーンバッファリング機能を追加。顧客のトーンを分析し、応答を最適化する新機能がAWSで発表され、ビジネス効率化に寄与。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-21T23:32:50.395Z"
+    },
+    {
+      "id": "trend-1776814370395-1",
+      "topic": "AIスライド作成の活用",
+      "category": "AI・LLM",
+      "summary": "会議用プレゼンスライドの半分をAIで作成。フォントの違いを気にせず効率化が進む。AIツールの日常業務への浸透が加速中。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-04-21T23:32:50.395Z"
+    },
+    {
+      "id": "trend-1776814370395-2",
+      "topic": "Oracle AI Database@AWS",
+      "category": "AI・LLM",
+      "summary": "Oracle AI DatabaseをAWSでExadataを作成する記事がQiitaに投稿。AIデータベースのクラウド活用がエンジニア間で話題に。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-04-21T23:32:50.395Z"
+    },
+    {
+      "id": "trend-1776814370395-3",
+      "topic": "透明祭の開催",
+      "category": "スモールビジネス",
+      "summary": "freeeグループの透明書店が3周年でスモールビジネス集結の透明祭を4/25-26に開催。クリエイターや事業者の交流イベントとして注目。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-21T23:32:50.395Z"
+    },
+    {
+      "id": "trend-1776814370395-4",
+      "topic": "小規模事業の人材不足対策",
+      "category": "スモールビジネス",
+      "summary": "オーバーツーリズムの影響で京都の小規模事業が人材不足。最適化を優先した業務改善が推奨され、相談窓口が活発化。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-04-21T23:32:50.395Z"
+    },
+    {
+      "id": "trend-1776814370395-5",
+      "topic": "小規模企業共済の活用",
+      "category": "スモールビジネス",
+      "summary": "個人事業から法人へ移行し、小規模企業共済と倒産防止共済を併用。経費計上と借入可能なセーフティネットとして有効。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-04-21T23:32:50.395Z"
+    },
+    {
+      "id": "trend-1776814370395-6",
+      "topic": "インフラエンジニアの年収アップ",
+      "category": "エンジニアリング",
+      "summary": "35歳未経験からインフラエンジニア2年目で年収500万突破。目標設定と継続行動の重要性が共有される。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-21T23:32:50.395Z"
+    },
+    {
+      "id": "trend-1776814370395-7",
+      "topic": "CADオペレーター募集と設計支援",
+      "category": "エンジニアリング",
+      "summary": "未経験から3年で設計士へ。機械・配管・電気設計のCADオペを募集し、土日祝休み・資格手当で20-30代が活躍。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-04-21T23:32:50.395Z"
+    },
+    {
+      "id": "trend-1776814370395-8",
+      "topic": "SHIFTのAI企業転換",
+      "category": "エンジニアリング",
+      "summary": "SHIFTがAI企業へ本格転換。IR資料で「金鉱脈を掘削」と表現し、外注ニーズの高まりがエンタープライズで話題。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-04-21T23:32:50.395Z"
+    },
+    {
+      "id": "trend-1776814370395-9",
+      "topic": "マーケティング自動化の重要性",
+      "category": "マーケティング",
+      "summary": "AI×UTAGEでマーケティングを自動化し、浮いた時間を顧客サポートに充てる。一次情報と人間味の強化がビジネスの鍵。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-21T23:32:50.395Z"
+    }
+  ]
+}
