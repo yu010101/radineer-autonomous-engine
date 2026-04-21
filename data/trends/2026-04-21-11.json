@@ -1,0 +1,95 @@
+{
+  "collected_at": "2026-04-21T11:04:42.385Z",
+  "trends": [
+    {
+      "id": "trend-1776769482385-0",
+      "topic": "Happy Oysterの発表",
+      "category": "AI・LLM",
+      "summary": "アリババのATHチームがテキストから動き回れる音付き空間を生成する世界モデル「Happy Oyster」を発表。招待制で展開中。動画生成AIの進化を示すトレンド。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-21T11:04:42.385Z"
+    },
+    {
+      "id": "trend-1776769482385-1",
+      "topic": "Claude Codeによるウェブアプリ開発",
+      "category": "AI・LLM",
+      "summary": "Claude AIを使ってウェブアプリを開発し、デプロイまでを効率化。アイデアを素早く形にする手法が注目。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-04-21T11:04:42.385Z"
+    },
+    {
+      "id": "trend-1776769482385-2",
+      "topic": "AI営業電話の流行",
+      "category": "AI・LLM",
+      "summary": "AIを使った営業電話が増加。質問で遅延がわかるため、識別方法が話題に。AIのビジネス活用の副作用。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-04-21T11:04:42.385Z"
+    },
+    {
+      "id": "trend-1776769482385-3",
+      "topic": "中小企業補助金の未消化問題",
+      "category": "スモールビジネス",
+      "summary": "中小企業向け補助金が未消化増加。自立した企業しか使えず、資金不足の企業が取り残される議論。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-04-21T11:04:42.385Z"
+    },
+    {
+      "id": "trend-1776769482385-4",
+      "topic": "社員の無駄な忙しさ",
+      "category": "スモールビジネス",
+      "summary": "中小企業で価値を生まない仕事が積み上がり、業績伸び悩み。不要業務の見直しが鍵。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-04-21T11:04:42.385Z"
+    },
+    {
+      "id": "trend-1776769482385-5",
+      "topic": "事業承継と中小企業診断士",
+      "category": "M&A・事業承継",
+      "summary": "中小企業診断士試験の模試開始。事業承継支援の専門家育成が活発化。",
+      "relevance_score": 0.7,
+      "source": "x",
+      "collected_at": "2026-04-21T11:04:42.385Z"
+    },
+    {
+      "id": "trend-1776769482385-6",
+      "topic": "サイバー攻撃と中小企業",
+      "category": "M&A・事業承継",
+      "summary": "台湾侵攻時のサイバー攻撃が中小企業サプライヤーを標的。セキュリティ強化の必要性。",
+      "relevance_score": 0.75,
+      "source": "x",
+      "collected_at": "2026-04-21T11:04:42.385Z"
+    },
+    {
+      "id": "trend-1776769482385-7",
+      "topic": "開発生産性向上の仕組み",
+      "category": "エンジニアリング",
+      "summary": "D-Plusコミュニティでチーム開発の仕組みづくりを議論。一人で頑張らないアプローチ。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-04-21T11:04:42.385Z"
+    },
+    {
+      "id": "trend-1776769482385-8",
+      "topic": "VR顔トラッキングのアップデート",
+      "category": "エンジニアリング",
+      "summary": "ふぇいとらツールの顔トラ設定で目の動き改善中。VR開発のクオリティ向上。",
+      "relevance_score": 0.75,
+      "source": "x",
+      "collected_at": "2026-04-21T11:04:42.385Z"
+    },
+    {
+      "id": "trend-1776769482385-9",
+      "topic": "マーケティング向けClaude AIプロンプト",
+      "category": "マーケティング",
+      "summary": "Claude AIのプロンプトで競合分析やSEO構成を効率化。生産性向上のツール活用。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-21T11:04:42.385Z"
+    }
+  ]
+}
