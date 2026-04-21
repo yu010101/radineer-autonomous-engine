@@ -1,0 +1,95 @@
+{
+  "collected_at": "2026-04-21T15:11:05.161Z",
+  "trends": [
+    {
+      "id": "trend-1776784265161-0",
+      "topic": "小規模事業者持続化補助金",
+      "category": "スモールビジネス",
+      "summary": "個人事業主やフリーランス向けの補助金で、HP制作やSNS広告に最大250万円補助。締切4/30で申請準備中。知らなければ数十万円損する可能性あり。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-21T15:11:05.161Z"
+    },
+    {
+      "id": "trend-1776784265161-1",
+      "topic": "AIコメント機能の改善",
+      "category": "AI・LLM",
+      "summary": "ニコニコ動画のAIコメント機能を試用し、フィールドバックで改善提案。ユーザー体験向上を目指す。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-04-21T15:11:05.161Z"
+    },
+    {
+      "id": "trend-1776784265161-2",
+      "topic": "小規模M&Aプラットフォーム",
+      "category": "M&A・事業承継",
+      "summary": "小規模M&Aの情報流通と生産性をSaaSとFA支援で解消。売上3.6億、解約率2.2%。中小M&A市場を活性化。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-04-21T15:11:05.161Z"
+    },
+    {
+      "id": "trend-1776784265161-3",
+      "topic": "エンジニア転職の苦労",
+      "category": "エンジニアリング",
+      "summary": "未経験エンジニアの初日、SSHやDB知識不足で苦戦。スクール学習が実務で通用せず、ゼロからの学びが成長の糧。",
+      "relevance_score": 0.7,
+      "source": "x",
+      "collected_at": "2026-04-21T15:11:05.161Z"
+    },
+    {
+      "id": "trend-1776784265161-4",
+      "topic": "TikTokマーケティング運用代行",
+      "category": "マーケティング",
+      "summary": "ビジネスオーナー向けTikTok運用代行で集客・採用・ブランディング支援。専門家が簡単スタートをサポート。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-04-21T15:11:05.161Z"
+    },
+    {
+      "id": "trend-1776784265161-5",
+      "topic": "生成AIによるスタイリング",
+      "category": "AI・LLM",
+      "summary": "SheglitがAIビジュアルでスタイリング紹介。新たな表現として立体的に世界観を展開。",
+      "relevance_score": 0.75,
+      "source": "x",
+      "collected_at": "2026-04-21T15:11:05.161Z"
+    },
+    {
+      "id": "trend-1776784265161-6",
+      "topic": "税抜経理のメリット",
+      "category": "スモールビジネス",
+      "summary": "小規模事業所で税込経理が主流だが、税抜経理のメリットを議論。課税事業者でも分かりやすさ優先。",
+      "relevance_score": 0.7,
+      "source": "x",
+      "collected_at": "2026-04-21T15:11:05.161Z"
+    },
+    {
+      "id": "trend-1776784265161-7",
+      "topic": "AIエンジニアの副業挑戦",
+      "category": "エンジニアリング",
+      "summary": "非エンジニアがClaude Codeで副業アプリ開発。成功・失敗を記録し、仕組み構築を目指す。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-04-21T15:11:05.161Z"
+    },
+    {
+      "id": "trend-1776784265161-8",
+      "topic": "病院マーケティングの比喩",
+      "category": "マーケティング",
+      "summary": "心不全をギャル文化で説明。wetはメンヘラ期、coldはサバサバ系。若者向けわかりやすい医療マーケティング。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-04-21T15:11:05.161Z"
+    },
+    {
+      "id": "trend-1776784265161-9",
+      "topic": "事業承継の意識改革",
+      "category": "M&A・事業承継",
+      "summary": "自民党中小企業政策調査会で経営者の意識改革・経営力向上を有識者ヒアリング。地方の小規模事業者支援。",
+      "relevance_score": 0.75,
+      "source": "x",
+      "collected_at": "2026-04-21T15:11:05.161Z"
+    }
+  ]
+}
