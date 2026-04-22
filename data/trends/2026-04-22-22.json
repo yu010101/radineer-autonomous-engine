@@ -1,0 +1,95 @@
+{
+  "collected_at": "2026-04-22T22:44:39.992Z",
+  "trends": [
+    {
+      "id": "trend-1776897879992-0",
+      "topic": "生成AIの著作権侵害対策",
+      "category": "AI・LLM",
+      "summary": "政府がAI事業者への調査を強化し、罰則を含む対策を検討。著作権侵害コンテンツ生成の多い事業者に対する積極的な指導を求める動きが活発化。AI利用の倫理的課題が議論されている。",
+      "relevance_score": 0.95,
+      "source": "x",
+      "collected_at": "2026-04-22T22:44:39.992Z"
+    },
+    {
+      "id": "trend-1776897879992-1",
+      "topic": "AI癒しママの日常活用",
+      "category": "AI・LLM",
+      "summary": "AIを活用した癒しママキャラクターが、ユーザーの朝の挨拶や励ましに応じる投稿が人気。日常のメンタルサポートとしてAIの親しみやすい活用例が広がっている。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-04-22T22:44:39.992Z"
+    },
+    {
+      "id": "trend-1776897879992-2",
+      "topic": "Google Workspace Intelligenceの自動化",
+      "category": "AI・LLM",
+      "summary": "Googleが中小企業向けにGmailやDocsを横断するAIエージェントを発表。ノーコードで業務自動化が可能になり、SIer依存からの脱却が期待される。",
+      "relevance_score": 0.98,
+      "source": "x",
+      "collected_at": "2026-04-22T22:44:39.992Z"
+    },
+    {
+      "id": "trend-1776897879992-3",
+      "topic": "中小企業の円安コスト対策",
+      "category": "スモールビジネス",
+      "summary": "円安による輸入コスト高騰が中小企業を苦しめ、価格転嫁の限界が指摘。国富流出を防ぐための適正金利政策の必要性が議論されている。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-22T22:44:39.992Z"
+    },
+    {
+      "id": "trend-1776897879992-4",
+      "topic": "組織の器と中小企業改革",
+      "category": "スモールビジネス",
+      "summary": "書籍『組織の器』で、施策の精度より受け止める側のあり方が重要と提言。心理的安全性や余白の回復が中小企業の健全化に不可欠。",
+      "relevance_score": 0.92,
+      "source": "x",
+      "collected_at": "2026-04-22T22:44:39.992Z"
+    },
+    {
+      "id": "trend-1776897879992-5",
+      "topic": "アップルCEO交代と事業承継",
+      "category": "M&A・事業承継",
+      "summary": "ティム・クックCEOが退任し、ジョン・ターナス氏が後任に。AI出遅れと主力製品の伸び悩みの中で、新たな革新的製品開発が求められる。",
+      "relevance_score": 0.88,
+      "source": "x",
+      "collected_at": "2026-04-22T22:44:39.992Z"
+    },
+    {
+      "id": "trend-1776897879992-6",
+      "topic": "個人開発者のアプリ挑戦",
+      "category": "エンジニアリング",
+      "summary": "50代エンジニアが定年前にアプリ開発を宣言。ねこを題材にしたモバイルゲームを作成し、失敗も公開しながら進める姿勢が注目。",
+      "relevance_score": 0.87,
+      "source": "x",
+      "collected_at": "2026-04-22T22:44:39.992Z"
+    },
+    {
+      "id": "trend-1776897879992-7",
+      "topic": "AIインフラへの投資拡大",
+      "category": "エンジニアリング",
+      "summary": "VOLTMINDがAIサーバー投資を強化。BtoAビジネスモデルでAIのワークフローを最適化し、組織の効率化を目指す。",
+      "relevance_score": 0.93,
+      "source": "x",
+      "collected_at": "2026-04-22T22:44:39.992Z"
+    },
+    {
+      "id": "trend-1776897879992-8",
+      "topic": "AI生成コスメ広告バナー",
+      "category": "マーケティング",
+      "summary": "ChatGPT Images 2.0でコスメ広告バナーを作成。プロンプトアレンジでブランド世界観を表現し、楽しく効率的なマーケティングツールとして活用。",
+      "relevance_score": 0.96,
+      "source": "x",
+      "collected_at": "2026-04-22T22:44:39.992Z"
+    },
+    {
+      "id": "trend-1776897879992-9",
+      "topic": "SNSマーケティングの自動化ツール",
+      "category": "マーケティング",
+      "summary": "WebデザイナーがSNS作業代行やMeta広告をAIで効率化。自主制作と並行し、Canva公式クリエイターを目指す動きが活発。",
+      "relevance_score": 0.89,
+      "source": "x",
+      "collected_at": "2026-04-22T22:44:39.992Z"
+    }
+  ]
+}
