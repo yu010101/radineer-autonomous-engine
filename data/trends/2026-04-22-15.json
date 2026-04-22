@@ -1,0 +1,95 @@
+{
+  "collected_at": "2026-04-22T15:11:37.654Z",
+  "trends": [
+    {
+      "id": "trend-1776870697653-0",
+      "topic": "AI誤情報の拡散",
+      "category": "AI・LLM",
+      "summary": "AIが学習するデタラメ情報が検索結果に現れ、事実が埋没する問題が指摘されている。時間が経つと嘘が真実のように語られ、AIの影響で情報の信頼性が低下している。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-22T15:11:37.653Z"
+    },
+    {
+      "id": "trend-1776870697653-1",
+      "topic": "AI副業の自動化",
+      "category": "AI・LLM",
+      "summary": "AIを活用した副業で作業時間を削減し、SNS運用を半自動化。初心者でも月50万達成の事例が共有され、効率化の裏側が話題に。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-04-22T15:11:37.653Z"
+    },
+    {
+      "id": "trend-1776870697653-2",
+      "topic": "小規模事業者持続化補助金",
+      "category": "スモールビジネス",
+      "summary": "小規模事業者向け持続化補助金の申請サポートが活発。分析・添削サービスで採択率向上を目指し、業務改善やIT導入を促進する動きが見られる。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-22T15:11:37.653Z"
+    },
+    {
+      "id": "trend-1776870697653-3",
+      "topic": "消費税減税の小規模農家影響",
+      "category": "スモールビジネス",
+      "summary": "消費税ゼロ化で小規模農家85%が減益の恐れ。仕入れ税負担増を懸念し、補助金構築を求める声が高まっている。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-04-22T15:11:37.653Z"
+    },
+    {
+      "id": "trend-1776870697653-4",
+      "topic": "事業承継の育英財団",
+      "category": "M&A・事業承継",
+      "summary": "セコム創業者子孫が運営する育英財団が事業承継の象徴。結婚相談所や小規模保育園を展開し、後継者育成に注力。",
+      "relevance_score": 0.7,
+      "source": "x",
+      "collected_at": "2026-04-22T15:11:37.653Z"
+    },
+    {
+      "id": "trend-1776870697653-5",
+      "topic": "M&A後の企業統合",
+      "category": "M&A・事業承継",
+      "summary": "M&A後の事業統合で小規模企業が活性化。個人事業主の投資戦略として、NISAやiDeCo活用が議論されている。",
+      "relevance_score": 0.6,
+      "source": "x",
+      "collected_at": "2026-04-22T15:11:37.653Z"
+    },
+    {
+      "id": "trend-1776870697653-6",
+      "topic": "個人開発アプリのAI活用",
+      "category": "エンジニアリング",
+      "summary": "非エンジニアがAIでアプリ開発。気づきの記録ツール「Ochiba」をリリースし、制作裏側を共有。Claude活用の個人開発が注目。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-22T15:11:37.653Z"
+    },
+    {
+      "id": "trend-1776870697653-7",
+      "topic": "インフラエンジニアのPC不調",
+      "category": "エンジニアリング",
+      "summary": "エンジニアのPC交換でメモリ不足問題が発生。開発効率を重視し、8GB以上のスペックを求める声が上がっている。",
+      "relevance_score": 0.7,
+      "source": "x",
+      "collected_at": "2026-04-22T15:11:37.653Z"
+    },
+    {
+      "id": "trend-1776870697653-8",
+      "topic": "マーケティングAI OSの新機能",
+      "category": "マーケティング",
+      "summary": "ENSORがOpenAIのGPT Image-2を即搭載。画像生成を強化し、マーケティングの自動化が進む。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-22T15:11:37.653Z"
+    },
+    {
+      "id": "trend-1776870697653-9",
+      "topic": "IRをファンマーケティングへ",
+      "category": "マーケティング",
+      "summary": "IRをファン獲得の戦略に転換。個人投資家イベントで企業魅力を発信し、株主との共感を深める取り組みが増加。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-04-22T15:11:37.653Z"
+    }
+  ]
+}
