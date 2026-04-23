@@ -1,0 +1,95 @@
+{
+  "collected_at": "2026-04-23T22:41:42.438Z",
+  "trends": [
+    {
+      "id": "trend-1776984102438-0",
+      "topic": "OpenAI Codexの業務エージェント基盤",
+      "category": "AI・LLM",
+      "summary": "OpenAIがCodexとSpudを統合し、業務エージェントとして展開。ブラウザ制御、Sheets/Slides/Docsの自動化、音声入力、auto-review機能で中小企業向けAI導入を加速。月額$20のChatGPT Businessでアクセス可能。",
+      "relevance_score": 0.95,
+      "source": "x",
+      "collected_at": "2026-04-23T22:41:42.438Z"
+    },
+    {
+      "id": "trend-1776984102438-1",
+      "topic": "AI向けNAND需要の回復",
+      "category": "AI・LLM",
+      "summary": "キオクシアがAIブームで時価総額トップ10入り。昨年末43位から急上昇。赤字続きから回復し、上値余地あり。半導体株の注目トピック。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-04-23T22:41:42.438Z"
+    },
+    {
+      "id": "trend-1776984102438-2",
+      "topic": "AI副業Tier表",
+      "category": "AI・LLM",
+      "summary": "AI副業の難易度をTierで分類。C:プロンプト販売、B:データ入力代行、A:コンテンツ販売、S:高単価自動化。参入しやすく収益化のヒントを提供。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-23T22:41:42.438Z"
+    },
+    {
+      "id": "trend-1776984102438-3",
+      "topic": "スモールステップ習慣化",
+      "category": "スモールビジネス",
+      "summary": "小規模事業者の習慣化に有効なスモールステップ、ミニ習慣、1分間ルール。脳の抵抗を減らし、継続を促す心理学的手法。朝活22日継続の事例。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-04-23T22:41:42.438Z"
+    },
+    {
+      "id": "trend-1776984102438-4",
+      "topic": "小規模事業者持続化補助金",
+      "category": "スモールビジネス",
+      "summary": "新メニュー開発とSNS販促で売上20%増の成功事例。地元食材活用で補助金採択。スモールビジネスの販促支援として有効。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-23T22:41:42.438Z"
+    },
+    {
+      "id": "trend-1776984102438-5",
+      "topic": "薄利多売の回避",
+      "category": "スモールビジネス",
+      "summary": "スモールビジネスは薄利多売を避け、高利益率を重視。大手向けの消耗戦ではなく、少なく売って利益を残す戦略が継続のカギ。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-04-23T22:41:42.438Z"
+    },
+    {
+      "id": "trend-1776984102438-6",
+      "topic": "ベトナム小規模企業税制改革",
+      "category": "M&A・事業承継",
+      "summary": "小規模企業の免税基準を1.5〜2兆ドンに引き上げ。個人事業主との格差是正を目指す。海外進出スモールビジネスの税務影響大。",
+      "relevance_score": 0.7,
+      "source": "x",
+      "collected_at": "2026-04-23T22:41:42.438Z"
+    },
+    {
+      "id": "trend-1776984102438-7",
+      "topic": "Codexマルチエージェント",
+      "category": "エンジニアリング",
+      "summary": "Codexでマルチエージェント・オーケストレーターを作成。自走型AIの構築で業務効率化。完全自走に向けた実装事例。",
+      "relevance_score": 0.95,
+      "source": "x",
+      "collected_at": "2026-04-23T22:41:42.438Z"
+    },
+    {
+      "id": "trend-1776984102438-8",
+      "topic": "郵便番号公式API",
+      "category": "エンジニアリング",
+      "summary": "日本郵便が公式API公開。開発者の住所検証が容易に。非公式APIやCSV依存から脱却し、公共APIの進化としてエンジニア歓迎。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-23T22:41:42.438Z"
+    },
+    {
+      "id": "trend-1776984102438-9",
+      "topic": "アルゴリズム非意識発信",
+      "category": "マーケティング",
+      "summary": "Xのアルゴリズム変更で、トレンド追わず自分の言葉を発信。反応型を避け、独自性を保つマーケティング戦略のシフト。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-04-23T22:41:42.438Z"
+    }
+  ]
+}
