@@ -1,0 +1,95 @@
+{
+  "collected_at": "2026-04-23T11:06:09.268Z",
+  "trends": [
+    {
+      "id": "trend-1776942369268-0",
+      "topic": "AIアフィリエイト副業の始め方",
+      "category": "AI・LLM",
+      "summary": "AIを活用したアフィリエイト副業が注目。スマホ中心で初心者向けに仕組み構築を推奨し、売上230万突破の事例共有。最初は稼ぎ狙わず仕組み作りに焦点を当てる。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-23T11:06:09.268Z"
+    },
+    {
+      "id": "trend-1776942369268-1",
+      "topic": "動画AIプラットフォームの比較",
+      "category": "AI・LLM",
+      "summary": "Seedance, Kling, Veoの動画AIツールを商流・手数料・データ依存から分析。クリエイターの覇権争いが焦点で、性能競争の裏側を解体。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-04-23T11:06:09.268Z"
+    },
+    {
+      "id": "trend-1776942369268-2",
+      "topic": "Claude Codeとgogcliの活用",
+      "category": "AI・LLM",
+      "summary": "Claude CodeでGoogle Workspace CLIツールgogcliを活用し、スプレッドシート自動更新を実現。売上計画や広告分析の工数削減に効果的。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-23T11:06:09.268Z"
+    },
+    {
+      "id": "trend-1776942369268-3",
+      "topic": "中小企業の都市部集中問題",
+      "category": "スモールビジネス",
+      "summary": "ベッドタウンでの仕事不足が子育て世代に影響。グローバル化で中小企業規模拡大が必要で、製造業の強みが鍵。拠点問題解決へ。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-04-23T11:06:09.268Z"
+    },
+    {
+      "id": "trend-1776942369268-4",
+      "topic": "中小企業診断士の研修と顔出し",
+      "category": "スモールビジネス",
+      "summary": "診断士の研修参加や顔出しの重要性。サービス受ける側が顔写真を求める時代で、信頼構築に不可欠。勇気が必要だが効果的。",
+      "relevance_score": 0.75,
+      "source": "x",
+      "collected_at": "2026-04-23T11:06:09.268Z"
+    },
+    {
+      "id": "trend-1776942369268-5",
+      "topic": "AI時代M&A増加",
+      "category": "M&A・事業承継",
+      "summary": "2025年M&A件数・金額過去最高。AIで競争激化し、スタートアップがイグジット前倒し。大企業が技術・人材獲得で積極的。",
+      "relevance_score": 0.95,
+      "source": "x",
+      "collected_at": "2026-04-23T11:06:09.268Z"
+    },
+    {
+      "id": "trend-1776942369268-6",
+      "topic": "牧野フライス買収提案",
+      "category": "M&A・事業承継",
+      "summary": "日系ファンドNSSKが工作機械大手牧野フライスに買収提案。MBKの中止勧告を受け、完全子会社化目指す。株価注目。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-04-23T11:06:09.268Z"
+    },
+    {
+      "id": "trend-1776942369268-7",
+      "topic": "バイブコーディングの台頭",
+      "category": "エンジニアリング",
+      "summary": "デザイン感性をAIでコード化するバイブコーディング。Figmaプロトタイプ化で開発スピード向上。ツールと思考の共創へ移行。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-23T11:06:09.268Z"
+    },
+    {
+      "id": "trend-1776942369268-8",
+      "topic": "AIプログラミング間違い探し",
+      "category": "エンジニアリング",
+      "summary": "AIでコード修正が簡単。近未来を感じる効率化。未経験者も学べる手っ取り早い方法として推奨。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-04-23T11:06:09.268Z"
+    },
+    {
+      "id": "trend-1776942369268-9",
+      "topic": "OpenAIアップデートとマーケティング",
+      "category": "マーケティング",
+      "summary": "ChatGPT Images 2.0とWorkspace Agentsでクリエイティブ量産・自動化。マーケティング資料作成やSNS運用コスト70%削減可能。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-23T11:06:09.268Z"
+    }
+  ]
+}
