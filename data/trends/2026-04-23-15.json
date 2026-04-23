@@ -1,0 +1,95 @@
+{
+  "collected_at": "2026-04-23T15:50:52.446Z",
+  "trends": [
+    {
+      "id": "trend-1776959452446-0",
+      "topic": "AI活用による企業利益倍増",
+      "category": "AI・LLM",
+      "summary": "米ウェイハヤー社がAIを活用し、2030年までに利益を倍増させる計画を発表。AIのビジネス導入が加速し、効率化と成長を促進するトレンドが見られる。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-23T15:50:52.446Z"
+    },
+    {
+      "id": "trend-1776959452446-1",
+      "topic": "AIイラスト生成の進化",
+      "category": "AI・LLM",
+      "summary": "AIツールで好みの構図や絵柄を指定したイラストが美しく生成される事例が増加。クリエイターの創造性を高めるAIアートの活用が話題。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-04-23T15:50:52.446Z"
+    },
+    {
+      "id": "trend-1776959452446-2",
+      "topic": "中小企業診断士のポートフォリオ最適化",
+      "category": "スモールビジネス",
+      "summary": "中小企業診断士が研究会を退会し、リソースを状況に合わせて振り分ける動き。柔軟なキャリア管理がスモールビジネスの持続可能性を支える。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-04-23T15:50:52.446Z"
+    },
+    {
+      "id": "trend-1776959452446-3",
+      "topic": "多資格保有の社労士活用",
+      "category": "スモールビジネス",
+      "summary": "IT会社の社労士が中小企業診断士と行政書士の資格を保有。専門性を高めた人材がスモールビジネスのコンプライアンスと成長を支援。",
+      "relevance_score": 0.75,
+      "source": "x",
+      "collected_at": "2026-04-23T15:50:52.446Z"
+    },
+    {
+      "id": "trend-1776959452446-4",
+      "topic": "Claude AIによるデータ分析",
+      "category": "AI・LLM",
+      "summary": "CSVデータをClaude AIで分析し、売上・粗利の資料を作成。スモールビジネスでのAIツール活用が業務効率化を促進する事例。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-23T15:50:52.446Z"
+    },
+    {
+      "id": "trend-1776959452446-5",
+      "topic": "Claude Opus 4.7の開発Tips",
+      "category": "エンジニアリング",
+      "summary": "Claude Code作者がOpus 4.7の使い方Tipsを共有。AIの進化で従来の作法が変わり、開発者の生産性が向上するトレンド。",
+      "relevance_score": 0.95,
+      "source": "x",
+      "collected_at": "2026-04-23T15:50:52.446Z"
+    },
+    {
+      "id": "trend-1776959452446-6",
+      "topic": "AI副業の失敗回避策",
+      "category": "エンジニアリング",
+      "summary": "AI副業で月1000円収益達成までの5つのやめた習慣。ジャンル分散や完璧主義を避け、継続が成功の鍵となる。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-04-23T15:50:52.446Z"
+    },
+    {
+      "id": "trend-1776959452446-7",
+      "topic": "ダーツアプリのソフトウェア開発",
+      "category": "エンジニアリング",
+      "summary": "GHOST NOTE社がダーツアレンジ管理アプリを開発。コミュニティイベントで活用され、趣味とビジネスの融合が進む。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-04-23T15:50:52.446Z"
+    },
+    {
+      "id": "trend-1776959452446-8",
+      "topic": "AI時代マーケティングの再定義",
+      "category": "マーケティング",
+      "summary": "AIが意思決定を担う時代にマーケティングの必要性を議論。人間の洞察とAIの組み合わせが新たな戦略を生む。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-23T15:50:52.446Z"
+    },
+    {
+      "id": "trend-1776959452446-9",
+      "topic": "経営戦略論の進化",
+      "category": "M&A・事業承継",
+      "summary": "マイケル・ポーター以降の経営戦略を紀元前から概観。M&Aや事業承継の文脈で外部・内部環境分析が進化する理論トレンド。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-04-23T15:50:52.446Z"
+    }
+  ]
+}
