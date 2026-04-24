@@ -1,0 +1,95 @@
+{
+  "collected_at": "2026-04-24T13:19:20.032Z",
+  "trends": [
+    {
+      "id": "trend-1777036760032-0",
+      "topic": "CanvaのAIデザイン機能進化",
+      "category": "AI・LLM",
+      "summary": "Canvaで画像自動生成、ショート動画テンプレ、AIコピー生成が可能に。SNS投稿テンプレ活用で副業デザインが外注ゼロで実現。デザイン苦手が言い訳にならない時代到来。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-24T13:19:20.032Z"
+    },
+    {
+      "id": "trend-1777036760032-1",
+      "topic": "AIツール組み合わせでMV作成",
+      "category": "AI・LLM",
+      "summary": "GPT-Image2で画像、Seedance2.0で動画、Suno5.5で音楽、CapCutで編集のAIコンボで1時間でMV完成。頭の中のアイデアを即形にできるエモ系コンテンツ生成が容易に。",
+      "relevance_score": 0.95,
+      "source": "x",
+      "collected_at": "2026-04-24T13:19:20.032Z"
+    },
+    {
+      "id": "trend-1777036760032-2",
+      "topic": "小規模事業者の人手不足と倒産増加",
+      "category": "スモールビジネス",
+      "summary": "人手不足による倒産が過去最多。インフレで小規模事業者が淘汰され、包装資材仕入れ難や事業者辞職増加。構造改革として捉える声も。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-04-24T13:19:20.032Z"
+    },
+    {
+      "id": "trend-1777036760032-3",
+      "topic": "小規模事業者持続化補助金の活用",
+      "category": "スモールビジネス",
+      "summary": "半年に1度の小規模事業者持続化補助金募集。専門家支援で申請を。DXや人手不足対策に有効で、経営安定化を図るチャンス。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-04-24T13:19:20.032Z"
+    },
+    {
+      "id": "trend-1777036760032-4",
+      "topic": "海外EC M&Aの最新動向",
+      "category": "M&A・事業承継",
+      "summary": "中国JD.comのCeconomy買収をEUが審査中。EC分野のM&A活発化で、成長型EXIT戦略が注目。小規模事業者の事業承継に参考に。",
+      "relevance_score": 0.75,
+      "source": "x",
+      "collected_at": "2026-04-24T13:19:20.032Z"
+    },
+    {
+      "id": "trend-1777036760032-5",
+      "topic": "訪問看護の小規模事業所課題",
+      "category": "M&A・事業承継",
+      "summary": "訪問看護の人手不足深刻。小規模事業所は採用力・福利厚生不足で負担大。事業承継時の退職金問題も。M&A検討のきっかけに。",
+      "relevance_score": 0.7,
+      "source": "x",
+      "collected_at": "2026-04-24T13:19:20.032Z"
+    },
+    {
+      "id": "trend-1777036760032-6",
+      "topic": "AI駆動開発ツールの比較",
+      "category": "エンジニアリング",
+      "summary": "ClaudeCodeよりCodexが得意なAI駆動開発。プラットフォーム依存避け設計重要。エンジニアの作業効率化が進むが、戦略的思考必要。",
+      "relevance_score": 0.9,
+      "source": "x",
+      "collected_at": "2026-04-24T13:19:20.032Z"
+    },
+    {
+      "id": "trend-1777036760032-7",
+      "topic": "エンジニア職の将来性低下",
+      "category": "エンジニアリング",
+      "summary": "AIエージェントがプロダクト設計担う時代。エンジニア全体数減少し、目的意識ある人材のみ存続。HCIや多言語LLMに興味持つ若手増加。",
+      "relevance_score": 0.85,
+      "source": "x",
+      "collected_at": "2026-04-24T13:19:20.032Z"
+    },
+    {
+      "id": "trend-1777036760032-8",
+      "topic": "AIインフルエンサー選定の効率化",
+      "category": "マーケティング",
+      "summary": "AIで応募者選定工数70%削減。クリエイティブ戦略は人間必要だが、マーケティング担当の役割シフト。インフルエンサーキャスティング革命。",
+      "relevance_score": 0.95,
+      "source": "x",
+      "collected_at": "2026-04-24T13:19:20.032Z"
+    },
+    {
+      "id": "trend-1777036760032-9",
+      "topic": "Geminiのスライド生成機能",
+      "category": "マーケティング",
+      "summary": "Geminiで参考スライド指定しスタイル維持したプレゼン作成。1枚ずつ生成だが、マーケティング資料効率化に寄与。複数枚対応望む声。",
+      "relevance_score": 0.8,
+      "source": "x",
+      "collected_at": "2026-04-24T13:19:20.032Z"
+    }
+  ]
+}
