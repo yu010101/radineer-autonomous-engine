@@ -332,8 +332,17 @@
         "x_posts": []
       },
       "collected_at": "2026-04-25T14:00:20.337Z"
+    },
+    {
+      "date": "2026-04-26",
+      "performance": {
+        "date": "2026-04-26",
+        "note_articles": [],
+        "x_posts": []
+      },
+      "collected_at": "2026-04-26T14:01:32.480Z"
     }
   ],
-  "last_updated": "2026-04-25T14:00:20.337Z",
+  "last_updated": "2026-04-26T14:01:32.480Z",
   "version": 1
 }
