@@ -773,8 +773,17 @@
         "x_posts": []
       },
       "collected_at": "2026-06-14T15:05:21.338Z"
+    },
+    {
+      "date": "2026-06-15",
+      "performance": {
+        "date": "2026-06-15",
+        "note_articles": [],
+        "x_posts": []
+      },
+      "collected_at": "2026-06-15T17:59:09.289Z"
     }
   ],
-  "last_updated": "2026-06-14T15:05:21.338Z",
+  "last_updated": "2026-06-15T17:59:09.289Z",
   "version": 1
 }
