@@ -1277,8 +1277,17 @@
         "x_posts": []
       },
       "collected_at": "2026-08-09T13:42:48.979Z"
+    },
+    {
+      "date": "2026-08-10",
+      "performance": {
+        "date": "2026-08-10",
+        "note_articles": [],
+        "x_posts": []
+      },
+      "collected_at": "2026-08-10T14:16:10.237Z"
     }
   ],
-  "last_updated": "2026-08-09T13:42:48.979Z",
+  "last_updated": "2026-08-10T14:16:10.237Z",
   "version": 1
 }
