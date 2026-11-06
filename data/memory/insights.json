@@ -1961,8 +1961,17 @@
         "x_posts": []
       },
       "collected_at": "2026-11-05T20:25:43.911Z"
+    },
+    {
+      "date": "2026-11-06",
+      "performance": {
+        "date": "2026-11-06",
+        "note_articles": [],
+        "x_posts": []
+      },
+      "collected_at": "2026-11-06T19:47:26.677Z"
     }
   ],
-  "last_updated": "2026-11-05T20:25:43.911Z",
+  "last_updated": "2026-11-06T19:47:26.677Z",
   "version": 1
 }
