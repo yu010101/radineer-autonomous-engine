@@ -1997,8 +1997,17 @@
         "x_posts": []
       },
       "collected_at": "2026-11-09T22:49:05.855Z"
+    },
+    {
+      "date": "2026-11-10",
+      "performance": {
+        "date": "2026-11-10",
+        "note_articles": [],
+        "x_posts": []
+      },
+      "collected_at": "2026-11-10T20:08:29.673Z"
     }
   ],
-  "last_updated": "2026-11-09T22:49:05.855Z",
+  "last_updated": "2026-11-10T20:08:29.673Z",
   "version": 1
 }
