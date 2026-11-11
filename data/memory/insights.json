@@ -2006,8 +2006,17 @@
         "x_posts": []
       },
       "collected_at": "2026-11-10T20:08:29.673Z"
+    },
+    {
+      "date": "2026-11-11",
+      "performance": {
+        "date": "2026-11-11",
+        "note_articles": [],
+        "x_posts": []
+      },
+      "collected_at": "2026-11-11T19:56:31.985Z"
     }
   ],
-  "last_updated": "2026-11-10T20:08:29.673Z",
+  "last_updated": "2026-11-11T19:56:31.985Z",
   "version": 1
 }
