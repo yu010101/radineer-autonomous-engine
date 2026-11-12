@@ -2015,8 +2015,17 @@
         "x_posts": []
       },
       "collected_at": "2026-11-11T19:56:31.985Z"
+    },
+    {
+      "date": "2026-11-12",
+      "performance": {
+        "date": "2026-11-12",
+        "note_articles": [],
+        "x_posts": []
+      },
+      "collected_at": "2026-11-12T20:36:00.855Z"
     }
   ],
-  "last_updated": "2026-11-11T19:56:31.985Z",
+  "last_updated": "2026-11-12T20:36:00.855Z",
   "version": 1
 }
