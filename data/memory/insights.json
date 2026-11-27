@@ -2150,8 +2150,17 @@
         "x_posts": []
       },
       "collected_at": "2026-11-26T22:02:45.271Z"
+    },
+    {
+      "date": "2026-11-27",
+      "performance": {
+        "date": "2026-11-27",
+        "note_articles": [],
+        "x_posts": []
+      },
+      "collected_at": "2026-11-27T21:45:36.561Z"
     }
   ],
-  "last_updated": "2026-11-26T22:02:45.271Z",
+  "last_updated": "2026-11-27T21:45:36.561Z",
   "version": 1
 }
